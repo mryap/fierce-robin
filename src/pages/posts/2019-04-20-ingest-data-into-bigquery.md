@@ -3,8 +3,6 @@ title: Ingesting New Datasets into BigQuery
 date: 2019-04-20 
 description: What I learn from created a new dataset and ingested new external data sources into BigQuery from CSV, Google Cloud Storage, and Google Drive.
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
-categories:
--  BigQuery
 template: post
 ---
 

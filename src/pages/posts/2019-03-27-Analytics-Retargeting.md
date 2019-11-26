@@ -3,8 +3,7 @@ title: Power of Analytics Remarketing
 date: 2019-03-27 
 description: In the context of Paid Acquisition, remarketing means being able to interact with those who have already experienced your site.  
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
-categories:
--  Retargeting
+template: post
 ---
 
 People don’t commit when they first click on a PPC Ads. To keep your value proposition continuously at the front and center in the minds of your customers, remarketing is essential. 

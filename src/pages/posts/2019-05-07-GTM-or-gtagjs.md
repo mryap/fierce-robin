@@ -3,8 +3,7 @@ title: Google Tag Manager (GTM) or Global Site Tag (gtag.js)?
 date: 2019-05-07 
 description: Google Tag Manager (GTM) or Global Site Tag (gtag.js)? 
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
-categories:
--  GTM
+template: post
 ---
 
 Google Tag Manager is a robust and full-featured tag management system, which supports Google and 3rd party tags(Facebook conversion pixels or heatmapping tool tags). 

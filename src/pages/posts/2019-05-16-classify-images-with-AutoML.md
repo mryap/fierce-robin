@@ -2,8 +2,6 @@
 title: Classify Images with AutoML Vision
 date: 2019-05-16 
 description:  Classify Images of Clouds in the Cloud with AutoML Vision
-categories:
--  GCP AutoML
 template: post
 ---
 

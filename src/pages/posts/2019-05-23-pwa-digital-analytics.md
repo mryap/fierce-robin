@@ -3,8 +3,6 @@ title: Implications of PWAs for digital analytics
 date: 2019-05-21
 description:  Using Google Analytics and Google’s workbox library for PWA
 image: "https://media.licdn.com/dms/image/C5612AQENkOHOOUZLWg/article-cover_image-shrink_720_1280/0?e=1564012800&v=beta&t=iPU8ADDXPmUsIIQBzlmnm_aWOMHGncx6tzSUQKwQLqg"
-categories:
--  PWA
 template: post
 ---
 

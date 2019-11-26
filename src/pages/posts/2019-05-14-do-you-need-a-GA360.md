@@ -3,8 +3,6 @@ title: You don't need a GA360 - just someone to implement the features.
 date: 2019-05-14 
 description: You don't need a GA360 license - just someone to implement the features.
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
-categories:
--  Google Analytics
 template: post
 ---
 
