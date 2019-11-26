@@ -1,6 +1,6 @@
 {
-  "title": "Stackbit Azimuth Theme",
-  "palette": "blue",
+  "title": "Test & Optimize",
+  "palette": "orange",
   "header": {
     "title": "Test & Optimize",
     "logo_img": "/images/identicon.png",
@@ -16,10 +16,10 @@
   },
   "footer": {
     "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_content": "Stay up to date with what I am up to",
     "has_subscribe": true,
-    "social_title": "Community",
-    "tagline": "Get Validated Insight",
+    "social_title": "Let Connect",
+    "tagline": "Get Validated Insight with A/B testing",
     "logo_img": "/images/identicon.png",
     "has_social": true,
     "content": "&copy; Test & Optimize. All rights reserved.",
