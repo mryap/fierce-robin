@@ -60,17 +60,15 @@ sections:
           The notion of doing a quick test, solves umpteen meetings’ worth of
           powerful debate and logical argument. 
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    title: Testimonials
+    subtitle: ''
+    title: View on A/B testing
     type: section_reviews
   - actions:
       - label: Get Started
         url: /signup
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Minimal Support require from IT and your designer
+    title: Turn clicks into profit. Don't leave money on the table. Test & Optimize
     type: section_cta
   - bg: gray
     section_id: recent-posts
