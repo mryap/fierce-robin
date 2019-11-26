@@ -42,15 +42,15 @@ sections:
   - bg: white
     reviews:
       - author: 'Jeff Bezos, Amazon'
-        avatar: images/review1.jpg
+        avatar: ''
         content: >-
           If you double the number of experiments you do per year you’re going
           to double your inventiveness
       - author: Econsultancy 2017 CRO Report
-        avatar: images/review2.jpg
+        avatar: ''
         content: 95% of marketers recognize A/B testing has value for their business
       - author: 'Stephen Kaufer, CEO of TripAdvisor'
-        avatar: images/review3.jpg
+        avatar: ''
         content: >-
           The notion of doing a quick test, solves umpteen meetings’ worth of
           powerful debate and logical argument. 
@@ -62,8 +62,8 @@ sections:
       - label: Get Started
         url: /signup
     section_id: call-to-action
-    subtitle: Minimal Support require from IT and your designer
-    title: Turn clicks into profit. Don't leave money on the table. Test & Optimize
+    subtitle: Minimal Support require from IT and designer
+    title: Don't leave money on the table. Test & Optimize
     type: section_cta
   - bg: gray
     section_id: recent-posts
