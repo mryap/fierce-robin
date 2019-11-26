@@ -14,30 +14,25 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "\rI look at your entire marketing funnel – your whole platform, online and off-line – before and after people land on a website.\r\n\n\rThey are part of your process, and they all feed into your bottom line.\r\n\n\rWhen we talk conversion with clients, we are paying attention to their entire business so we don’t miss something important that could lead to huge boosts in income or devastating losses"
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Holistic View
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          It’s important to select the right kind of test, and determine which
+          testing approach is right for you.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: 'Select the right test method '
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          With my statistics background, I can say with certainty the outcome of
+          the A/B test is not due to coincidence.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: 'Confidence in your tests '
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
