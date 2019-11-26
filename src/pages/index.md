@@ -7,7 +7,7 @@ sections:
     content: Turn clicks into profits from existing traffic
     image: images/hero.png
     section_id: hero
-    title: ''
+    title: Get Validated Insight with A/B Testing
     type: section_hero
   - bg: gray
     featureslist:
