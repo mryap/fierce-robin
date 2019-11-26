@@ -1,6 +1,6 @@
 ---
 title: How to go about updating and tweaking your website?
-date: 2019-11-26T12:18:28.424Z
+date: 2017-04-28T11:18:28.424Z
 template: post
 ---
 I got this question from a client. This is what I answered.
