@@ -1,6 +1,6 @@
 ---
 title: Speed Matters on Mobile
-date: 2019-11-26T12:15:20.028Z
+date: 2018-07-07T11:15:20.028Z
 excerpt: You have 3 seconds or less to make an impact on Mobile.
 template: post
 ---
