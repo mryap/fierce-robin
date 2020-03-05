@@ -62,15 +62,15 @@ sections:
     title: View on A/B testing
     type: section_reviews
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Let Get Started
+        url: /contact
     section_id: call-to-action
     subtitle: Minimal Support require from IT and designer
-    title: Don't leave money on the table. Test & Optimize
+    title: 'Don''t leave money on the table. Test, Learn & Apply'
     type: section_cta
   - bg: gray
     section_id: recent-posts
-    title: Latest Posts
+    title: Recent Posts
     type: section_posts
 menus:
   main:
