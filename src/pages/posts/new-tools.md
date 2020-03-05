@@ -9,4 +9,10 @@ Donorbox is a fundraising software that is simple to set up and attracts more re
 
 https://donorbox.org/?utm_source=Poweredby
 
+<!--StartFragment-->
+
+It FREE if you collect less than $1,000 in a month
+
+<!--EndFragment-->
+
 <!--EndFragment-->
