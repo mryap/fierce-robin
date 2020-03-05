@@ -1,9 +1,10 @@
 ---
 title: Metrics for decision making in product development
-date: 2017-11-14T17:23:58.000Z
-excerpt: >-
+subtitle: >-
   This framework measure the user experience of your product that map closely to
   goals of your product or project
+date: 2017-11-14T17:23:58.000Z
+excerpt: ''
 template: post
 ---
 Google's HEART framework for user-centered metrics measure different parts of the product life cycle.
