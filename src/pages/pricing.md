@@ -20,7 +20,7 @@ sections:
           <!--EndFragment-->
         actions:
           - label: Let Get Down to Business
-            url: /signup
+            url: /contact
       - title: Four test Per month
         price: $1349
         details: >-
@@ -39,7 +39,7 @@ sections:
         highlight: true
         actions:
           - label: Let Keep Going
-            url: /signup
+            url: /contact
       - title: White Label
         price: $?
         details: >-
@@ -52,7 +52,7 @@ sections:
 
           <!--EndFragment-->
         actions:
-          - label: Order Now
+          - label: Let Collaborate
             url: /signup
   - type: section_faq
     section_id: faq
