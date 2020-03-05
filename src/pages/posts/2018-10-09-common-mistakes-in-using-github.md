@@ -6,8 +6,6 @@ date: '2018-10-09 13:11'
 template: post
 ---
 
-
-
 Some of the mistakes when I encounter using Git and GitHub for the first time
 
 ## Git push requires username and password
@@ -23,11 +21,10 @@ A common mistake is cloning using the default (HTTPS) instead of SSH. You can co
 ### Using HTTPS
 
 If you're cloning GitHub repositories using HTTPS, you can use a credential helper to tell Git to remember your GitHub username and password every time it talks to GitHub.
-
-
-
+```
 `$ git config credential.helper store`
 `$ git push https://github.com/repo.git`
 
 Username for 'https://github.com': <USERNAME>`
 Password for 'https://USERNAME@github.com': <PASSWORD>`
+```
