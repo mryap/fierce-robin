@@ -45,27 +45,48 @@ sections:
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     bg: gray
     faqitems:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: What is Conversion?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
+          <!--StartFragment-->
+
+
+          A desired action taking place on your customer touchpoint (i.e.
+          website) —a click, or registration, or product action, for instance.
+
+
+          <!--EndFragment-->
+      - question: What is A/B Testing?
         answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+          <!--StartFragment-->
+
+
+          A/B testing is a way to test changes to your page against the current
+          design and determine which ones produce positive results. 
+
+
+          It is a method to validate that any new design or change to an element
+          on your web pages or mobile apps is improving your conversion rate. 
+
+
+          It is the assumption that you have never reached the ‘best’ version of
+          your website, mobile app, or product, and that the best method of
+          learning about your customers is through iterative testing and
+          experimentation.
+
+
+          <!--EndFragment-->
+      - question: 'What are hypothesis? '
         answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+          <!--StartFragment-->
+
+
+          Hypotheses are statements, not open-ended questions. They address a
+          question with a proposed solution. Crafting a hypothesis to address an
+          open question or problem on your website enforces a well-rationalized,
+          thoughtful proposal for how to address that problem.
+
+
+          <!--EndFragment-->
 menus:
   main:
     title: Pricing
