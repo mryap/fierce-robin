@@ -6,7 +6,12 @@
     "logo_img": "",
     "has_nav": false,
     "menu": {
-      "actions": []
+      "actions": [
+        {
+          "label": "Contact",
+          "url": "/contact"
+        }
+      ]
     }
   },
   "footer": {
@@ -15,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Let Connect",
     "tagline": "Test & Optimize - Get Validated Insight with A/B testing",
-    "logo_img": "",
+    "logo_img": "/images/hero.png",
     "has_social": true,
     "content": "&copy; Test & Optimize. All rights reserved.",
     "links": [],
