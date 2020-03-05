@@ -3,7 +3,7 @@
   "palette": "green",
   "header": {
     "title": "Test & Optimize",
-    "logo_img": "/images/hero.png",
+    "logo_img": "",
     "has_nav": true,
     "menu": {
       "actions": [
