@@ -40,7 +40,7 @@ sections:
         title: 'Confidence in your tests '
     section_id: features
     subtitle: ''
-    title: Features
+    title: ''
     type: section_features
   - bg: white
     reviews:
