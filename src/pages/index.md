@@ -11,32 +11,35 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
-      - actions:
-          - label: Learn More
-            url: /features
-        content: "\rI look at your entire marketing funnel – your whole platform, online and off-line – before and after people land on a website.\r\n\n\rThey are part of your process, and they all feed into your bottom line.\r\n\n\rWhen we talk conversion with clients, we are paying attention to their entire business so we don’t miss something important that could lead to huge boosts in income or devastating losses"
+      - actions: []
+        content: >-
+          I look at your entire marketing funnel – your whole platform, online
+          and off-line – before and after people land on a website.
+
+
+          They are part of your process, and they all feed into your bottom
+          line.
+
+
+          When we talk conversion, we are paying attention to your entire
+          business so we don’t miss something important that could lead to huge
+          boosts in income or devastating losses
         image: images/feature1.png
         title: Holistic View
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           It’s important to select the right kind of test, and determine which
-          testing approach is right for you.
+          testing approach is right for your business models.
         image: images/feature2.png
         title: 'Select the right test method '
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           With my statistics background, I can say with certainty the outcome of
           the A/B test is not due to coincidence.
         image: images/feature3.png
         title: 'Confidence in your tests '
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     title: Features
     type: section_features
   - bg: white
@@ -75,4 +78,3 @@ menus:
     weight: 1
 template: landing
 ---
-
