@@ -7,35 +7,50 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     bg: gray
     pricingplans:
-      - title: Basic
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+      - title: First Test
+        price: $585
+        details: >-
+          <!--StartFragment-->
+
+
+          An opportunity to find out whether A/B test works for your
+          organization.
+
+
+          <!--EndFragment-->
         actions:
-          - label: Order Now
+          - label: Let Get Down to Business
             url: /signup
-      - title: Professional
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+      - title: Four test Per month
+        price: $1349
+        details: >-
+          <!--StartFragment-->
+
+
+          Econsultancy found that 83% of companies testing frequently (at least
+          3 tests per month) see improvements in their conversion rates.
+
+
+          If you’re running fewer tests than that, you’re leaving money on the
+          table.
+
+
+          <!--EndFragment-->
         highlight: true
         actions:
-          - label: Order Now
+          - label: Let Keep Going
             url: /signup
-      - title: Enterprise
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+      - title: White Label
+        price: $?
+        details: >-
+          <!--StartFragment-->
+
+
+          I do the work, your agency get the credit in your name. Expand your
+          services.
+
+
+          <!--EndFragment-->
         actions:
           - label: Order Now
             url: /signup
