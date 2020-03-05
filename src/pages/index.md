@@ -5,7 +5,7 @@ sections:
       - label: Learn More
         url: /features
     content: Turn clicks into profits from existing traffic
-    image: /images/chaplin-hero-1980x1760.png
+    image: /images/hero.png
     section_id: hero
     title: Get Validated Insight with A/B Testing
     type: section_hero
