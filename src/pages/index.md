@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /features
+  - actions: []
     content: Turn clicks into profits from existing traffic
     image: /images/hero.png
     section_id: hero
