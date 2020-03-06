@@ -38,7 +38,7 @@ sections:
         title: 'Confidence in your tests '
     section_id: features
     subtitle: ''
-    title: ''
+    title: 'Test, Learn, Apply'
     type: section_features
   - bg: white
     reviews:
