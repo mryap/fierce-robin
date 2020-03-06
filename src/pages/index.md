@@ -57,14 +57,14 @@ sections:
           powerful debate and logical argument. 
     section_id: reviews
     subtitle: ''
-    title: View on A/B testing
+    title: Don't leave money on the table.
     type: section_reviews
   - actions:
       - label: Let Get Started
         url: /contact
     section_id: call-to-action
     subtitle: Minimal Support require from IT and designer
-    title: 'Don''t leave money on the table. Test, Learn & Apply'
+    title: 'Test, Learn & Apply'
     type: section_cta
   - bg: gray
     section_id: recent-posts
