@@ -7,7 +7,7 @@ img_path: images/11.jpg
 menus:
   secondary:
     title: ''
-    weight: 2
+    weight: ''
 template: page
 ---
 
