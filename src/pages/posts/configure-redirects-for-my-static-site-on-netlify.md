@@ -27,3 +27,5 @@ The code are here
 ```
 
 The redirect from subdomain on netlify (hireyap.netlify.com) to my own Custom Domains. (www.testandoptimize.com) took about 16 hours. 
+
+I doing this as people typing https://www.testandoptimize.com/ in search engine might click on the first result which I do not want visitors to go to. 
