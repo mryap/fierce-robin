@@ -3,35 +3,8 @@ title: 'CRO '
 sections:
   - type: section_hero
     title: Turn Clicks into Profits
-    content: Gain validated insight with CRO
+    content: Gain validated insight with Conversion Rate Optimization
     image: ''
-  - type: section_posts
-    bg: gray
-    title: My latest blog on CRO
-  - type: section_contact
-    bg: white
-    title: Contact Me Now
-    content: >-
-      Don't leave money on the table. 
-
-
-      <!--StartFragment-->
-
-
-      You’ll benefit from my service if:
-
-
-      • You’re already capturing and reporting on data regularly internally\
-
-      • You have a team or company culture that is open to experimentation\
-
-      • You’re looking for methods to turn your company data into action\
-
-      • You’re looking to get more meaningful ‘wins’ from your optimization
-      strategy
-
-
-      <!--EndFragment-->
   - type: section_faq
     bg: gray
     faqitems:
@@ -59,5 +32,32 @@ sections:
           learning about your customers is through iterative testing and
           experimentation.
         question: WHat is A/B Testing
+  - type: section_contact
+    bg: white
+    title: Contact Me Now
+    content: >-
+      Don't leave money on the table. 
+
+
+      <!--StartFragment-->
+
+
+      You’ll benefit from my service if:
+
+
+      • You’re already capturing and reporting on data regularly internally\
+
+      • You have a team or company culture that is open to experimentation\
+
+      • You’re looking for methods to turn your company data into action\
+
+      • You’re looking to get more meaningful ‘wins’ from your optimization
+      strategy
+
+
+      <!--EndFragment-->
+  - type: section_posts
+    bg: gray
+    title: My latest blog on CRO
 template: landing
 ---
