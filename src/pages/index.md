@@ -59,17 +59,6 @@ sections:
     subtitle: ''
     title: Don't leave money on the table.
     type: section_reviews
-  - actions:
-      - label: Let Get Started
-        url: /contact
-    section_id: call-to-action
-    subtitle: Minimal Support require from IT and designer
-    title: 'Test, Learn & Apply'
-    type: section_cta
-  - bg: gray
-    section_id: recent-posts
-    title: Recent Posts
-    type: section_posts
   - type: section_faq
     bg: gray
     title: 'Frequently Asked Questions  '
@@ -93,6 +82,17 @@ sections:
           your website, mobile app, or product, and that the best method of
           learning about your customers is through iterative testing and
           experimentation.
+  - actions:
+      - label: Let Get Started
+        url: /contact
+    section_id: call-to-action
+    subtitle: Minimal Support require from IT and designer
+    title: 'Test, Learn & Apply'
+    type: section_cta
+  - bg: gray
+    section_id: recent-posts
+    title: Recent Posts
+    type: section_posts
 menus:
   main:
     title: Home
