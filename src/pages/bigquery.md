@@ -3,7 +3,7 @@ title: BigQuery
 sections:
   - type: section_content
     section_id: bigquery
-    title: The Best Features of Your Services
+    title: From Data to Insights with BigQuery
     content: >-
       <!--StartFragment-->
 
@@ -16,10 +16,8 @@ sections:
     image: /images/bigquery-google-data-warehouse-solution.png
     bg: gray
     actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
+      - label: Find Out More
+        url: contact
   - type: section_cta
     section_id: call-to-action
     title: This Is Call to Action Block!
