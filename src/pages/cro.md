@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     title: Turn Clicks into Profits
     content: Gain validated insight with Conversion Rate Optimization
-    image: ''
+    image: /images/qfdudw6_dp6dvmnlqvby1ooeo-2dqkpqh1byudcemii-.jpg
   - type: section_faq
     bg: gray
     faqitems:
@@ -59,5 +59,11 @@ sections:
   - type: section_posts
     bg: gray
     title: My latest blog on CRO
+  - type: section_features
+    bg: gray
+    title: 'Test, Learn, Apply '
+    subtitle: Using Data you already have
+    featureslist:
+      - {}
 template: landing
 ---
