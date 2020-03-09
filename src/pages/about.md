@@ -14,7 +14,7 @@ template: page
 
 Use my diverse skills, knowledge and experience as Digital Web Analyst, WordPress Developer, Online Marketing Assistant and Webmaster to help organisations to build online success with Digital Analytics and Conversion Optimization.
 
-I have over 10-years experience in the internet industry. In my various role, I have worked with a diverse range of companies on internet-related projects with emphasis on developing websites and managing online marketing activities.
+I have <mark>10-years experience</mark> in the internet industry. In my various role, I have worked with a diverse range of companies on internet-related projects with emphasis on developing websites and managing online marketing activities.
 
 <!--EndFragment-->
 
@@ -39,9 +39,10 @@ Here are some career highlights
 * Worked with marketing department successfully revamped university website based on new design template. Championed and educated the use of Google Analytics throughout school department. Designed web and email newsletter templates for department user based on university branding guidelines using HTML, CSS.
 * Work with Product Executive to edit, and maintain internal and external product documentation for worldwide technical audience online
 * In-charged of inputting seller and buyer policies for Hong Kong and Singapore eBay. Create and modify content using eBay's in-house XML content framework ensuring content and formatting is consistent with the source documents.
-* Revamping Intranet and Internet running on Oracle system, responsible for front-­end design**.**Liaison with respective departments on web content publication
+* Revamping Intranet and Internet running on Oracle system, responsible for front-­end design. Liaise with respective departments on web content publication
 * Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking, and produce post-campaigns analysis and reporting using DART for Publishers (DFP) covering the APAC region
 * In-charged of web designing, updating and maintenance of clients’ website using HTML/CSS, JavaScript coding and Photoshop
 
 <!--EndFragment-->
+
 
