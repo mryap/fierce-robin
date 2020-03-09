@@ -15,4 +15,15 @@ I decide to use own domain for the Netlify site. Known as Custom domains, it all
 
 The way it works involve the process of editing the Redirect rules on Netlify configuration file - netlify.toml file , push (upload) to Github and revisit the site the next day. 
 
+The code are here
+
+```
+[[redirects]]
+  from = "/"
+  to = "https://www.testandoptimize.com/"
+  status = 301
+  force = true
+  headers = {X-From = "Netlify"}
+```
+
 The redirect from subdomain on netlify (hireyap.netlify.com) to my own Custom Domains. (www.testandoptimize.com) took about 16 hours. 
