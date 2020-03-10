@@ -26,3 +26,6 @@ how to define your own functions in R and in Python:
 # Create a user-defined function in R:
 square_number <- function(base){         square <- base*base         return(square)}# Calling a user-defined function in Rsquare_number(5)
 ```
+```
+# Create a user-defined function in Python:def square_number(base):      square = base*base      return(square)# Calling a user-defined function in Python:x_square = square_number(5)
+```
