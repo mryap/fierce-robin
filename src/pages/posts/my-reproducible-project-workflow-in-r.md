@@ -1,5 +1,5 @@
 ---
-title: My Reproducible project workflow in R
+title: My Reproducible project workflow
 date: 2020-03-10T10:13:37.014Z
 template: post
 ---
@@ -13,7 +13,16 @@ Choose filenames so that alphabetical sorting will organise types of files for y
 
 Avoid using absolute paths and use only relative paths. An absolute path is one that gives the full address to a folder or file. A relative path gives the location of the file from the current working directory. 
 For example:
+```
 # Absolute path -----------------------------“C:/project_root_folder/data/species_dat.csv”
 # Relative path ------“data/species_dat.csv”
-
+```
 When working in R, RStudio projects can help aid portability of code. RStudio projects provide a self-contained coding environment to work in, and when opened, a .Rproj file sets the project working directory and saves the history and state of the project. RStudio projects can be created directly from the RStudio GUI and can be created in an existing folder, a new empty folder, or checked out from a version control repository (
+
+### Writing functions
+
+how to define your own functions in R and in Python:
+```
+# Create a user-defined function in R:
+square_number <- function(base){         square <- base*base         return(square)}# Calling a user-defined function in Rsquare_number(5)
+```
