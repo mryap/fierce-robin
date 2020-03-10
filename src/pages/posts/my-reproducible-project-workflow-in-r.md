@@ -27,5 +27,11 @@ how to define your own functions in R and in Python:
 square_number <- function(base){         square <- base*base         return(square)}# Calling a user-defined function in Rsquare_number(5)
 ```
 ```
-# Create a user-defined function in Python:def square_number(base):      square = base*base      return(square)# Calling a user-defined function in Python:x_square = square_number(5)
+# Create a user-defined function in Python:
+def square_number(base):      
+square = base*base      return(square)
+# Calling a user-defined function in Python:
+x_square = square_number(5)
 ```
+### Show the packages used
+With R, the simplest (but a useful and important) approach to document your dependencies is to report the output of `sessionInfo()` (or `devtools::session_info())`. Among other information, this will show all the packages and their versions that are loaded in the session you used to run your analysis. If someone wants to recreate your analysis, they will know which packages they will need to install.
