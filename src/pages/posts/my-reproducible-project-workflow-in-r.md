@@ -54,7 +54,13 @@ how to define your own functions in R and in Python:
 
 ```
 # Create a user-defined function in R:
-square_number <- function(base){         square <- base*base         return(square)}# Calling a user-defined function in Rsquare_number(5)
+square_number <- function(base){         
+  square <- base*base         
+ return(square)
+}
+
+# Calling a user-defined function in R
+square_number(5)
 ```
 
 ```python
