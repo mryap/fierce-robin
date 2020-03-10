@@ -3,6 +3,15 @@ title: My Reproducible project workflow
 date: 2020-03-10T10:13:37.014Z
 template: post
 ---
+I will first 
+- introduces ways to organise files on your computer and to document your workflows.
+- how to make your code more reproducible and readable
+- how to write reproducible reports.
+- the basics of version control.
+-  how to archive your code. 
+
+
+
 ### Organising projects for reproducibility
 
 I embrace a one folder = one project mentality. Rstudio's "R projects" are excellent for encouraging this. This habit enables easy communication with other project stakeholders and for that reason it is so important.
