@@ -34,7 +34,7 @@ sections:
         content: >-
           With my statistics background, I can say with certainty the outcome of
           the A/B test is not due to coincidence.
-        image: images/feature3.png
+        image: /images/annotation-2020-03-11-232904.png
         title: 'Confidence in your tests '
     section_id: features
     subtitle: ''
