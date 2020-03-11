@@ -7,7 +7,7 @@ sections:
     section_id: hero
     title: Get Validated Insight with A/B Testing
     type: section_hero
-  - bg: gray
+  - bg: white
     featureslist:
       - actions: []
         content: >-
