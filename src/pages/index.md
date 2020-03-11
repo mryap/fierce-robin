@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions: []
     content: Turn clicks into profits from existing traffic
-    image: /images/hero.png
+    image: /images/xhero.png
     section_id: hero
     title: Get Validated Insight with A/B Testing
     type: section_hero
