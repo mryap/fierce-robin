@@ -87,6 +87,15 @@ sections:
           your website, mobile app, or product, and that the best method of
           learning about your customers is through iterative testing and
           experimentation.
+      - answer: >-
+          Hypotheses are statements, not open-ended questions. They address a
+          question with a proposed solution. 
+
+
+          Crafting a hypothesis to address an open question or problem on your
+          website enforces a well-rationalized, thoughtful proposal for how to
+          address that problem.
+        question: What are Hypotheses?
   - actions:
       - label: Let Get Started
         url: /contact
