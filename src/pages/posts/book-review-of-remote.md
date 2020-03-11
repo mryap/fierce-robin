@@ -1,5 +1,6 @@
 ---
 title: Book Review of Remote
+subtitle: 'Updated: 11th March 2020 '
 date: 2018-08-09T12:20:48.204Z
 template: post
 ---
@@ -23,6 +24,6 @@ To quote Richard Benson
 > To successfully work with other people, you have to trust each other. A big part of this is trusting people to get their work done wherever they are, without supervision.
 >
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Working remotely is not buying Zoom and filling your time with video conferences. Proper remote working requires a shift in mindset, a dissolution of fear of the unknown, and putting trust in your people. Learn how to do it right: <a href="https://t.co/oTfSg2IiET">https://t.co/oTfSg2IiET</a></p>&mdash; Jason Fried (@jasonfried) <a href="https://twitter.com/jasonfried/status/1237775045688283136?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 First published on [Medium](https://medium.com/@mryap/book-review-of-remote-f0964ff76452) 
