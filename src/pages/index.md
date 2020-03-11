@@ -28,7 +28,7 @@ sections:
         content: >-
           It’s important to select the right kind of test, and determine which
           testing approach is right for your business models.
-        image: images/feature2.png
+        image: /images/optimize-smb-benefit_2x.jpg
         title: 'Select the right test method '
       - actions: []
         content: >-
