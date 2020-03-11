@@ -67,7 +67,12 @@ sections:
       - question: What is Conversion
         answer: >-
           A desired action taking place on your customer touchpoint (i.e.
-          website) —a click, or registration, or product action, for instance.
+          website) — a click, or registration, or product action, for instance.
+
+
+          A conversion occurs when a user completes an  action on your site that
+          you consider to be valuable.  This can include a purchase, a file
+          download, or a  request for additional information.
       - question: What is A/B Testing?
         answer: >-
           A/B testing is a way to test changes to your page against the current
