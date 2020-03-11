@@ -22,7 +22,7 @@ sections:
           When we talk conversion, we are paying attention to your entire
           business so we don’t miss something important that could lead to huge
           boosts in income or devastating losses
-        image: images/feature1.png
+        image: /images/es3h7gfxkaatyv7.png
         title: Holistic View
       - actions: []
         content: >-
