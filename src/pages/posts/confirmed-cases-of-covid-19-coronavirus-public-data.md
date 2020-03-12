@@ -4,7 +4,7 @@ subtitle: 'Source: John Hopkins / Data refreshed every 4 hours '
 date: 2020-03-12T09:12:48.487Z
 template: post
 ---
-<iframe width="790" height="650" src="https://datastudio.google.com/embed/reporting/2e668053-db4c-4b7b-8a5a-f0ef65def24f/page/wzIIB" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="1519" height="1140" src="https://datastudio.google.com/embed/reporting/2e668053-db4c-4b7b-8a5a-f0ef65def24f/page/wzIIB" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 
