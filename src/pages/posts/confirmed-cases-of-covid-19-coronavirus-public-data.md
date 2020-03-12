@@ -4,9 +4,11 @@ subtitle: 'Source: John Hopkins / Data refreshed every 4 hours '
 date: 2020-03-12T09:12:48.487Z
 template: post
 ---
-<iframe width="1200" height="900" src="https://datastudio.google.com/embed/reporting/2e668053-db4c-4b7b-8a5a-f0ef65def24f/page/wzIIB" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="1200" height="680" src="https://datastudio.google.com/embed/reporting/2e668053-db4c-4b7b-8a5a-f0ef65def24f/page/wzIIB" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
+
+OR click link below to view the data visualization in a seperate page 
 
 <!--StartFragment-->
 
@@ -14,6 +16,6 @@ https://datastudio.google.com/embed/reporting/2e668053-db4c-4b7b-8a5a-f0ef65def2
 
 <!--EndFragment-->
 
-Any data in Google Sheet can be a good candidate for Google Data Studio - a data visualisation tool. The data from John Hopkins are being ficialited with a third party API written in python using the 🍼 Flask framework. 
+Any data in Google Sheet can be a good candidate for Google Data Studio - a data visualization tool. The data from John Hopkins are being ficialited with a third party API written in python using the 🍼 Flask framework. 
 
 [Source code of the API is on Github](https://github.com/ExpDev07/coronavirus-tracker-api)
