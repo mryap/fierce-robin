@@ -13,7 +13,6 @@ How do you go about setting up tracking to
 - track website drop offs
 - enabling re-targeting
 
-
 Keeping in mind, the following activities of your targeted customers
 
 - specific products or services viewed as well as purchase history.
