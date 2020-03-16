@@ -80,8 +80,10 @@ With R, the simplest (but a useful and important) approach to document your depe
 
 ### Conducting a reproducible analysis
 
-What did I do?
-Why did I do it?
-How did I set it up?
-When did I make changes?
-Who needs to access it?
+My reproducible project workflow enables me to answer  
+
+* What did I do?
+* Why did I do it?
+* How did I set it up?
+* When did I make changes?
+* Who needs to access it?
