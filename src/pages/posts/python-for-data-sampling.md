@@ -30,4 +30,5 @@ Why:
 - numpy is fast as it runs C code under the hood.
 - numpy.random.choice allows to specify marginal probabilities.
 
-Both approaches have their specific benefits. The only thing to avoid is mixing them up
+Sampling saves time. Are your data too big? Calculate statistics on a random sample. Both approaches have their specific benefits. The only thing to avoid is mixing them up.
+
