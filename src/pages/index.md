@@ -7,11 +7,11 @@ sections:
       Gain new insights into customer behaviour with A/B Test
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * Validate new design or change from existing traffic.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * Test, Learn & Apply.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Minimal Support from IT and Designer.
 
 
       Digital Web Analyst shape business outcomes with Conversion Rate
