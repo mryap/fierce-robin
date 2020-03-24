@@ -1,6 +1,12 @@
 ---
 title: Home
 sections:
+  - actions: []
+    content: Turn clicks into profits from existing traffic
+    image: /images/xhero.png
+    section_id: hero
+    title: Get Validated Insight with A/B Testing
+    type: section_hero
   - type: section_content
     bg: gray
     content: >-
@@ -19,12 +25,6 @@ sections:
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
     title: The Best Features of Your Services
-  - actions: []
-    content: Turn clicks into profits from existing traffic
-    image: /images/xhero.png
-    section_id: hero
-    title: Get Validated Insight with A/B Testing
-    type: section_hero
   - bg: white
     featureslist:
       - actions: []
