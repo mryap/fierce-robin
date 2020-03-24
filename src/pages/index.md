@@ -4,12 +4,12 @@ sections:
   - type: section_content
     bg: gray
     content: >-
-      Gain new insights into customer behaviour with A/B Test
+      Build online success with Digital Analytics and a/B testing.  
 
 
       * Validate new design or change from existing traffic.
 
-      * Test, Learn & Apply.
+      * Gain new insights into customer behaviour.
 
       * Minimal Support from IT and Designer.
 
