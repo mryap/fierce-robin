@@ -19,6 +19,7 @@ sections:
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
     title: The Best Features of Your Services
+    image: /images/xhero.png
   - bg: white
     featureslist:
       - actions: []
