@@ -25,6 +25,19 @@ sections:
     actions:
       - label: Get Started
         url: '#'
+  - type: section_faq
+    bg: gray
+    faqitems:
+      - question: 'What is BigQuery? '
+      - question: What do I need to know about BigQuery?
+    subtitle: What do I need to know about BigQuery?
+  - type: section_features
+    bg: gray
+    title: MArketing Data warehouse in the cloud
+    featureslist:
+      - title: Non Ops
+      - title: Learning sql query
+      - {}
 menus:
   main:
     title: Features
