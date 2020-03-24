@@ -4,9 +4,7 @@ sections:
   - type: section_content
     bg: gray
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Gain new insights into customer behaviour with A/B Test
 
 
       * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -16,9 +14,9 @@ sections:
       * Phasellus ut enim non lorem venenatis rutrum.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    title: The Best Features of Your Services
+      Digital Web Analyst shape business outcomes with Conversion Rate
+      Optimisation
+    title: Turn clicks into profit
     image: /images/xhero.png
   - bg: white
     featureslist:
