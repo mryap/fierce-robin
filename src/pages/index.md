@@ -21,6 +21,8 @@ sections:
     actions:
       - label: Contact Me Now
         url: /contact
+      - label: Find Out More
+        url: /blog
   - bg: white
     featureslist:
       - actions: []
