@@ -18,6 +18,9 @@ sections:
       Optimisation
     title: Turn clicks into profit
     image: /images/xhero.png
+    actions:
+      - label: Contact Me Now
+        url: /contact
   - bg: white
     featureslist:
       - actions: []
