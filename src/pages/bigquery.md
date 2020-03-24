@@ -3,13 +3,13 @@ title: BigQuery
 sections:
   - type: section_content
     section_id: bigquery
-    title: From Data to Insights with BigQuery
+    title: From Data to Insights with Google Cloud
     content: >-
       <!--StartFragment-->
 
 
-      Marketing people, to get up to speed withBigquery, it worth your effort to
-      pick up sql query. Coaching lessons available from me.
+      Marketing people, to get up to speed with Bigquery, it worth your effort
+      to pick up sql query. Coaching lessons available from me.
 
 
       <!--EndFragment-->
@@ -18,6 +18,23 @@ sections:
     actions:
       - label: Find Out More
         url: contact
+  - type: section_features
+    bg: gray
+    title: Marketing Data warehouse in the cloud
+    featureslist:
+      - title: Non Ops
+      - title: Learning sql query
+      - title: 'Google IT Infrastuture '
+      - content: >-
+          Marketing people, to get up to speed with Bigquery, it worth your
+          effort to pick up sql query. Coaching lessons available from me.
+        title: 'WHat it means for marketing? '
+  - type: section_faq
+    bg: gray
+    faqitems:
+      - question: 'What is BigQuery? '
+      - question: What do I need to know about BigQuery?
+    subtitle: What do I need to know about BigQuery?
   - type: section_cta
     section_id: call-to-action
     title: This Is Call to Action Block!
@@ -25,19 +42,8 @@ sections:
     actions:
       - label: Get Started
         url: '#'
-  - type: section_faq
-    bg: gray
-    faqitems:
-      - question: 'What is BigQuery? '
-      - question: What do I need to know about BigQuery?
-    subtitle: What do I need to know about BigQuery?
-  - type: section_features
-    bg: gray
-    title: MArketing Data warehouse in the cloud
-    featureslist:
-      - title: Non Ops
-      - title: Learning sql query
-      - {}
+  - type: section_hero
+    image: /images/6_thumb.jpg
 menus:
   main:
     title: Features
