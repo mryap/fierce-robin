@@ -4,6 +4,8 @@ subtitle: Shopify allows you to start selling gift cards.
 date: 2020-03-25T11:27:39.502Z
 template: post
 ---
+Gift cards are now available for free on all Shopify plans. Sign up for a plan to get started setting this up. 
+
 How a gift card store can help?
 
 1. Share your URL to customers who want to help you during these times
@@ -11,7 +13,7 @@ How a gift card store can help?
 3. You will maintain a list of gift cards to be redeemed at a later date
 4. You can choose later how the gift cards will be redeemed
 
-Gift cards are now available for free on all Shopify plans. Sign up for a plan to get started setting this up.  
+Gift cards only works if you being trading for quite sometime. Your customers being buying from you before the crisis. There is credability and good  being generated. If not, I think it will be a hard sell to roll out a giftcard for your fledgling business. 
 
 Click on “Select a Plan”.
 
