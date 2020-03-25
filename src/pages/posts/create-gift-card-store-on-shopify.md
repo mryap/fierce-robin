@@ -4,6 +4,13 @@ subtitle: Shopify allows you to start selling gift cards.
 date: 2020-03-25T11:27:39.502Z
 template: post
 ---
+How a gift card store can help?
+
+1. Share your URL to customers who want to help you during these times
+2. Your customer will buy a gift card and pay online through your new online store
+3. You will maintain a list of gift cards to be redeemed at a later date
+4. You can choose later how the gift cards will be redeemed
+
 Gift cards are now available for free on all Shopify plans. Sign up for a plan to get started setting this up.  
 
 Click on “Select a Plan”.
