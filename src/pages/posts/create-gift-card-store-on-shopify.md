@@ -14,11 +14,7 @@ Click on “Select a Plan”.
 
 <!--EndFragment-->
 
-
-
 Choose the plan you want. This Basic Shopfiy plan is all you need to start.  (You’ll be prompted for payment information but you won’t be charged for 90 days.)
-
-
 
 <!--StartFragment-->
 
@@ -26,11 +22,7 @@ Choose the plan you want. This Basic Shopfiy plan is all you need to start.  (Yo
 
 <!--EndFragment-->
 
-
-
 ## Let’s set up some gift cards.
-
-
 
 <!--StartFragment-->
 
@@ -42,13 +34,9 @@ Choose the plan you want. This Basic Shopfiy plan is all you need to start.  (Yo
 
 Gift cards are a Product in Shopify. Click on “Products” on the left hand menu to get to the gift card section.
 
-
-
 ![](https://lh3.googleusercontent.com/itOeQz6Bn88xXjTaigoCauFn2sW6ckXqDeHj9nU9A_jNvy8ZxviR7I9q_-kzDO5vSZKalUvL6DflJlvcN7GQC03BaiZmG3DkWprnTn7x0-PmxrLeJvmahkS_74xDDD2XVCXza5nA--g)
 
 <!--EndFragment-->
-
-
 
 click on “Gift Cards” to get to the gift card section.  Start by turning on the gift card feature for this store by clicking on Sell Gift Cards.
 
@@ -57,3 +45,21 @@ click on “Gift Cards” to get to the gift card section.  Start by turning on 
 ![](https://lh3.googleusercontent.com/T-hPoyg3W9vgNvaxUELD6g24PzRDRqvgIcsc86Lgj_FGrrThPKRWhdq8qgWMbJXhQfMpvRHKIo5tMboK7LhCtn1NjBAW4CnAqTVNvP1X20YM7kwHUicIzeQFvLkXFwl3bzp0__4U7Uc)
 
 <!--EndFragment-->
+
+You should comes across this page. **Important :** To make this available in your online store. Click “Manage”.
+
+<!--StartFragment-->
+
+![](https://lh3.googleusercontent.com/wzf93ELsn0d7W_7Oc2mZcr4sP1RZQmVzDphRRw5_MMrwVaC2U68JoDGvIDPg4XwMthLBO7-rTZL_S2sHSlQ_kDK31Gziq45Ui68LVGZ7S6ZYWttVLaxOJmKNFcQcBl-zth3J6Yvdh-M)
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+Make sure “Online store” is checked. Then, hit “Done”.
+
+<!--EndFragment-->
+
+![](https://lh5.googleusercontent.com/Y_WULewrjJoQPad5uUpb1Bpn048YCxm1kUJLCviSjEjgv_VG-yixNWeAfNCoK7kINMlAEt5uxKc9qrWL3S0xlse6ktMcLwjICRDUGZWmH2HxifMyXBWZzTaJvWlO9HwM_ebKlkcQzvA)
