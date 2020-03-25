@@ -54,8 +54,6 @@ You should comes across this page. **Important :** To make this available in you
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 Make sure “Online store” is checked. Then, hit “Done”.
@@ -63,3 +61,5 @@ Make sure “Online store” is checked. Then, hit “Done”.
 <!--EndFragment-->
 
 ![](https://lh5.googleusercontent.com/Y_WULewrjJoQPad5uUpb1Bpn048YCxm1kUJLCviSjEjgv_VG-yixNWeAfNCoK7kINMlAEt5uxKc9qrWL3S0xlse6ktMcLwjICRDUGZWmH2HxifMyXBWZzTaJvWlO9HwM_ebKlkcQzvA)
+
+Source :  Katie Cerar, Senior Product Lead at [ShopifyPlus](https://www.shopify.com/plus)  https://docs.google.com/presentation/d/1mIzrvBfXHabkkJXThMaCqBA0ticqJTG1hVOvhgx0q8Q/edit#slide=id.g81c002b212_0_0
