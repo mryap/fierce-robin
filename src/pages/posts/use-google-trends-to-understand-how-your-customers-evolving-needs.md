@@ -8,6 +8,8 @@ template: post
 ---
 <!--StartFragment-->
 
+*[Google Trends](https://trends.google.com/)*, is a free tool that provides access to actual search requests across Google Search, YouTube, Shopping, and Images. By entering a keyword or a topic, you can explore what the world is searching for in near real time.
+
 [Google Trends](https://mail.thinkwithgoogle.com/ol/hkFZccTOdlhd6BYhudu2EvG8zniXL8vx9vEwWKC1gJdzyVpxdqGJNVLogdcMTNQ2bO3DUUQDHc0xhglRHr2SeZRP6uFUBkihXRv4jaDTY8NNfrk1ychlov7wjjFW-4jEkVTJCkQ9VXwxN1_OO-513XviKIQxXl7BvD0,/jUFScsXKIllNoVdlsbPWNrvokTHTNJ-ntLtxDLnl3cJxzVp7fOjcdx7ojdwMKaF0ZOSOWhcEHq9sxQhRD-3IeY1B8_kbCkyiAy7rjZ7JYJhccrEu2Ixv-r-21GURvtiQ1F3BGRQbVHxTcAOcZOIilHDyI9YiUhPc72_MCoQikTgJjLoKi7CbMIaHtl2MuBaWvmXDZAUwtZXWy1C1C5cngtgUrQwp6UItePT_7TKK0ag3qDI-8vU6rFNNu-h3M90u4R6ZBTH36bD7QOZ6R7umzfbqqLAuYBEwh4Bjb3zUJ1-gSYeTbR1l_hjRkywSIRJkKTluBP8glzaVrE1Xf8U4YwXkryIn7kIC_Ltw0Ljxnia7RVbdMzfThx_4-gT5MLYJ0Segs-UP5Hn9ZADZ-8xnWnP3D6bTiU-YTYnh628gT9hvDPJAJoOU_-7t6d8FvRGFAEmn8srDKTkePZFSgcqryL2knvC6vGrh1hprogd2HgpNwRP-J7G9JTcsy72qgPHtt5C1kFVSziF_PA1XjA7nCbQBk1DmKemj-1S4MFC50sKL1AbSXFqUlRuIlFrXOYEPkgTzCoCRPPvjtbMFrnI,) helps you to see the things people are—or aren’t—searching for, almost in real time. You can use these insights to adjust your marketing strategy and ensure you’re meeting the needs of your customers.
 
 While the world is burning,  here few ways you can use Google Trends to navigate this uncertain time:
