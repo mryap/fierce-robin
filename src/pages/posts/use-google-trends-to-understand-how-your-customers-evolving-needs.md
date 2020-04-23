@@ -4,6 +4,7 @@ subtitle: Stay up-to-date on local conditions. Google Trends page help you
   better understand the context in local markets and your customers’ frame of
   mind.
 date: 2020-04-23T08:21:56.283Z
+img_path: /images/bp-us-nl-2020-04-14-banner-img.png
 template: post
 ---
 <!--StartFragment-->
@@ -23,16 +24,3 @@ While the world is burning,  here few ways you can use Google Trends to navigate
 **Expand your research.** Determine the top and rising topics or terms that are associated with any search to uncover your customers’ needs.
 
 **Adapt your strategy to local conditions.** The heat map highlights countries, regions, or cities where a term is popular.
-
-<!--StartFragment-->
-
-|     |
-| --- |
-
-| [![interest over time graph](https://lp.thinkwithgoogle.com/rs/172-GOP-811/images/BP-US-NL-2020-04-14-banner-img.png "Interest over time graph")](https://mail.thinkwithgoogle.com/ol/hkFWdMTJdlhd6BYhudu2EvG8zniXL8vx9vEwWKC1gJdzyVpxdqGJNVLogdcMTNQ2bO3DUUQDHc0xhglRHr2SeZRP6uFUBkihXRv4jaDTY8NNfrk1ychlov7wjjFW-4jEkVTJCkQ9VXwxMFbPPutz0XviKIQxXl7BvD0,/ikhTd8DMLllNoVdlsbPWMbz9jzrSbtavtLN6BfKo0cAzlk9xfevDPQzujMAeHZwhcuyMTltIQsc3k1wHEuzIeY4G-_hNUFSmVQTyhaXTeoATdLly1c0n_qW1g3URp-KRnUneCkpTRDxiYRGOZbo0kDj1dpEuT1iS7nb-IYIikXUKlfARxdSqcKPv7metykfH4SWPPVZzueOrp2mPQbdG1oVR7RFpuARrLLS7wjnOxbJosCku56F6jA5k8-h7Ls4l8webXzDm45a1bqdMD6G3g_a0vfA5NAsjhrotdGDFLFWnUouKbSty_RbBx3gxPDwoKztONvshmU2ApFFKXuEBTxS5iCcm4n8w46VR8L_dlH-mY3zAEgPXsjml-gaPIKsv7EOejPIG6nnmOlr3yORwAneJNNne_2TlRafJmEU_eKpIDcw3K56b0NLt6sA9gwOFBBKY8fSnDkwBOJwZkIKrkd-IkoaBlFvaux1MnBsFdidNwC3EfY_WRiEA2Km9rvaYt7Hoy3M28XhCMxEfi2jROIplhgv7bti9zQm9VXKJw6W7igrjYW-SyQGPnWjKPIp-_TXBFaTILP3inbFavg7GEFHLUo2aNC6-yZQ11Q,,) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-|     |
-| --- |
-
-<!--EndFragment-->
