@@ -25,3 +25,11 @@ Resona bank is using stuffed toy versions of mascot Resonya, to maintain social 
 https://www.sankeibiz.jp/business/news/200421/bse2004211801003-n1.htm
 
 <!--EndFragment-->
+
+## Postal Services
+
+<!--StartFragment-->
+
+AnPost, Ireland's postal services launches ‘Request a Check-In’ and newspaper delivery services to support communities and keeping them connected. 
+
+<!--EndFragment-->
