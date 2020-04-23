@@ -1,5 +1,8 @@
 ---
-title: Use Google Trends to understand how your customers evolving needs
+title: Use Google Trends to understand your customers evolving needs
+subtitle: Stay up to date on local conditions. Google Trends page help you
+  better understand the context in local markets and your customers’ frame of
+  mind.
 date: 2020-04-23T08:21:56.283Z
 template: post
 ---
