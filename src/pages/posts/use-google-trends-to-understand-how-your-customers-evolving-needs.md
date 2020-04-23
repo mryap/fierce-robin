@@ -4,7 +4,7 @@ subtitle: Stay up-to-date on local conditions. Google Trends page help you
   better understand the context in local markets and your customers’ frame of
   mind.
 date: 2020-04-23T08:21:56.283Z
-img_path: /images/bp-us-nl-2020-04-14-banner-img.png
+img_path: ""
 template: post
 ---
 <!--StartFragment-->
