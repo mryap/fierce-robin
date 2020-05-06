@@ -1,7 +1,7 @@
 ---
-title: "Book Review:  Trustworthy Online Controlled Experiments: A Practical
+title: "Key Takeaway:  Trustworthy Online Controlled Experiments: A Practical
   Guide to A/B Testing"
-subtitle: "On my first chapter of the book, I looking forward to reading it more. "
+subtitle: ""
 date: 2020-05-06T07:13:03.207Z
 img_path: /images/41lf5ogicbl.jpg
 template: post
@@ -22,7 +22,11 @@ Most who have run controlled experiments in customer-facing websites and applica
 * Online controlled experiments are best scientific way to establish causality with high probability
 * OEC is the key metrics
 * Always have a portfolio of ideas that includes a few radical ideas to see whether those jumps lead to a bigger hill.(pivot)
+* To understand the value of an online experiment, look at the difference between its expected outcome and its actual result. If you thought something was going to happen and it happened, then you haven’t learned much
+* If you thought something was going to happen and it didn’t, then you’ve learned something important
+* If you thought something minor was going to happen, and the results are a major surprise and lead to a breakthrough, you’ve learned something highly valuable.
 
 There are numerous books out there that are directly related to online experiments and A/B tests. Most are inspirational. For in-depth and accuracy on the statistics behind the experiment, this is the book.
 
+On my first chapter of the book, I looking forward to reading it more. 
 <!--EndFragment-->
