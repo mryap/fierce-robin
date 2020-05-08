@@ -25,7 +25,7 @@ Most who have run controlled experiments in customer-facing websites and applica
 * To understand the value of an online experiment, look at the difference between its expected outcome and its actual result. 
 * If you thought something minor was going to happen, and the results are a major surprise and lead to a breakthrough, you’ve learned something highly valuable.
 
-There are numerous books out there that are directly related to online experiments and A/B tests. Most are inspirational. For in-depth and accuracy on the statistics behind the experiment, this is the book.
+There are numerous books out there that are directly related to online experiments and A/B tests. Most are inspirational. Written by three co-authors who work at Google,LinkedIn,and Microsoft, the book provides in-depth and accuracy on the statistics behind online controlled experiment. 
 
 On my first chapter of the book, I looking forward to reading it more. 
 <!--EndFragment-->
