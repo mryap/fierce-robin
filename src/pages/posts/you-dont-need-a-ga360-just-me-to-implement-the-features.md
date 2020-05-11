@@ -1,7 +1,7 @@
 ---
-title: You don't need a GA360 - just me to implement the features.
+title: You don't need a GA360 - hire me to implement the features.
 date: 2019-05-14T11:47:51.391Z
-excerpt: 'Updated: 3rd March 2020'
+excerpt: "Updated: 3rd March 2020"
 template: post
 ---
 Google Analytics is the most important tool for improving your website and digital marketing. Most Google Analytics setups are not customised at all.
