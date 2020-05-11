@@ -1,8 +1,8 @@
 ---
 title: Power of Analytics Remarketing
-date: 2019-03-27 
-description: In the context of Paid Acquisition, remarketing means being able to interact with those who have already experienced your site.  
-#image: "/img/measurement-in-mutli-screen-world5.jpg"
+date: 2019-03-27T00:00:00.000Z
+description: In the context of Paid Acquisition, remarketing means being able to
+  interact with those who have already experienced your site.
 template: post
 ---
 
@@ -36,9 +36,9 @@ In Google AdWords, you can create retargeting lists based on conversion goals an
 
 When you're creating a remarketing campaign in Google Ads, if you're account is linked to an Analytics account, then you have an option to use the tracking code that’s already on your website rather than have Google Ads generate a remarketing tag for you. Under this options,  Remarketing is automatically enabled in Analytics
 
-~~~
+```
 ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-~~~
+```
 
 ### Dynamic Remarketing 
 
