@@ -67,19 +67,20 @@ Here are some career highlights
   <thead>
     <tr>
       <th>Email Marketing</th>
-      <th>Header content 2</th>
+      <th>Conversion Optimization</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking, and prepare post-campaigns reporting using DART for Publishers (DFP) covering the APAC region</td>
-      <td>Body content 2</td>
+      <td>Involved in a conversion optimization project for an E-commerce store (on-going)</td>
+
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Footer content 1</td>
-      <td>Footer content 2</td>
+      <td>Conducted A/B tests and achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer</td>
     </tr>
   </tfoot>
 </table>
