@@ -9,9 +9,9 @@ There are times when further steps are required for successful mail delivery. Fo
 
 I being publishing on hireyap.netlify.com for 17 months. By default, any site on Netlify is accessible via its Netlify subdomain, which has the form `[name-of-your-site].netlify.com`. 
 
-Netlify is a service for quickly rolling out static websites. The use of GithUb has becomes the way of operating.  
+Netlify is a service for quickly rolling out static websites. The use of GitHub has becomes the way of operating.  
 
-I decide to use own domain for the Netlify site. Known as Custom domains, it allow others to make your sites accessible at your own, choosen non-Netlify domain names (in my case it www.testandoptimize.com)
+I decide to use my personal domain for the Netlify site. Known as Custom domains, it allow others to make your sites accessible at your own, choosen non-Netlify domain names (in my case it www.testandoptimize.com)
 
 The way it works involve the process of editing the Redirect rules on Netlify configuration file - netlify.toml file , push (upload) to Github and revisit the site the next day. 
 
