@@ -74,7 +74,6 @@ Here are some career highlights
     <tr>
       <td>Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking</td>
       <td>Involved in a conversion optimization project for an E-commerce store (on-going)</td>
-
     </tr>
   </tbody>
   <tfoot>
