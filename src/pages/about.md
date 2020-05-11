@@ -25,10 +25,6 @@ Here are some career highlights
 
 * Volunteer in a committee of 10 people, to bring Measurecamp to Dublin, Ireland
 
-### Conversion Optimization
-* Involved in a conversion optimization project for an E-commerce store (on-going)
-* Conducted A/B tests and achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer
-
 ### Google Data Studio
 * Using Google Data Studio, help organisation develop reporting capabilities to see post-click performance
 
@@ -37,14 +33,8 @@ Here are some career highlights
 * Use Scroll Depth Tracking, Adjusted Bounce Rate, and Average Time On Page as a proxy for User Engagement and Content Quality for a sport-tech start-up in Dublin
 * Tracking single scrolling page website with GTM for a Dublin-based charity
 
-### R and API
-* Setup daily automated pull of Organic search data from Google Search Console data using R and Google API
-* Using R to extract unstructured data via Twitter API on a trending hashtag. Successfully collected data with 500 observations and 16 variables
-
 ### Others
-* Introduce use of WhatsApp Business for take-away services for a food trader
 * Bring PPC data, Google Analytics, Stripe, Intercom to Tableau Desktop to look at Return on Advertising Spending
-* Moved WordPress site to new hosting provider without losing any content
 * Re-purpose homepage to improve its usability on mobile devices
 * Integrated Paypal form to sell gift certificate online, Integrated mailing list form to gather leads
 
@@ -60,7 +50,7 @@ Here are some career highlights
 ## Hightlight
 
 <table>
-    <caption>Table with thead, tfoot, and tbody</caption>
+    <caption></caption>
   <thead>
     <tr>
       <th>Email Marketing</th>
@@ -80,9 +70,9 @@ Here are some career highlights
   <tfoot>
     <tr>
       <td>Prepare post-campaigns reporting with DART for Publishers (DFP) </td>
-      <td>Conducted A/B tests and achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer</td>
-<td>Moved WordPress site to new hosting provider without losing any content</td>
-<td>Using R to extract unstructured data via Twitter API on a trending hashtag. Collected data with 500 observations and 16 variables</td>
+      <td>Conducted A/B tests, achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer</td>
+<td>Moved WordPress site to new hosting provider without losing content</td>
+<td>Using R to extract unstructured data via Twitter API on trending hashtag. Collected data with 500 observations & 16 variables</td>
     </tr>
   </tfoot>
 </table>
