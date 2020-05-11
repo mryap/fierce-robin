@@ -1,6 +1,5 @@
 ---
-title: "Key Takeaway:  Trustworthy Online Controlled Experiments: A Practical
-  Guide to A/B Testing"
+title: "Key Takeaway:  Trustworthy Online Controlled Experiments"
 subtitle: ""
 date: 2020-05-06T07:13:03.207Z
 img_path: /images/41lf5ogicbl.jpg
