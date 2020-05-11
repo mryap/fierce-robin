@@ -2,28 +2,30 @@
 title: Conversion Rate Optimisation
 template: page
 ---
-Conversion rate optimisation (CRO) strategy is about creating a friction-less experience across the funnel. In order to create this, you should attempt to let analytics data, web psychology, UX and A/B/n tests “come together” to increase conversion rate and delight your customers. Consistently researching and/or testing your users, digital assets and your customer journey. To speed up your team with effective conversion rate optimisation support, consider hiring me to get you up-to-speed
+Conversion rate optimisation (CRO) strategy is about creating a friction-less experience across the funnel. In order to create this, you should attempt to let analytics data, web psychology, UX and A/B/n tests “come together” to increase conversion rate and delight your customers. Consistently researching and/or testing your users, digital assets and your customer journey. 
 
-## Tables
+### User Research
+Starts with user research to find out why some visitors do not take certain actions as we expect them to perform. Perform a series of test such as those below to extract insights.
 
-<table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
-</table>
+* usability tests
+* user interviews
+* 5-sec tests
+* heatmap-analyses
+* funnel analyses
+* segmenting
+* cohort analyses
+* exit-intent surveys
+
+Based on the gathered insights, come up with hypothesis such as "adding certain descriptive text helps to clarify things on the website for certain group of visitors so they can take actions"
+
+Test the above example hypotheses quickly and easily using A/B test. This A/B test help us to understand what works best with certain group of visitors by testing different layouts of the website. A/B tools are available without bothering those IT people.
+
+Think of A/B test as a mean to validate ideas/hypothesis with real people. The above methodology is a test and iterate process.
+
+The above process will not works if people find your products not relevant or useful as the saying goes you are flogging a dead horse.
+
+### Hire Yap
+To speed up your team with effective conversion rate optimisation support, consider hiring me to get you up-to-speed
+
+
+
