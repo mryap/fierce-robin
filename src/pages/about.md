@@ -1,9 +1,8 @@
 ---
 title: About Test & Optimize
-subtitle: >-
-  Build online success with Digital Analytics and a/B testing. Hire me to gain
-  validated business insight & improves the customer experience.  
-img_path: ''
+subtitle: "Build online success with Digital Analytics and a/B testing. Hire me
+  to gain validated business insight & improves the customer experience.  "
+img_path: ""
 menus:
   secondary:
     title: About Test & Optimize
@@ -61,4 +60,27 @@ Here are some career highlights
 
 <!--EndFragment-->
 
+## Tables
+
+<table>
+    <caption>Table with thead, tfoot, and tbody</caption>
+  <thead>
+    <tr>
+      <th>Email Marketing</th>
+      <th>Header content 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking, and prepare post-campaigns reporting using DART for Publishers (DFP) covering the APAC region</td>
+      <td>Body content 2</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Footer content 1</td>
+      <td>Footer content 2</td>
+    </tr>
+  </tfoot>
+</table>
 
