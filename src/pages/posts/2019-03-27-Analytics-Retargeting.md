@@ -1,5 +1,5 @@
 ---
-title: Power of Analytics Remarketing
+title: Power of Analytics Re-Marketing
 date: 2019-03-27T00:00:00.000Z
 description: In the context of Paid Acquisition, remarketing means being able to
   interact with those who have already experienced your site.
@@ -37,12 +37,13 @@ In Google AdWords, you can create retargeting lists based on conversion goals an
 When you're creating a remarketing campaign in Google Ads, if you're account is linked to an Analytics account, then you have an option to use the tracking code that’s already on your website rather than have Google Ads generate a remarketing tag for you. Under this options,  Remarketing is automatically enabled in Analytics
 
 ```
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') 
++ 'stats.g.doubleclick.net/dc.js';
 ```
 
-### Dynamic Remarketing 
+### Dynamic Re-marketing 
 
-Dynamic Remarketing goes one step further by customizing ads based on specific products or services viewed as well as purchase history.
+Dynamic Re-marketing goes one step further by customizing ads based on specific products or services viewed as well as purchase history.
 With PPC campaigns, previous site visitors can be targeted based on their site activity once AdWords and Analytics are connected. For Dynamic Remarketing, retailers also need to make a connection with their Merchant Center account before using.
 This is a complicated tactic that requires that the site is tagged with at least one custom dimension. Rather than describing it here, I recommend [Google’s support](https://support.google.com/adwords/answer/6077139?hl=en&ref_topic=6077046) for setting up a feed in Google AdWords.
 
