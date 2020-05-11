@@ -72,14 +72,14 @@ Here are some career highlights
   </thead>
   <tbody>
     <tr>
-      <td>Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking, and prepare post-campaigns reporting using DART for Publishers (DFP) covering the APAC region</td>
+      <td>Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking</td>
       <td>Involved in a conversion optimization project for an E-commerce store (on-going)</td>
 
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td>Footer content 1</td>
+      <td>prepare post-campaigns reporting using DART for Publishers (DFP) covering the APAC region</td>
       <td>Conducted A/B tests and achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer</td>
     </tr>
   </tfoot>
