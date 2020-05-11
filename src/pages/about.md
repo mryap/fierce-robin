@@ -55,9 +55,6 @@ Here are some career highlights
 * Revamping Intranet and Internet running on Oracle system, responsible for front-­end design. Liaise with respective departments on web content publication
 * In-charged of web designing, updating and maintenance of clients’ website using HTML/CSS, JavaScript coding and Photoshop
 
-### Email Marketing
-* Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking, and produce post-campaigns analysis and reporting using DART for Publishers (DFP) covering the APAC region
-
 <!--EndFragment-->
 
 ## Tables
@@ -68,18 +65,21 @@ Here are some career highlights
     <tr>
       <th>Email Marketing</th>
       <th>Conversion Optimization</th>
+      <th>Others</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Responsible for publishing HTML email, running email marketing campaign, setting-up online ad tracking</td>
+      <td>Responsible for running email marketing campaign covering the APAC region</td>
       <td>Involved in a conversion optimization project for an E-commerce store (on-going)</td>
+<td>Introduce WhatsApp Business for take-away services for a food trader</td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td>prepare post-campaigns reporting using DART for Publishers (DFP) covering the APAC region</td>
+      <td>Prepare post-campaigns reporting with DART for Publishers (DFP) </td>
       <td>Conducted A/B tests and achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer</td>
+<td>Moved WordPress site to new hosting provider without losing any content</td>
     </tr>
   </tfoot>
 </table>
