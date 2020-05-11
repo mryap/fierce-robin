@@ -47,7 +47,7 @@ ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://')
 Dynamic Re-marketing goes one step further by customizing ads based on specific products or services viewed as well as purchase history. With PPC campaigns, previous site visitors can be targeted based on their site activity once AdWords and Analytics are connected. For Dynamic Remarketing, retailers also need to make a connection with their Merchant Center account before using. This is a complicated tactic that requires that the site is tagged with at least one custom dimension. Rather than describing it here, I recommend [Google’s support](https://support.google.com/adwords/answer/6077139?hl=en&ref_topic=6077046) for setting up a feed in Google AdWords.
 
 ### Difference between Re-targeting VS Re-marketing
-
+Re-targeting focused on paid ads (and can take a variety of forms, and target a broad range of individuals). Re-marketing is focused on email campaigns and reaching out to those who have already had interactions on your website that allow for a specific reach out. [[Source](https://www.searchenginejournal.com/whats-difference-remarketing-retargeting/186455/)]
 
 
 ### Conclusions
