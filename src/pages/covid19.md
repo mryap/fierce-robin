@@ -13,5 +13,9 @@ sections:
 
       * Let me audit your web analytics implementation and fix it. You need data you can trust that fit for purpose.
     title: "Every person has a different set of challenges. "
+  - type: section_cta
+    actions:
+      - label: Contact Me
+        url: /contact
 template: landing
 ---
