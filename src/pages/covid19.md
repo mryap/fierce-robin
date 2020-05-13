@@ -17,5 +17,7 @@ sections:
     title: Every person has a different set of challenges. We're not all in this
       together but we'll learn how to empathize with each other unique
       challenge.
+  - type: section_hero
+    image: /images/hero.png
 template: landing
 ---
