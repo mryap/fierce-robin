@@ -7,7 +7,7 @@ sections:
       Here how I can help:
 
 
-      * If you are moving to online space for the first time, I can guide you how to go about it
+      * Moving to online space for the first time, I can guide you how to go about it
 
       * If we have started working on a CRO project, let continue the good work. Pay me when things get better
 
