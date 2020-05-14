@@ -3,7 +3,7 @@ title: COVID19
 sections:
   - type: section_hero
     image: /images/hero.png
-    content: >
+    content: >-
       Here how I can help:
 
 
@@ -12,6 +12,9 @@ sections:
       * If we have started working on a CRO project, let continue the good work. Pay me when things get better
 
       * Let me audit your web analytics implementation and fix it. You need data you can trust that fit for purpose.
+
+
+      Take care of yourselves. 
     title: "Every person has a different set of challenges. "
     actions:
       - label: Contact Me
