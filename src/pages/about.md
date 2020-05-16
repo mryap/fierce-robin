@@ -47,33 +47,3 @@ Here are some career highlights
 
 <!--EndFragment-->
 
-## Hightlight
-
-<table>
-    <caption></caption>
-  <thead>
-    <tr>
-      <th>Email Marketing</th>
-      <th>Conversion Optimization</th>
-      <th>Others</th>
-<th>R</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Responsible for running email marketing campaign covering APAC region</td>
-      <td>Involved an E-commerce store (on-going)</td>
-<td>Introduce WhatsApp Business for take-away services for a food trader</td>
-<td>Setup daily automated pull of Organic search data from Google Search Console data using R and Google API</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Prepare post-campaigns reporting with DART for Publishers (DFP) </td>
-      <td>Conducted A/B tests, achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer</td>
-<td>Moved WordPress site to new hosting provider without losing content</td>
-<td>Using R to extract unstructured data via Twitter API on trending hashtag. Collected data with 500 observations & 16 variables</td>
-    </tr>
-  </tfoot>
-</table>
-
