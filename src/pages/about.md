@@ -21,9 +21,16 @@ I have <mark>10-years experience</mark> in the internet industry. In my various 
 
 Here are some career highlights
 
+* Involved an E-commerce rail model toy store (on-going)
+* Conducted A/B tests, achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer
+
 ### Community
 
 * Volunteer in a committee of 10 people, to bring Measurecamp to Dublin, Ireland
+
+### Email Marketing
+* Responsible for running email marketing campaign covering APAC region
+* Prepare post-campaigns reporting with DART for Publishers (DFP)
 
 ### Google Data Studio
 * Using Google Data Studio, help organisation develop reporting capabilities to see post-click performance
