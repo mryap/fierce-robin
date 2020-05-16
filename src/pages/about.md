@@ -20,6 +20,8 @@ I have <mark>10-years experience</mark> in the internet industry. In my various 
 <!--StartFragment-->
 
 Here are some career highlights
+### Conversion Rate Optimization
+
 
 * Involved an E-commerce rail model toy store (on-going)
 * Conducted A/B tests, achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer
