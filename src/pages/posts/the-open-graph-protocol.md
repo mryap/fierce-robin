@@ -27,6 +27,6 @@ Below are some of the tools that helps you validate whether your content looks g
 
 [Pinterest Rich Pin Validator](https://developers.pinterest.com/tools/url-debugger/)
 
-[Linkedin Post Inspector](https://developer.linkedin.com/docs/share-on-linkedin)
+[Linkedin Post Inspector](https://www.linkedin.com/post-inspector/)
 
 You've created a compelling website and brand, don't squander it away when you try to share your content on social network. Take the first step to check how your websites appears when they are share on Facebook, Twitter, LinkedIn and Pinterest
