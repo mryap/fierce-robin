@@ -5,12 +5,12 @@ date: 2020-05-30T08:56:18.913Z
 thumb_img_path: /images/14373582_1745844415636170_9132128278444769280_n.png
 menus:
   secondary:
-    title: What is FB Pixels
+    title: ""
 template: post
 ---
 <!--StartFragment-->
 
-What is FB Pixels
+## What is FB Pixels
 
 The Facebook pixel is code that you place on your website. It collects data that helps you track conversions from Facebook ads, optimize ads, build targeted audiences for future ads, and re-market to people who have already taken some kind of action on your website.
 
