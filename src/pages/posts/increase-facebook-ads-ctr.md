@@ -30,11 +30,11 @@ When someone visits your website and takes an action (for example, buying someth
 
 If you have a **WordPress website**, there a free plugin called PixelYourSite. It allows you to install the Facebook pixel across your whole site with one click and create standard events for the specific actions you want to track.
 
-![]()
+![](/images/facebook-pixel-partner-platform-integration.png)
 
 <!--StartFragment-->
 
-You can connect your site without editing any code if you use one of the following e_Commerce platform:
+You can connect your site without editing any code if you use one of the following eCommerce platform:
 
 * **WooCommerce**
 * **Shopify**
@@ -50,6 +50,10 @@ You can connect your site without editing any code if you use one of the followi
 
 <!--StartFragment-->
 
-Facebook also provides cross-device reporting, which lets you see cross-device conversions across apps and the web (for example, if a customer sees an ad for a product on their mobile phone, but decides to buy it later on their desktop computer). <https://www.facebook.com/business/help/1514986562050806?id=1794272243992044>
+3 ways to track conversions with the pixel Facebook also provides cross-device reporting, which lets you see cross-device conversions across apps and the web (for example, if a customer sees an ad for a product on their mobile phone, but decides to buy it later on their desktop computer). <https://www.facebook.com/business/help/1514986562050806?id=1794272243992044>
+
+## Facebook pixel vs Google Analytics
+
+Facebook Analytics is currently better at tracking user journey through multiple sources, or as they say “omnichannel.” Because you can connect your pixels, Facebook page, Messenger, apps, and even things such as Google UTM parameters, you can connect the pieces in a way Google doesn't allow yet
 
 <!--EndFragment-->
