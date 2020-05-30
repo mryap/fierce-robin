@@ -1,6 +1,6 @@
 ---
 title: "Increase Facebook Ads CTR "
-subtitle: create a custom Facebook event in pixels
+subtitle: Create custom Facebook event in pixels
 date: 2020-05-30T08:56:18.913Z
 thumb_img_path: /images/14373582_1745844415636170_9132128278444769280_n.png
 menus:
@@ -24,9 +24,11 @@ Facebook pixel tied to your client’s ad account can be set-up to track specifi
 
 <!--StartFragment-->
 
-## WordPress website
+## Set up FB Tracking pixel correctly
 
-If you have a WordPress website, there a free plugin called PixelYourSite. It allows you to install the Facebook pixel across your whole site with one click and create standard events for the specific actions you want to track.
+If you have a **WordPress website**, there a free plugin called PixelYourSite. It allows you to install the Facebook pixel across your whole site with one click and create standard events for the specific actions you want to track.
+
+
 
 <!--EndFragment-->
 
