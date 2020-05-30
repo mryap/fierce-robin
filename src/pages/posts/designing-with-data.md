@@ -1,7 +1,11 @@
 ---
 title: Designing with Data
 date: 2019-11-22T12:29:52.449Z
-excerpt: ' To go further together, designer need someone who is trained in data analytics'
+excerpt: " To go further together, designer need someone who is trained in data
+  analytics"
+menus:
+  secondary:
+    title: Designing with Data
 template: post
 ---
 Design advocates and accountable to users interest and needs in a business. These are appropriately represented in business goals, measures and metrics.
