@@ -3,6 +3,7 @@ title: The Open Graph Protocol
 subtitle: OpenGraph makes your websites shareable on Facebook, Twitter, LinkedIn
   and Pinterest
 date: 2018-03-09T12:21:56.798Z
+thumb_img_path: /images/ogp.png
 img_path: /images/screenshot_2020-05-27-sharing-debugger-facebook-for-developers.png
 excerpt: You've created a compelling website and brand, don't throw it away when
   you share your content on social network
