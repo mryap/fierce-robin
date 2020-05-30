@@ -28,7 +28,21 @@ Facebook pixel tied to your client’s ad account can be set-up to track specifi
 
 If you have a **WordPress website**, there a free plugin called PixelYourSite. It allows you to install the Facebook pixel across your whole site with one click and create standard events for the specific actions you want to track.
 
+![]()
 
+<!--StartFragment-->
+
+You can connect your site without editing any code if you use one of the following e_Commerce platform:
+
+* **WooCommerce**
+* **Shopify**
+* **Magento**
+* **Squarespace**
+* **BigCommerce**
+* **OpenCart**
+* **3dcart**
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
