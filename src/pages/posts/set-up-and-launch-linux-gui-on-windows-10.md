@@ -27,3 +27,13 @@ export LIBGL_ALWAYS_INDIRECT=1
 ```
 startlxde
 ```
+
+
+
+I heard about Windows Subsystem for Linux (WSL), and when I switched to Windows 10, I decdied to explore it. I am not a full-stack developer and my area is in Data Analytics. Some cloud computing data analytics job process involve using Linxu envrionment and hence forth this is my motivation to pick-up Linux.
+
+I used to install Virtual Machine (VM) to host Docker so I can work on some Data Science tutorial.
+
+My interest with Linux piqued thanks to mucking around with Docker command. I have success with running Ubuntu on Virtual Machine on Windows 8. But not so with dual-booting. I tried and having 2 operating systems on a hard drive is a rabbit hole I regretted going down. (Another blog post on this some other time.)
+
+The whole process from turning on WSL on Windows to installing all the essential Anaconda packages tooks me around 55 minutes. Your mileage might vary.
