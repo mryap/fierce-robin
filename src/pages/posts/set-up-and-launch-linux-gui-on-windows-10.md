@@ -9,7 +9,7 @@ No virtual machines or dual booting involve. Successfully set-up and launch the 
 
 ![](/images/ezawltwxqaekqhl.jpg)
 
-All this done under the hood in Windows 10 thanks to Windows Subsystem Linux (WSL). The set-up was run on WSL. WSL2 with native support for GUI apps was recently annouced during Microsoft Build 2020 - an annual event for software engineers and web developer that works primalry on WIndows, Microsoft Azure.
+All this done under the hood in Windows 10 thanks to Windows Subsystem Linux (WSL). The set-up was run on WSL (also known as Bash on Windows).  WSL2 with native support for GUI apps was recently annouced during Microsoft Build 2020 - an annual event for software engineers and web developer that works primalry on WIndows, Microsoft Azure.
 
 Under WSL, to have the GUI up and running, Xserver is require. 
 
@@ -27,8 +27,6 @@ export LIBGL_ALWAYS_INDIRECT=1
 ```
 startlxde
 ```
-
-
 
 I heard about Windows Subsystem for Linux (WSL), and when I switched to Windows 10, I decided to explore it. I am not a full-stack developer and my area is in Data Analytics. Some cloud computing data analytics job process involve using Linxu environment and hence forth this is my motivation to pick-up Linux.
 
