@@ -2,6 +2,9 @@
 title: Updated list tracking organisations response to CoVid19
 subtitle: "Last Update: 4th June 2020 "
 date: 2020-04-23T07:12:31.452Z
+menus:
+  secondary:
+    title: Tracking organisations CoVid19 response
 template: post
 ---
 <!--StartFragment-->
@@ -14,7 +17,7 @@ They also removed the 10 personalization limit in Optimize for the next 90 days
 
 https://support.google.com/optimize/answer/9823410
 
-\### Google Ads
+### Google Ads
 
 ![Google Ads credit applied for future ad spend](/images/3clfw03.png)
 
