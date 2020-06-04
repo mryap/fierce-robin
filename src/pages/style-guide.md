@@ -78,12 +78,12 @@ body {
   </thead>
   <tbody>
     <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
+      <td>Communication</td>
+      <td>figures<br/>xyz.csv</td>
 
-<td>Body content 2</td>
+<td>report.rmd</td>
 
-<td>Body content 2</td>     
+<td>report.html, report.pdf, report.doc</td>     
 
 </tr>
 
