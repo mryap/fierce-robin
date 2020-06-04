@@ -66,15 +66,13 @@ body {
 
 ## Tables
 
-
-
 <table>
     <caption>Table with thead, tfoot, and tbody</caption>
   <thead>
     <tr>
       <th>Stage</th>
-      <th>Input</th>\
-     <th>Code</th>\
+      <th>Input</th>
+     <th>Code</th>
     <th>Output</th> 
     </tr>
   </thead>
@@ -83,10 +81,12 @@ body {
       <td>Body content 1</td>
       <td>Body content 2</td>
 
-\    <td>Body content 2</td>
+<td>Body content 2</td>
 
-\    <td>Body content 2</td>
-    </tr>
+<td>Body content 2</td>     
+
+</tr>
+
   </tbody>
   <tfoot>
     <tr>
