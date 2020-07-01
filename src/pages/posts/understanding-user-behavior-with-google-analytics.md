@@ -1,6 +1,7 @@
 ---
 title: Understanding User Behavior with Google Analytics
 date: 2020-07-01T13:02:13.015Z
+img_path: /images/user-traffic-source-engagement-conversion.png
 template: post
 ---
 <!--StartFragment-->
