@@ -70,7 +70,9 @@ Enhanced Ecommerce tracking allows you to measure the number of transactions and
 * adding a product to a shopping cart, 
 * initiating the checkout process, 
 * transactions, and 
-* refunds.
+* refunds
+
+![Enhanced eCommerce in Google Analytics helps you obtain reports such as Purchase Funnel Analysis (where people abandon), Checkout Behavior (how they are moving from a step to another), Product Performance (add-to-cart rate, buy-to-detail rate, removes from the cart)](/images/eyw_-fzwaaesv6q.png)
 
 ## Event Tracking
 
@@ -138,7 +140,5 @@ For example, you might use custom dimensions and metrics to learn about player b
 * How many levels are played by users in the trial versus users who have paid for the game?
 
 Understanding how Google Analytics creates its standard reports or custom tables, it’s necessary to understand [how scope affects which dimensions and metrics are in each report](https://support.google.com/analytics/answer/1033861?hl=en).
-
-
 
 <!--EndFragment-->
