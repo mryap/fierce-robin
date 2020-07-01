@@ -58,6 +58,16 @@ Goals measure how effectively your application or website supports your business
 
 Defining goals is a fundamental component of any digital analytics measurement plan. Having properly configured goals allows Analytics to provide you with critical information to better understand if users are completing the behaviors you want them to complete. Without this information, it's almost impossible to evaluate the effectiveness of your online business.
 
+<!--StartFragment-->
+
+Pro-tips: Goals in Google Analytics only start showing data once you have configured them. So, if you forget to set them up, this will happen.
+
+![](/images/d1pgui5xqakur5j.jpg)
+
+
+
+<!--EndFragment-->
+
 <!--EndFragment-->
 
 ## Enhanced Ecommerce
