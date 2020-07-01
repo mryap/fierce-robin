@@ -59,9 +59,11 @@ Goals measure how effectively your application or website supports your business
 Defining goals is a fundamental component of any digital analytics measurement plan. Having properly configured goals allows Analytics to provide you with critical information to better understand if users are completing the behaviors you want them to complete. Without this information, it's almost impossible to evaluate the effectiveness of your online business.
 
 <!--EndFragment-->
+
 ## Enhanced Ecommerce
 
 Enhanced Ecommerce tracking allows you to measure the number of transactions and the revenue that your website or mobile app generates. Enhanced Ecommerce tracking helps you understand user behavior across the user's entire online shopping experience including: 
+
 * product impressions, 
 * product clicks, 
 * viewing product details, 
@@ -81,6 +83,7 @@ Custom dimensions and custom metrics are like default dimensions and metrics in 
 ## Reporting
 
 Now that we’ve discussed some of the most common implementation customizations, let’s look at the actual data. Below are a number of analysis techniques that can help you gain insights into user behavior.
+
 ### Active Users
 
 Like any business, you want to keep track of the level of user interest. If the numbers are consistently in line with your expectations, you’ve found your sweet spot.
@@ -118,9 +121,11 @@ Use the Behavior Flow report to investigate how engaged users are with your cont
 
 Event reports organize your events into Category, Action, and Label. The specific categories, actions and labels that the reports display reflect the taxonomy that you have created in your event tracking code. For example, to track interactions with your video player, you might set up the following categories, actions, and labels:
 
-    Category: “Videos: Instructional”, “Videos: Music”
-    Action: “Play”, “Stop”, “Pause”
-    Label: “Dance music video”, “Getting started with Google Analytics”
+```
+Category: “Videos: Instructional”, “Videos: Music”
+Action: “Play”, “Stop”, “Pause”
+Label: “Dance music video”, “Getting started with Google Analytics”
+```
 
 ## Custom Dimension & Metric reporting
 
@@ -131,5 +136,9 @@ For example, you might use custom dimensions and metrics to learn about player b
 * How many times are easy levels played versus medium or hard levels?
 * How many levels are played for each day in a 3-day free trial?
 * How many levels are played by users in the trial versus users who have paid for the game?
+
+Understanding how Google Analytics creates its standard reports or custom tables, it’s necessary to understand [how scope affects which dimensions and metrics are in each report](https://support.google.com/analytics/answer/1033861?hl=en).
+
+
 
 <!--EndFragment-->
