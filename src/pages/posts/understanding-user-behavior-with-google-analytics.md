@@ -64,8 +64,6 @@ Pro-tips: Goals in Google Analytics only start showing data once you have config
 
 ![](/images/d1pgui5xqakur5j.jpg)
 
-
-
 <!--EndFragment-->
 
 <!--EndFragment-->
