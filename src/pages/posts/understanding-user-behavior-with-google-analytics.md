@@ -88,6 +88,8 @@ Enhanced Ecommerce tracking allows you to measure the number of transactions and
 
 Events are user interactions that are tracked independently from a web-page load or screen load. You can use events to track interactions within application screens or web pages. Events are commonly used in mobile apps to understand how users share content with other users, how they use the app’s search function, and when they select specific pieces of content. Events are commonly used on websites to track file downloads, content shares, and gadget interactions. Events are extremely flexible and let you collect the data you need to better understand user behavior.
 
+![Successfully set up these Event Tracking via Google Tag Manager.](/images/b7_qkaziyaaemic.png)
+
 ## Custom Dimensions & Metrics
 
 Custom dimensions and custom metrics are like default dimensions and metrics in your Analytics account, except you create them yourself! You can use them to collect and analyze data that Analytics doesn't automatically collect. For example, you might use a custom dimension to collect the user’s level in a mobile-app game. Or, if you’re a publisher, you might use a custom dimension to collect the user’s subscription level. Custom dimensions and metrics let you combine Analytics data with non-Analytics data, providing deeper insights into user behavior.
