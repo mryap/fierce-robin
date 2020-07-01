@@ -47,8 +47,6 @@ Your measurement plan should define:
 
 To gather this information, take the time to discuss your business objectives with those people in your organization that will be using the data. This might include product designers, marketers, and others that make business decisions. You want to understand the critical pieces of information that will help people understand the performance of their business. Document their answers and create a simple measurement plan.
 
-
-
 <!--EndFragment-->
 
 <!--StartFragment-->
@@ -161,6 +159,8 @@ Understanding how Google Analytics creates its standard reports or custom tables
 
 <!--StartFragment-->
 
-Google Analytics is a amazing free tool, but to get the most from it you need to invest some time and effort to set it up and configure it so that it measures what you need it to track. 
+Google Analytics is a amazing free tool, but to get the most from it you need to invest some time and effort to set it up and configure it so that it measures what you need it to track.   A properly set-up Google Analytics enable you to understand where your traffic is coming from, and what your conversion rate for each traffic source is.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
