@@ -33,6 +33,8 @@ With additional set-up, you can gain an even richer understanding of how people 
 
 ## Measurement planning
 
+![](/images/align-business-objectives-with-website-goals-and-targets.png)
+
 Every business should create a measurement plan to guide their analytics implementation. This helps you focus on the data related to your business-measurement needs that tied in with your business models. Collecting every user interaction can create a data set that is too large and difficult to analyze.
 
 Your measurement plan should define:
@@ -44,6 +46,8 @@ Your measurement plan should define:
 * Targets for each KPI to understand if your business is reaching its goals
 
 To gather this information, take the time to discuss your business objectives with those people in your organization that will be using the data. This might include product designers, marketers, and others that make business decisions. You want to understand the critical pieces of information that will help people understand the performance of their business. Document their answers and create a simple measurement plan.
+
+
 
 <!--EndFragment-->
 
@@ -152,5 +156,11 @@ For example, you might use custom dimensions and metrics to learn about player b
 * How many levels are played by users in the trial versus users who have paid for the game?
 
 Understanding how Google Analytics creates its standard reports or custom tables, it’s necessary to understand [how scope affects which dimensions and metrics are in each report](https://support.google.com/analytics/answer/1033861?hl=en).
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Google Analytics is a amazing free tool, but to get the most from it you need to invest some time and effort to set it up and configure it so that it measures what you need it to track. 
 
 <!--EndFragment-->
