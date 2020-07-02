@@ -90,7 +90,7 @@ Events are user interactions that are tracked independently from a web-page load
 
 ## Custom Dimensions & Metrics
 
-Custom dimensions and custom metrics are like default dimensions and metrics in your Analytics account, except you create them yourself! You can use them to collect and analyze data that Analytics doesn't automatically collect. For example, you might use a custom dimension to collect the user’s level in a mobile-app game. Or, if you’re a publisher, you might use a custom dimension to collect the user’s subscription level. Custom dimensions and metrics let you combine Analytics data with non-Analytics data, providing deeper insights into user behavior.
+Unlike the default dimensions and metrics in your Analytics account, Custom dimensions and custom metrics let you create your own metrics that are specific to your business for further analysis. [](https://t.co/Kjnuf070eR?amp=1 "https\://developers.google.com/analytics/devguides/collection/analyticsjs/custom-dims-mets?hl=en_US")You can use them to collect and analyze data that Analytics doesn't automatically collect. For example, you might use a custom dimension to collect the user’s level in a mobile-app game. Or, if you’re a publisher, you might use a custom dimension to collect the user’s subscription level. Custom dimensions and metrics let you combine Analytics data with non-Analytics data, providing deeper insights into user behavior. 
 
 ## Reporting
 
