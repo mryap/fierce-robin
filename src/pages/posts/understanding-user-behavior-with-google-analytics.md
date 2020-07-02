@@ -114,6 +114,8 @@ Cohort analysis helps you understand the behavior of component groups of users a
 * See how the behavior and performance of individual groups of users changes day to day, week to week, and month to month, relative to when you acquired those users.
 * Organize users into groups based on shared characteristics such as Acquisition Date, and then examine the behavior of those groups according to metrics like User Retention or Revenue.
 
+![](/images/b7y8ncmceaaqfvc.jpg)
+
 Understanding the point at which users tend to disengage (for example, initiate fewer sessions, view fewer pages, generate less revenue) can help you identify two things:
 
 * Common points of attrition that might be easily remedied
