@@ -55,10 +55,10 @@ To gather this information, take the time to discuss your business objectives wi
 
 Goals measure how effectively your application or website supports your business objectives. A goal represents a completed activity, called a conversion, that contributes to the success of your business. Examples of goals include 
 
-* purchase transactions (for an ecommerce business),
-* game-level completions (for a mobile gaming app),
-* submitting a “contact me” form (for a marketing or lead generation site), or
-* using a specific feature within your SaaS application.
+* purchase transactions (for an eCommerce business)
+* game-level completions (for a mobile gaming app)
+* submitting a “contact me” form (for a marketing or lead generation site) or
+* using a specific feature within your SaaS application
 
 Defining goals is a fundamental component of any digital analytics measurement plan. Having properly configured goals allows Analytics to provide you with critical information to better understand if users are completing the behaviors you want them to complete. Without this information, it's almost impossible to evaluate the effectiveness of your online business.
 
@@ -74,15 +74,11 @@ Pro-tips: Goals in Google Analytics only start showing data once you have config
 
 ## Enhanced Ecommerce
 
-Enhanced Ecommerce tracking allows you to measure the number of transactions and the revenue that your website or mobile app generates. Enhanced Ecommerce tracking helps you understand user behavior across the user's entire online shopping experience including: 
+Enhanced Ecommerce tracking allows you to measure the number of transactions and the revenue that your website or mobile app generates. Enhanced Ecommerce tracking helps you understand user behavior across the user's entire online shopping experience such as 
 
-* product impressions, 
-* product clicks, 
-* viewing product details, 
-* adding a product to a shopping cart, 
-* initiating the checkout process, 
-* transactions, and 
-* refunds
+* Purchase Funnel Analysis (where people abandon)
+* Checkout Behavior (how they are moving from one stage to another)
+* Product Performance (add-to-cart rate, buy-to-detail rate, removes from the cart)
 
 ![Enhanced eCommerce in Google Analytics helps you obtain reports such as Purchase Funnel Analysis (where people abandon), Checkout Behavior (how they are moving from a step to another), Product Performance (add-to-cart rate, buy-to-detail rate, removes from the cart)](/images/eyw_-fzwaaesv6q.png)
 
