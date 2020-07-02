@@ -49,7 +49,7 @@ To gather this information, take the time to discuss your business objectives wi
 
 <!--EndFragment-->
 
-<!--StartFragment-->
+## Common Implementation Customizations
 
 ### Goals
 
@@ -70,9 +70,7 @@ Pro-tips: Goals in Google Analytics only start showing data once you have config
 
 <!--EndFragment-->
 
-<!--EndFragment-->
-
-## Enhanced Ecommerce
+### Enhanced Ecommerce
 
 Enhanced Ecommerce tracking allows you to measure the number of transactions and the revenue that your website or mobile app generates. Enhanced Ecommerce tracking helps you understand user behavior across the user's entire online shopping experience such as 
 
@@ -82,19 +80,19 @@ Enhanced Ecommerce tracking allows you to measure the number of transactions and
 
 ![Enhanced eCommerce in Google Analytics helps you obtain reports such as Purchase Funnel Analysis (where people abandon), Checkout Behavior (how they are moving from a step to another), Product Performance (add-to-cart rate, buy-to-detail rate, removes from the cart)](/images/eyw_-fzwaaesv6q.png)
 
-## Event Tracking
+### Event Tracking
 
 Events are user interactions that are tracked independently from a web-page load or screen load. You can use events to track interactions within application screens or web pages. Events are commonly used in mobile apps to understand how users share content with other users, how they use the app’s search function, and when they select specific pieces of content. Events are commonly used on websites to track file downloads, content shares, and gadget interactions. Events are extremely flexible and let you collect the data you need to better understand user behavior.
 
 ![Successfully set up these Event Tracking via Google Tag Manager.](/images/b7_qkaziyaaemic.png)
 
-## Custom Dimensions & Metrics
+### Custom Dimensions & Metrics
 
 Unlike the default dimensions and metrics in your Analytics account, Custom dimensions and custom metrics let you create your own metrics that are specific to your business for further analysis. [](https://t.co/Kjnuf070eR?amp=1 "https\://developers.google.com/analytics/devguides/collection/analyticsjs/custom-dims-mets?hl=en_US")You can use them to collect and analyze data that Analytics doesn't automatically collect. For example, you might use a custom dimension to collect the user’s level in a mobile-app game. Or, if you’re a publisher, you might use a custom dimension to collect the user’s subscription level. Custom dimensions and metrics let you combine Analytics data with non-Analytics data, providing deeper insights into user behavior. 
 
 ## Reporting
 
-Now that we’ve discussed some of the most common implementation customizations, let’s look at the actual data. Below are a number of analysis techniques that can help you gain insights into user behavior.
+Now that I’ve shared some of the most common implementation customizations, let’s look at the actual data. Below are a number of analysis techniques that can help you gain insights into user behavior.
 
 ### Active Users
 
@@ -153,10 +151,6 @@ Understanding how Google Analytics creates its standard reports or custom tables
 
 <!--EndFragment-->
 
-<!--StartFragment-->
-
 Google Analytics is a amazing free tool, but to get the most from it you need to invest some time and effort to set it up and configure it so that it measures what you need it to track.   A properly set-up Google Analytics enable you to understand where your traffic is coming from, and what your conversion rate for each traffic source is.
-
-<!--EndFragment-->
 
 <!--EndFragment-->
