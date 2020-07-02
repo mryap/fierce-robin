@@ -60,6 +60,8 @@ Goals measure how effectively your application or website supports your business
 * submitting a “contact me” form (for a marketing or lead generation site) or
 * using a specific feature within your SaaS application
 
+![](/images/goals_destinationpages-1280x709.png)
+
 Defining goals is a fundamental component of any digital analytics measurement plan. Having properly configured goals allows Analytics to provide you with critical information to better understand if users are completing the behaviors you want them to complete. Without this information, it's almost impossible to evaluate the effectiveness of your online business.
 
 <!--StartFragment-->
