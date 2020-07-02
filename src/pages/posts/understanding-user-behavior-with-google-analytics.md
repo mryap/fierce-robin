@@ -102,7 +102,7 @@ If the numbers are below expectations, re-evaluate your marketing efforts to see
 
 In cases where you have a lot of 1-Day Active Users but the numbers drop off for longer term users, that can signal things like problems with a new release, or that initial enthusiasm isn't translating into long-term engagement. For example, many users might be downloading an app but finding that it doesn't meet a need they have or that it doesn't capture their interest.
 
-## Cohorts
+### Cohorts
 
 A very common way to measure user engagement is through a technique called cohort analysis. A cohort is a group of users who share a common characteristic. For example, all users with the same Acquisition Date (or first use) belong to the same cohort. The Cohort Analysis report lets you isolate and analyze cohort behavior.
 
@@ -117,7 +117,7 @@ Understanding the point at which users tend to disengage (for example, initiate 
 * Common points of attrition that might be easily remedied
 * The rate at which you need to acquire new users to compensate for unavoidable attrition
 
-## Behavior Flow Report
+### Behavior Flow Report
 
 The Behavior Flow report visualizes the paths users traveled from one screen, page or event to the next. This report can help you discover what content keeps users engaged with your site. The Behavior Flow report can also help identify potential content or usability issues.
 
@@ -127,7 +127,7 @@ Use the Behavior Flow report to investigate how engaged users are with your cont
 * Are there paths through your mobile app or site that are more popular than others, and if so, are those the paths that you want users to follow?
 * Did users go right from product pages to checkout without any additional shopping?
 
-## Event reporting
+### Event reporting
 
 Event reports organize your events into Category, Action, and Label. The specific categories, actions and labels that the reports display reflect the taxonomy that you have created in your event tracking code. For example, to track interactions with your video player, you might set up the following categories, actions, and labels:
 
@@ -137,9 +137,9 @@ Action: “Play”, “Stop”, “Pause”
 Label: “Dance music video”, “Getting started with Google Analytics”
 ```
 
-## Custom Dimension & Metric reporting
+### Custom Dimension & Metric reporting
 
-Once you have configured and collected custom dimensions and metrics, they become available via the user reporting interface. Custom dimensions and metrics are available in custom reports, and are available for use with advanced segments. Custom dimensions can also be used as secondary dimensions in standard reports.
+Once you have configured and collected custom dimensions and metrics, they become available in custom reports, and are available for use with advanced segments. Custom dimensions can also be used as secondary dimensions in standard reports.
 
 For example, you might use custom dimensions and metrics to learn about player behavior in a gaming app. Using custom dimensions, you could create new groupings of hits, sessions, and users. Additionally, you might want to sell extra features to enhance the user experience, such as "powerups". You could use an extra field to measure the strength of each powerup that users purchased. This way, you’d be able to determine if certain powerup strengths were more popular than others. Using custom dimensions and metrics in this way would allow you to answer questions like:
 
