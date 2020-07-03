@@ -88,7 +88,7 @@ Enhanced Ecommerce tracking allows you to measure the number of transactions and
 
 Events are user interactions that are tracked independently from a web-page load or screen load. You can use events to track interactions within application screens or web pages. Events are commonly used in mobile apps to understand how users share content with other users, how they use the app’s search function, and when they select specific pieces of content. Events are commonly used on websites to track file downloads, content shares, and gadget interactions. Events are extremely flexible and let you collect the data you need to better understand user behavior.
 
-![Successfully set up these Event Tracking via Google Tag Manager.](/images/b7_qkaziyaaemic.png)
+![Successfully set up these Event Tracking via Google Tag Manager.](/images/optimize_b7_qkaziyaaemic_8e6b6c88d2f89d0740e45dcb9153ffe1.png)
 
 ### Custom Dimensions & Metrics
 
