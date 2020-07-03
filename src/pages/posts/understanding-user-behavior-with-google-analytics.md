@@ -64,9 +64,7 @@ Goals measure how effectively your application or website supports your business
 * submitting a “contact me” form (for a marketing or lead generation site) or
 * using a specific feature within your SaaS application
 
-![](/images/goals_destinationpages-1280x709.png)
-
-
+![](/images/optimize_goals_destinationpages-1280x709_ff9ceb0a86a15c21d67b5ed2e5fa113b.png)
 
 <!--StartFragment-->
 
