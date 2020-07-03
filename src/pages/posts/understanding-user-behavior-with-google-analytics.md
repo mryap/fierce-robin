@@ -53,6 +53,10 @@ To gather this information, take the time to discuss your business objectives wi
 
 ### Goals
 
+Defining goals is a fundamental component of any digital analytics measurement plan. Having properly configured goals allows Analytics to provide you with critical information to better understand if users are completing the actions you want them to complete. 
+
+Without this information, it's almost impossible to evaluate the effectiveness of your online business.
+
 Goals measure how effectively your application or website supports your business objectives. A goal represents a completed activity, called a conversion, that contributes to the success of your business. Examples of goals include 
 
 * purchase transactions (for an eCommerce business)
@@ -62,7 +66,7 @@ Goals measure how effectively your application or website supports your business
 
 ![](/images/goals_destinationpages-1280x709.png)
 
-Defining goals is a fundamental component of any digital analytics measurement plan. Having properly configured goals allows Analytics to provide you with critical information to better understand if users are completing the behaviors you want them to complete. Without this information, it's almost impossible to evaluate the effectiveness of your online business.
+
 
 <!--StartFragment-->
 
