@@ -39,10 +39,13 @@ A workaround via Github. All content is saved and store as markdown file.
 
 This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/). 
 
-### Caveat Emptor
-If you already have an existing WordPress site that doing well for your organizations, you need to be aware of the following if you decide to go 'static`
+### Caveat Emptor - The Trade Off 
+
+You need to be aware of the following if you decide to go 'static`
 - Any “real-time” dynamic content on your site will not work
 - WordPress built-in commenting system can't be use. (If not even being use at all, you can do without it!) 
+
+If you already have an existing WordPress site that doing well for your organization, here is a case study that helps to speed up WordPress site without going 'static' [link](https://www.wpbeginner.com/opinion/how-we-made-wordpress-faster-than-static-site-generators-case-study-speeding-up-wpbeginner/?utm_source=testandoptimize.com)
 
 
 
