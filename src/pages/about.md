@@ -1,6 +1,6 @@
 ---
 title: About Test & Optimize
-subtitle: "Build online success with Digital Analytics and a/B testing. Hire me
+subtitle: "Build online success with Digital Analytics andA/B testing. Hire me
   to gain validated business insight & improves the customer experience.  "
 img_path: ""
 menus:
@@ -11,17 +11,19 @@ template: page
 ---
 <!--StartFragment-->
 
-Use my diverse skills, knowledge and experience as Digital Web Analyst, WordPress Developer, Online Marketing Assistant and Webmaster to help organisations to build online success with Digital Analytics and Conversion Optimization.
+I am Shiao-Shyan.
 
-I have <mark>10-years experience</mark> in the internet industry. In my various role, I have worked with a diverse range of companies on internet-related projects with emphasis on developing websites and managing online marketing activities.
+I start my career as webmaster and web designer, maintaining website for various sector and industry. At CNET Asia, I deal with email deliverability issues as an online advertising assistant. As a freelance web analyst working with marketing people, I bring the knowledge of SEO, Content, Re-targeting and A/B testing to drive web traffic, increase visibility, reach and conversion.
+
+With my diverse experience as Digital Web Analyst, WordPress Developer, Online Marketing Assistant and Webmaster, I can bring a holistic perspective and technical savviness to work on your online presence to add features, improve usability and search rankings, as well as maintenance.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-Here are some career highlights
-### Conversion Rate Optimization
+Career highlights
 
+### Conversion Rate Optimization
 
 * Involved an E-commerce rail model toy store (on-going)
 * Conducted A/B tests, achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer
@@ -31,23 +33,28 @@ Here are some career highlights
 * Volunteer in a committee of 10 people, to bring Measurecamp to Dublin, Ireland
 
 ### Email Marketing
+
 * Responsible for running email marketing campaign covering APAC region
 * Prepare post-campaigns reporting with DART for Publishers (DFP)
 
 ### Google Data Studio
+
 * Using Google Data Studio, help organisation develop reporting capabilities to see post-click performance
 
 ### Google Tag Manager
-* Set-up Enhanced E-commerce with Google Tag Manager (GTM) so that product impression, promotion, checkout steps, product clicks and sales data are sent with pageviews and events for a London-based Beauty Product firm
+
+* Set-up Enhanced E-commerce with Google Tag Manager (GTM) so that product impression, promotion, checkout steps, product clicks and sales data are sent with pageviews and events for a London-based cosmetic company
 * Use Scroll Depth Tracking, Adjusted Bounce Rate, and Average Time On Page as a proxy for User Engagement and Content Quality for a sport-tech start-up in Dublin
 * Tracking single scrolling page website with GTM for a Dublin-based charity
 
 ### Others
+
 * Bring PPC data, Google Analytics, Stripe, Intercom to Tableau Desktop to look at Return on Advertising Spending
 * Re-purpose homepage to improve its usability on mobile devices
 * Integrated Paypal form to sell gift certificate online, Integrated mailing list form to gather leads
 
 ### Website Revamp and Update
+
 * Worked with marketing department successfully revamped university website based on new design template. Championed and educated the use of Google Analytics throughout school department. Designed web and email newsletter templates for department user based on university branding guidelines using HTML, CSS.
 * Work with Product Executive to edit, and maintain internal and external product documentation for worldwide technical audience online
 * In-charged of inputting seller and buyer policies for Hong Kong and Singapore eBay. Create and modify content using eBay's in-house XML content framework ensuring content and formatting is consistent with the source documents.
@@ -55,4 +62,3 @@ Here are some career highlights
 * In-charged of web designing, updating and maintenance of clients’ website using HTML/CSS, JavaScript coding and Photoshop
 
 <!--EndFragment-->
-
