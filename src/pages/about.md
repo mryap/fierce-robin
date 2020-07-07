@@ -43,7 +43,7 @@ Career highlights
 
 ### Google Tag Manager
 
-* Set-up Enhanced E-commerce with Google Tag Manager (GTM) so that product impression, promotion, checkout steps, product clicks and sales data are sent with pageviews and events for a London-based cosmetic company
+* Set-up Enhanced E-commerce with Google Tag Manager (GTM) to understand user behavior across their journeys for a London-based cosmetic company
 * Use Scroll Depth Tracking, Adjusted Bounce Rate, and Average Time On Page as a proxy for User Engagement and Content Quality for a sport-tech start-up in Dublin
 * Tracking single scrolling page website with GTM for a Dublin-based charity
 
@@ -55,9 +55,9 @@ Career highlights
 
 ### Website Revamp and Update
 
-* Worked with marketing department successfully revamped university website based on new design template. Championed and educated the use of Google Analytics throughout school department. Designed web and email newsletter templates for department user based on university branding guidelines using HTML, CSS.
-* Work with Product Executive to edit, and maintain internal and external product documentation for worldwide technical audience online
-* In-charged of inputting seller and buyer policies for Hong Kong and Singapore eBay. Create and modify content using eBay's in-house XML content framework ensuring content and formatting is consistent with the source documents.
+* Worked with marketing department successfully revamped university website based on a new visual identity and brand guidelines. Championed and educated the use of Google Analytics throughout school department. Designed web and email newsletter templates for department user based on university branding guidelines using HTML, CSS.
+* Work with Product Executive at to edit, and maintain internal and external product documentation for worldwide technical audience online
+* In-charged of inputting seller and buyer policies for Hong Kong and Singapore eBay. Create and modify content using eBay's in-house CMS ensuring content and formatting is consistent with the source documents.
 * Revamping Intranet and Internet running on Oracle system, responsible for front-­end design. Liaise with respective departments on web content publication
 * In-charged of web designing, updating and maintenance of clients’ website using HTML/CSS, JavaScript coding and Photoshop
 
