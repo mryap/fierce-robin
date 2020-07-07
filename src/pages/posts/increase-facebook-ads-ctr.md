@@ -6,6 +6,8 @@ thumb_img_path: /images/14373582_1745844415636170_9132128278444769280_n.png
 menus:
   secondary:
     title: ""
+  main:
+    weight: 0
 template: post
 ---
 <!--StartFragment-->
