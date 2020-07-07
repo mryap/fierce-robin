@@ -1,6 +1,6 @@
 ---
 title: About Test & Optimize
-subtitle: "Build online success with Digital Analytics andA/B testing. Hire me
+subtitle: "Build online success with Digital Analytics and A/B testing. Hire me
   to gain validated business insight & improves the customer experience.  "
 img_path: ""
 menus:
