@@ -39,3 +39,11 @@ static site are appealing for security, reliability, speed and saving on hosting
 
 Here my approach. You generate a WordPress site, de-couple from the CMS (which is a database) and served the published content. Without a round-trip request to the database to serve a webpage is appealing. A faster site and when your CMS is down, you site is still up and running.
 
+### Caveat Emptor
+
+You still can use WordPress CMS to insert new content as usual. However, you need to be aware of the following
+- Any “real-time” dynamic content on your site will not woek
+- WordPress built-in commenting system can't be use. If not even being use at all, you can do without it! 
+
+
+
