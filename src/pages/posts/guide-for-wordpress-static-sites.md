@@ -14,7 +14,6 @@ WordPress CMS brings together different multiple components - an Apache web serv
 
 Image Source: https://www.testandoptimize.com/posts/2018-09-29-From-LAMP-to-JAM/
 
-
 When a content is posted on WordPress CMS, it will be saved in a MySQL database (the database of WordPress). 
 
 How do you backup the content on your WordPress? Remembered this content are store in database. It a really hassle to run phpmyadmin to access mysql to retrieve a content that being uploaded.
@@ -39,14 +38,15 @@ A workaround via Github. All content is saved and store as markdown file.
 
 This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/). 
 
-### Caveat Emptor - The Trade Off 
+### Caveat Emptor - The Trade Off
 
 You need to be aware of the following if you decide to go 'static`
-- Any “real-time” dynamic content on your site will not work
-- WordPress built-in commenting system can't be use. (If not even being use at all, you can do without it!) 
+
+* Any “real-time” dynamic content on your site will not work
+* WordPress built-in commenting system can't be use. (If not even being use at all, you can do without it!) 
 
 If you already have an existing WordPress site that doing well for your organization, here is a case study that helps to speed up WordPress site without going 'static' [link](https://www.wpbeginner.com/opinion/how-we-made-wordpress-faster-than-static-site-generators-case-study-speeding-up-wpbeginner/?utm_source=testandoptimize.com)
 
+#### End Note: How fast is fast?
 
-
-
+There isn't a universal definition of “fast” vs “slow.” My assertion: Take action if your site page loading speed > 15 seconds [Time to Interactive (TTI)](https://web.dev/interactive/)!
