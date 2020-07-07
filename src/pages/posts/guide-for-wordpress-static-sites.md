@@ -1,6 +1,9 @@
 ---
 title: Guide for WordPress `Static sites`
 date: 2020-07-07T09:59:09.988Z
+menus:
+  secondary:
+    weight: 1
 template: post
 ---
 # WordPress Site
