@@ -21,15 +21,9 @@ How do you backup the content on your WordPress? Remembered this content are sto
 
 ![Mysql access via Adminer so I can have wordpress content in sql.gz](https://pbs.twimg.com/media/DlISSUrWwAAbswE?format=jpg&name=900x900)
 
-A workaround is via Github. All content is saved and store as markdown file. 
-
-![](https://pbs.twimg.com/media/D5UNWEjWkAUPJXQ?format=jpg&name=900x900)
-
-This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/). 
-
 ### JamStack
 
-Static websites are not a new concept. Before WordPress CMS, websites are crafted with html files, CSS and Javascript and being uploaded via FTP to a web server. No database is involved.
+Static websites are not a new concept. Before WordPress CMS, websites are built with html files, CSS and Javascript and being uploaded via FTP to a web server. No database is involved.
 
 Smashing Magazine ditch WordPress and move to JAMstack - stands for JavaScript, APIs, & Markup; an approach to building and hosting websites that allows you to have all the web performance & security benefits of a static website along with the dynamic capabilities of a database-driven CMS.
 
@@ -37,10 +31,16 @@ Static sites are appealing for their security, reliability, speed and saving on 
 
 ### The Best of Both World
 
-Here my approach. You still can use WordPress CMS to insert new content as usual. Once the WordPress site's content goes live, de-couple from the CMS and served the published lived content. Without a round-trip request to the database to served up a webpage when user access thru a browser is appealing. A faster site and when your CMS is down, you site is still up and running.
+Without a round-trip request to the database to served up a webpage when user access thru a browser is appealing. A faster site and when your CMS is down, you site is still up and running.
+
+A workaround via Github. All content is saved and store as markdown file. 
+
+![](https://pbs.twimg.com/media/D5UNWEjWkAUPJXQ?format=jpg&name=900x900)
+
+This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/). 
 
 ### Caveat Emptor
-If you already have an existing WordPress site that doing well for your orgnaizations, you need to be aware of the following if you decide to go 'static`
+If you already have an existing WordPress site that doing well for your organizations, you need to be aware of the following if you decide to go 'static`
 - Any “real-time” dynamic content on your site will not work
 - WordPress built-in commenting system can't be use. (If not even being use at all, you can do without it!) 
 
