@@ -15,11 +15,11 @@ WordPress CMS brings together different multiple components - an Apache web serv
 Image Source: https://www.testandoptimize.com/posts/2018-09-29-From-LAMP-to-JAM/
 
 
-When a content is posted on WordPress CMS, it will be saved in a mysql database (the database of WordPress). 
+When a content is posted on WordPress CMS, it will be saved in a MySQL database (the database of WordPress). 
 
-How do you backup the content on your WordPress? Remembered this content are store in database. It a chore to run phpmyadmin to access mysql to retrieve a content that up there.
+How do you backup the content on your WordPress? Remembered this content are store in database. It a really hassle to run phpmyadmin to access mysql to retrieve a content that being uploaded.
 
-![Mysql access via Adminer as I have wordpress content in sql.gz](https://pbs.twimg.com/media/DlISSUrWwAAbswE?format=jpg&name=900x900)
+![Mysql access via Adminer so I can have wordpress content in sql.gz](https://pbs.twimg.com/media/DlISSUrWwAAbswE?format=jpg&name=900x900)
 
 A workaround is via Github. All content is saved and store as markdown file. 
 
@@ -29,11 +29,11 @@ This Github as back-end approach is not for everyone as you need to master [Git 
 
 ### JamStack
 
-Static websites are not a new concept. Before WordPress CMS, websites are crafted with html files, Css and javascript and being uploaded via FTP to a web server. No database is involved.
+Static websites are not a new concept. Before WordPress CMS, websites are crafted with html files, CSS and Javascript and being uploaded via FTP to a web server. No database is involved.
 
 Smashing Magazine ditch WordPress and move to JAMstack - stands for JavaScript, APIs, & Markup; an approach to building and hosting websites that allows you to have all the web performance & security benefits of a static website along with the dynamic capabilities of a database-driven CMS.
 
-static site are appealing for security, reliability, speed and saving on hosting site. Hosted on GitHub, powered by @Netlify with Content Delivery Network and free HTTPS. 
+Static sites are appealing for their security, reliability, speed and saving on hosting site. Hosted on GitHub, powered by the likes of Netlify with Content Delivery Network and free HTTPS. 
 
 ### The Best of Both World
 
