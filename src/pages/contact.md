@@ -17,8 +17,7 @@ sections:
 
       • You’re looking for methods to turn your company data into action\
 
-      • You’re looking to get more meaningful ‘wins’ from your optimization
-      strategy
+      • You’re looking to get more meaningful ‘wins’ from your optimization strategy
 
 
       <!--EndFragment-->
@@ -26,6 +25,6 @@ sections:
 menus:
   secondary:
     title: Contact
-    weight: 3
+    weight: ""
 template: landing
 ---
