@@ -6,9 +6,11 @@ menus:
     weight: 6
 template: post
 ---
-# WordPress Site
+# WordPress Site works with PHP and MySQL. 
 
-WordPress CMS brings together different multiple components - an Apache web server that serves up the code, an interpreted scripting language, PHP and a database server, MySQL. 
+WordPress CMS brings together multiple components - an Apache web server that serves up the code, an interpreted scripting language, PHP and a database server, MySQL. 
+
+When a page loads on the browser, The core PHP files will pull data and instructions from the database to assemble the page. It happens dynamically each time.  
 
 ![](https://www.testandoptimize.com/images/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d727961702f696d6167652f75706c6f61642f76313533393135373434382f776562736974652f7765626465762d737461636b2e6a7067.jpg)
 
@@ -24,19 +26,19 @@ How do you backup the content on your WordPress? Remembered this content are sto
 
 Static websites are not a new concept. Before WordPress CMS, websites are built with html files, CSS and Javascript and being uploaded via FTP to a web server. No database is involved.
 
-Smashing Magazine ditch WordPress and move to JAMstack - stands for JavaScript, APIs, & Markup; an approach to building and hosting websites that allows you to have all the web performance & security benefits of a static website along with the dynamic capabilities of a database-driven CMS.
+JAMstack - stands for JavaScript, APIs, & Markup; is an approach to building and hosting websites that allows you to have all the web performance & security benefits of a static website along with the dynamic capabilities of a database-driven CMS. Smashing Magazine ditch WordPress and move to JAMstack. 
 
-Static sites are appealing for their security, reliability, speed and saving on hosting site. Hosted on GitHub, powered by the likes of Netlify with Content Delivery Network and free HTTPS. 
+As database is not involve each time, static sites are appealing for their security, reliability, speed and saving on hosting site. 
 
 ### The Best of Both World
 
-Without a round-trip request to the database to served up a webpage when user access thru a browser is appealing. A faster site and when your CMS is down, you site is still up and running.
+Without a round-trip request to the database to served up a webpage when user access thru a browser is appealing. A faster site and when your CMS is down, you site will not be affected
 
 A workaround via Github. All content is saved and store as markdown file. 
 
 ![](https://pbs.twimg.com/media/D5UNWEjWkAUPJXQ?format=jpg&name=900x900)
 
-This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/). 
+This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/).
 
 ### Caveat Emptor - The Trade Off
 
