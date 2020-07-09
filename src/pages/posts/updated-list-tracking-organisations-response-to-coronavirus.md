@@ -1,12 +1,34 @@
 ---
 title: Updated list tracking organisations response to CoVid19
-subtitle: "Last Update: 4th June 2020 "
+subtitle: "Last Update: 9th July 2020 "
 date: 2020-04-23T07:12:31.452Z
 menus:
   secondary:
     title: Tracking organisations CoVid19 response
 template: post
 ---
+<!--StartFragment-->
+
+## New Google My Business Attributes
+
+<!--StartFragment-->
+
+The world we live in now, it’s more helpful to know whether a business has curbside pickup than if they have outdoor seating. That’s what the new Google My Business Attributes rolling out are focused on.
+
+The new attributes which appear in Search and Maps are:
+
+\`curbside pickup\`
+
+\`no contact delivery\`
+
+\`dine-in\`
+
+Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-help-businesses-during-covid-19/
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 ## Google
