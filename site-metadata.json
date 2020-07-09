@@ -21,13 +21,16 @@
     "social_title": "Let Connect",
     "tagline": "Hire me to get validated insight with A/B testing",
     "logo_img": "/images/15888516658712018870747.png",
-    "has_social": true,
+    "has_social": false,
     "content": "&copy; Test & Optimize. All rights reserved.",
     "links": [
       {
         "new_window": true,
         "url": "https://mryap.github.io",
         "text": "Bring machine learning to digital analytics "
+      },
+      {
+        "new_window": true
       }
     ],
     "nav_title": "Test & Optimize",
