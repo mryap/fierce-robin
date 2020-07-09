@@ -26,11 +26,13 @@
     "links": [
       {
         "new_window": true,
-        "url": "https://mryap.github.io",
-        "text": "Bring machine learning to digital analytics "
+        "url": "https://www.twitter.com/testandoptimize",
+        "text": "Twitter"
       },
       {
-        "new_window": true
+        "new_window": true,
+        "text": "Linkedin",
+        "url": "https://www.linkedin.com/in/ssyap/"
       }
     ],
     "nav_title": "Test & Optimize",
