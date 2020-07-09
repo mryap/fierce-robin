@@ -17,11 +17,11 @@ The world we live in now, it’s more helpful to know whether a business has cur
 
 The new attributes which appear in Search and Maps are:
 
-\`curbside pickup\`
+`curbside pickup`
 
-\`no contact delivery\`
+`no contact delivery`
 
-\`dine-in\`
+`dine-in`
 
 Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-help-businesses-during-covid-19/
 
