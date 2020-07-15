@@ -3,10 +3,10 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: The Best Features of Your Services
+    title: "Web Analytics, Usability Testing, A/B test "
     content: >-
       
-      I help organizations determine what causes visitors to leave their site without taking action,identify areas for improvement with Web Analytics, Usability Testing, A/B test to find the right design & messaging mix that resonate.
+      I help organizations determine what causes visitors to leave their site without taking action,identify areas for improvement.
 
 
       * Validate new design or change from existing traffic
