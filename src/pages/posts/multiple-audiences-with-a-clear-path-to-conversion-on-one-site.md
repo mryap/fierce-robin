@@ -2,6 +2,7 @@
 title: Multiple Audiences with a Clear Path to Conversion on one site
 subtitle: " Different strokes for different folks"
 date: 2020-07-17T14:53:30.977Z
+thumb_img_path: /images/pasted-image-0.png
 template: post
 ---
 A website that seeks to please everyone at once ends up serving no one at all. The last thing you want to do is create confusion for your valuable web visitors. 
