@@ -6,11 +6,11 @@ template: post
 ---
 A website that seeks to please everyone at once ends up serving no one at all. The last thing you want to do is create confusion for your valuable web visitors. 
 
-How do you go about writing a "strong value proposition" that resonates with multiple audiences? For example, law firms practice many different areas of law.
+How do you go about writing a "strong value proposition" that resonates with multiple audiences? For example, law firms practice many different areas of law. Higher education websites that need to reach out to undergraduate, post graduate and professional studies.
 
 One technique I learn is write for different groups on the same page, but keep the page concise, driving each group to its own targeted landing page. 
 
-Using recruitment agency website as an example, the homepage can ha
+Using recruitment agency website as an example, the homepage can have both of these
 “Looking for an exciting, new career?” (for candidates), and
 “Looking for the perfect candidate?” (for companies).
 
