@@ -162,9 +162,17 @@ Understanding how Google Analytics creates its standard reports or custom tables
 
 App + Web is the new version of Google Analytics. If you have customers across multiple platforms (such as web, iOS, Android, etc.), App + Web is a better tools for rolling up that data from multiple platforms into a single view of the customer. 
 
+DO you use App+Web? Google official line is 
+
+> We recommend continuing to use your existing Analytics properties alongside an App + Web property.
+
+
+
 ![](/images/50652051_10156358372619335_7769332462479474688_n.jpg)
 
 <!--EndFragment-->
+
+\### Conclusion
 
 Google Analytics is a amazing free tool, but to get the most from it you need to invest some time and effort to set it up and configure it so that it measures what you need it to track.   A properly set-up Google Analytics enable you to understand where your traffic is coming from, and what your conversion rate for each traffic source is.
 
