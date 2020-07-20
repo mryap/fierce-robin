@@ -23,18 +23,7 @@
     "logo_img": "/images/15888516658712018870747.png",
     "has_social": true,
     "content": "&copy; Test & Optimize. All rights reserved.",
-    "links": [
-      {
-        "new_window": true,
-        "url": "https://www.twitter.com/testandoptimize",
-        "text": "Twitter"
-      },
-      {
-        "new_window": true,
-        "text": "Linkedin",
-        "url": "https://www.linkedin.com/in/ssyap/"
-      }
-    ],
+    "links": [],
     "nav_title": "Test & Optimize",
     "has_nav": true
   }
