@@ -4,7 +4,7 @@
   "header": {
     "title": "Test & Optimize",
     "logo_img": "",
-    "has_nav": true,
+    "has_nav": false,
     "menu": {
       "actions": [
         {
@@ -21,7 +21,7 @@
     "social_title": "Let Connect",
     "tagline": "Hire me to get validated insight with A/B testing",
     "logo_img": "/images/15888516658712018870747.png",
-    "has_social": false,
+    "has_social": true,
     "content": "&copy; Test & Optimize. All rights reserved.",
     "links": [
       {
