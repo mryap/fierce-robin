@@ -6,7 +6,7 @@ menus:
     weight: 6
 template: post
 ---
-# WordPress Site works with PHP and MySQL. 
+# WordPress Site works with PHP and MySQL.
 
 WordPress CMS brings together multiple components - an Apache web server that serves up the code, an interpreted scripting language, PHP and a database server, MySQL. 
 
@@ -39,6 +39,10 @@ A workaround via Github. All content is saved and store as markdown file.
 ![](https://pbs.twimg.com/media/D5UNWEjWkAUPJXQ?format=jpg&name=900x900)
 
 This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/).
+
+Another approach is to use `WP Super Cache plugin`. The plugin generates static html files from your dynamic WordPress blog. After a html file is generated and available under/cache folder, your Web Server will serve that static file instead of processing the comparatively heavier and more expensive WordPress PHP scripts
+
+![Speed up WordPress Site by tuning WP Super Cache Settings](/images/wp-super-cache-advanced-tab-settings-crunchify-tips.png)
 
 ### Caveat Emptor - The Trade Off
 
