@@ -1,16 +1,15 @@
 ---
 title: Guide for WordPress `Static sites`
+subtitle: Made WordPress Load Faster in half-a-day without static site generators
 date: 2020-07-07T09:59:09.988Z
 menus:
   secondary:
     weight: 6
 template: post
 ---
-# WordPress Site works with PHP and MySQL.
+WordPress Site works with PHP and MySQL. WordPress brings together multiple components - an Apache web server that serves up the code, an interpreted scripting language, PHP and a database server, MySQL. 
 
-WordPress CMS brings together multiple components - an Apache web server that serves up the code, an interpreted scripting language, PHP and a database server, MySQL. 
-
-When a page loads on the browser, The core PHP files will pull data and instructions from the database to assemble the page. It happens dynamically each time.  
+When a page loads on the browser, the core PHP files will pull data and instructions from the database to assemble the page. It happens dynamically each time.  
 
 ![](https://www.testandoptimize.com/images/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d727961702f696d6167652f75706c6f61642f76313533393135373434382f776562736974652f7765626465762d737461636b2e6a7067.jpg)
 
@@ -40,6 +39,7 @@ A workaround via Github. All content is saved and store as markdown file.
 
 This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/).
 
+### Made WordPress Load Faster without static site generators
 Another approach is to use `WP Super Cache plugin`. The plugin generates static html files from your dynamic WordPress blog. After a html file is generated and available under/cache folder, your Web Server will serve that static file instead of processing the comparatively heavier and more expensive WordPress PHP scripts
 
 ![Speed up WordPress Site by tuning WP Super Cache Settings](/images/wp-super-cache-advanced-tab-settings-crunchify-tips.png)
@@ -55,4 +55,5 @@ If you already have an existing WordPress site that doing well for your organiza
 
 #### End Note: How fast is fast?
 
-There isn't a universal definition of “fast” vs “slow.” My assertion: Take action if your site page loading speed > 15 seconds [Time to Interactive (TTI)](https://web.dev/interactive/)!
+There isn't a universal definition of “fast” vs “slow.” Speed, i.e the loading time of your site is the most important metric 
+My assertion: Take action if your site page loading speed > 15 seconds [Time to Interactive (TTI)](https://web.dev/interactive/)!
