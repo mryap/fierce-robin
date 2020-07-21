@@ -57,3 +57,6 @@ If you already have an existing WordPress site that doing well for your organiza
 
 There isn't a universal definition of “fast” vs “slow.” Speed, i.e the loading time of your site is the most important metric 
 My assertion: Take action if your site page loading speed > 15 seconds [Time to Interactive (TTI)](https://web.dev/interactive/)!
+
+#### Hire Me
+I migrated an Irish SMB's WordPress site to a new hosting provider without losing any content. On another project, I use WP Fastest Cache, image scaling and WP Smush to improve the WordPress website performance. I can help to improve your WordPress site, add features, improve usability and search rankings. 
