@@ -18,8 +18,8 @@ sections:
     title: Turn clicks into profit
     image: /images/xhero.png
     actions:
-      - label: Contact Me
-        url: /contact
+      - label: Read My Blog
+        url: /blog
       - label: Learn More
         url: /about
   - bg: white
