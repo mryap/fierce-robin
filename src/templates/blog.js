@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+import Header from './Header';
 
 import {Layout} from '../components/index';
 import {getPages, Link, safePrefix} from '../utils';
@@ -11,8 +12,9 @@ export default class Blog extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="outer">
-            <h1>I help organizations strive with Analytics and A/B Testing</h1>
+            
               <div className="inner">
+            <h1>I help organizations strive with Analytics and A/B Testing</h1>
                 <div className="post-feed">
                   {_.map(display_posts, (post, post_idx) => (
                   <article key={post_idx} className="post post-card">
