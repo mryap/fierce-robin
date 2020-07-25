@@ -13,7 +13,8 @@ export default class Blog extends React.Component {
             <div className="outer">
             
               <div className="inner">
-            <h1>I help organizations strive with Analytics and A/B Testing</h1>
+            <div class="post-subtitle">Build online success with Digital Analytics and A/B testing. Hire me to gain validated business insight &amp; improves the customer experience.  </div>
+           
                 <div className="post-feed">
                   {_.map(display_posts, (post, post_idx) => (
                   <article key={post_idx} className="post post-card">
