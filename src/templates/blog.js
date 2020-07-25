@@ -11,6 +11,7 @@ export default class Blog extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="outer">
+            <h1>I help organizations strive with Analytics and A/B Testing</h1>
               <div className="inner">
                 <div className="post-feed">
                   {_.map(display_posts, (post, post_idx) => (
