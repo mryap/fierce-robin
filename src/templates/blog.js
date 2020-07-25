@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-import Header from './Header';
 
 import {Layout} from '../components/index';
 import {getPages, Link, safePrefix} from '../utils';
