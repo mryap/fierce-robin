@@ -39,7 +39,7 @@ sections:
       - actions: []
         content: It’s important to select the right kind of test, and determine which
           testing approach is right for your business models.
-        image: /images/optimize-smb-benefit_2x.jpg
+        image: /images/50652051_10156358372619335_7769332462479474688_n.jpg
         title: "Select the right test method "
       - actions: []
         content: With my statistics background, I can say with certainty the outcome of
