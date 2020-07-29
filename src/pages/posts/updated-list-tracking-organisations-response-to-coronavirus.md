@@ -1,6 +1,6 @@
 ---
 title: Updated list tracking organisations response to CoVid19
-subtitle: "Last Update: 9th July 2020 "
+subtitle: "Last Update: 29th July 2020 "
 date: 2020-04-23T07:12:31.452Z
 menus:
   secondary:
@@ -8,6 +8,22 @@ menus:
 template: post
 ---
 <!--StartFragment-->
+
+**Free advertising from Google in 3 main ways** 
+
+Google stopped charging merchants a fee to list products on its Google Shopping search pages as the coronavirus pandemic makes e-Commerce a vital sales channel.
+
+If you fulfill with some requirements, the types of listing on surfaces across Google you can try are:
+
+\- The Google Shopping Tab
+
+\- Google Search
+
+\- Google Images
+
+<https://support.google.com/merchants/answer/9826670>
+
+<!--EndFragment-->
 
 ## New Google My Business Attributes
 
@@ -27,7 +43,7 @@ Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-he
 
 <!--EndFragment-->
 
-<!--EndFragment-->
+
 
 <!--StartFragment-->
 
