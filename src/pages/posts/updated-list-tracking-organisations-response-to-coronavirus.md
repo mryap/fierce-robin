@@ -15,17 +15,15 @@ Google stopped charging merchants a fee to list products on its Google Shopping 
 
 If you fulfill with some requirements, the types of listing on surfaces across Google you can try are:
 
-\- The Google Shopping Tab
-
-\- Google Search
-
-\- Google Images
+- The Google Shopping Tab
+- Google Search
+- Google Images
 
 <https://support.google.com/merchants/answer/9826670>
 
 <!--EndFragment-->
 
-## New Google My Business Attributes
+### New Google My Business Attributes
 
 <!--StartFragment-->
 
@@ -34,9 +32,7 @@ The world we live in now, it’s more helpful to know whether a business has cur
 The new attributes which appear in Search and Maps are:
 
 `curbside pickup`
-
 `no contact delivery`
-
 `dine-in`
 
 Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-help-businesses-during-covid-19/
@@ -47,7 +43,7 @@ Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-he
 
 <!--StartFragment-->
 
-## Google
+### Google
 
 If you already using Optimize to test winning version of your website elements, you can now use the new feature to add a message on your website to keep customers informed about changes to normal business hours, services offered, shipping policies.
 
@@ -63,7 +59,7 @@ https://support.google.com/optimize/answer/9823410
 
 <!--StartFragment-->
 
-## Bank
+### Bank
 
 Resona bank is using stuffed toy versions of mascot Resonya, to maintain social distancing between customers at its branches.
 
@@ -71,7 +67,7 @@ https://www.sankeibiz.jp/business/news/200421/bse2004211801003-n1.htm
 
 <!--EndFragment-->
 
-## Postal Services
+### Postal Services
 
 <!--StartFragment-->
 
@@ -81,7 +77,7 @@ AnPost, Ireland's postal services launches ‘Request a Check-In’ and newspape
 
 <!--StartFragment-->
 
-## Distilleries
+### Distilleries
 
 Few Distilleries in New York states switched from making alcoholic beverages to hand sanitizer, which they gave away for free to help communities. [[Hat Tip to Ann Donnelly](https://twitter.com/ann_donnelly/status/1253288520606781440)] 
 
