@@ -1,15 +1,20 @@
 ---
 title: Updated list tracking organisations response to CoVid19
-subtitle: "Last Update: 29th July 2020 "
+subtitle: "Last Update: 30th July 2020 "
 date: 2020-04-23T07:12:31.452Z
 menus:
   secondary:
     title: Tracking organisations CoVid19 response
 template: post
 ---
+
+With the French wine market in tatters due to the coronavirus and a 25% US tariff, winemakers are turning wine into hand gel. About 5,000 winemakers have signed up for the operation, which is sponsored by the government in a bid to protect the industry. 
+
+[Of Wine, Hand Sanitizer and Heartbreak](https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/27/world/europe/france-alsace-wine-coronavirus.amp.html)
+
 <!--StartFragment-->
 
-**Free advertising from Google in 3 main ways** 
+**Free advertising from Google in 3 ways** 
 
 Google stopped charging merchants a fee to list products on its Google Shopping search pages as the coronavirus pandemic makes e-Commerce a vital sales channel.
 
@@ -43,17 +48,13 @@ Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-he
 
 <!--StartFragment-->
 
-### Google
+### Google Optimize
 
 If you already using Optimize to test winning version of your website elements, you can now use the new feature to add a message on your website to keep customers informed about changes to normal business hours, services offered, shipping policies.
 
 They also removed the 10 personalization limit in Optimize for the next 90 days
 
 https://support.google.com/optimize/answer/9823410
-
-### Google Ads
-
-![Google Ads credit applied for future ad spend](/images/3clfw03.png)
 
 <!--EndFragment-->
 
