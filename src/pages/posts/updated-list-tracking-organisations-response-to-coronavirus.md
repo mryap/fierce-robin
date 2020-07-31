@@ -13,6 +13,7 @@ With the French wine market in tatters due to the coronavirus and a 25% US tarif
 [Of Wine, Hand Sanitizer and Heartbreak](https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/27/world/europe/france-alsace-wine-coronavirus.amp.html)
 
 <!--StartFragment-->
+### Google 
 
 **Free advertising from Google in 3 ways** 
 
@@ -28,7 +29,7 @@ If you fulfill with some requirements, the types of listing on surfaces across G
 
 <!--EndFragment-->
 
-### New Google My Business Attributes
+** New Google My Business Attributes **
 
 <!--StartFragment-->
 
@@ -48,7 +49,7 @@ Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-he
 
 <!--StartFragment-->
 
-### Google Optimize
+** Google Optimize **
 
 If you already using Optimize to test winning version of your website elements, you can now use the new feature to add a message on your website to keep customers informed about changes to normal business hours, services offered, shipping policies.
 
