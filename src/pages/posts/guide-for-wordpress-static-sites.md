@@ -2,6 +2,7 @@
 title: Guide for WordPress `Static sites`
 subtitle: Made WordPress Load Faster in half-a-day without static site generators
 date: 2020-07-07T09:59:09.988Z
+thumb_img_path: /images/wp-super-cache-advanced-tab-settings-crunchify-tips.png
 menus:
   secondary:
     weight: 6
