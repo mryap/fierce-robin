@@ -1,7 +1,9 @@
 ---
-title: Capturing measurements in Google Analytics 
-date: 2019-03-28 
-description: To get a better picture of how users are experiencing your site or application, you have to send additional interaction data to Google Analytics.
+title: Capturing measurements in Google Analytics
+date: 2019-03-28
+description: To get a better picture of how users are experiencing your site or
+  application, you have to send additional interaction data to Google Analytics.
+thumb_img_path: /images/bbf6feb63db1a086.png
 template: post
 ---
 
