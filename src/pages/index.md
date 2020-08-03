@@ -45,7 +45,9 @@ sections:
         title: "Select the right test method "
       - actions: []
         content: With my statistics background, I can say with certainty the outcome of
-          the A/B test is not due to coincidence.
+          the A/B test is not due to coincidence. I minimize the chance that
+          you’ll come to an unwise conclusion and help make important decisions
+          in a risk-controlled manner.
         image: /images/annotation-2020-03-11-232904.png
         title: "Confidence in your tests "
     section_id: features
