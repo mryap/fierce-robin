@@ -1,7 +1,8 @@
 ---
 title: Book Review of Remote
-subtitle: 'Updated: 11th March 2020 '
+subtitle: "Updated: 11th March 2020 "
 date: 2018-08-09T12:20:48.204Z
+thumb_img_path: /images/1-dwlio1ve_h8bwlf7fltnuq.jpeg
 template: post
 ---
 
