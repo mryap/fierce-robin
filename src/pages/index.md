@@ -24,7 +24,9 @@ sections:
         url: /about
   - bg: white
     featureslist:
-      - actions: []
+      - actions:
+          - url: https://www.testandoptimize.com/posts/challenges-facing-marketer/
+            label: "Challenges facing Marketer "
         content: >-
           I look at your entire marketing funnel – your whole platform, online
           and off-line – before and after people land on a website.
