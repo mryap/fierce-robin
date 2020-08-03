@@ -1,14 +1,14 @@
 ---
 title: Measuring in a multi-screen world
-subtitle: 'Updated: July 2018'
+subtitle: "Updated: July 2018"
 date: 2014-06-07T07:58:42.000Z
-excerpt: >-
-  Google Analytics allows you to identify unique users across browsing sessions,
-  but it cannot identify unique users across different browsers or devices.
+thumb_img_path: /images/50652051_10156358372619335_7769332462479474688_n.jpg
+excerpt: Google Analytics allows you to identify unique users across browsing
+  sessions, but it cannot identify unique users across different browsers or
+  devices.
 template: post
 ---
-
-![](https://res.cloudinary.com/mryap/image/upload/v1539163875/website/1_UOkdEoZVqIk86aIqI_J9Ag.jpg)
+![]()
 
 ![](https://res.cloudinary.com/mryap/image/upload/v1539163875/website/1_UOkdEoZVqIk86aIqI_J9Ag.jpg)
 
