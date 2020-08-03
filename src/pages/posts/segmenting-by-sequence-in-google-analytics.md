@@ -1,9 +1,9 @@
 ---
 title: Segmenting by Sequence in Google Analytics
-subtitle: >-
-  Segmentation add context to the data but also improves the measurement and
-  make the data more actionable.
+subtitle: Segmentation add context to the data but also improves the measurement
+  and make the data more actionable.
 date: 2018-08-11T11:53:44.377Z
+thumb_img_path: /images/0_lbqqua-jocd0gx-9.png
 template: post
 ---
 ### Advance Segmentation in Google Analytics
