@@ -1,7 +1,8 @@
 ---
 title: Classify Images with AutoML Vision
-date: 2019-05-16 
-description:  Classify Images of Clouds in the Cloud with AutoML Vision
+date: 2019-05-16
+description: Classify Images of Clouds in the Cloud with AutoML Vision
+thumb_img_path: /images/57849969-aebe7400-77d4-11e9-8d7e-2d159ee1de52.png
 template: post
 ---
 
