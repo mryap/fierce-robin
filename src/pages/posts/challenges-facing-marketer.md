@@ -37,6 +37,6 @@ You also want marketing data from various sources to be in one place accessible 
 
 ### Hire Me
 
-People don't do business with you immediately - a fact I always keep that in mind. For the time being while you mull over your next best course of action, how about checking my website first at https://www.testandoptimize.com/blog/
+People don't do [business with you immediately](https://www.testandoptimize.com/posts/Analytics-Retargeting-increase-conversions/) - a fact I always keep that in mind. While you mull over your next best course of action, how about checking my website first at https://www.testandoptimize.com/blog/
 
 Thank You  
