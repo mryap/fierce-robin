@@ -1,19 +1,28 @@
 ---
 title: Updated list tracking organisations response to CoVid19
-subtitle: "Last Update: 30th July 2020 "
+subtitle: "Last Update: 11th August 2020 "
 date: 2020-04-23T07:12:31.452Z
 menus:
   secondary:
     title: Tracking organisations CoVid19 response
 template: post
 ---
+<!--StartFragment-->
+
+A B2B vegetable wholesaler in Singapore severely impacted by the Covid19 crisis, on not losing hope and focusing on recovery and innovation.\
+During the lockdown, they quickly started selling direct first via Facebook and then on their website. They analysed the data and found that people still like to touch and feel the vegetables. While many would fear the idea of opening a physical store during a lockdown, they went ahead and launched, The Village - a grocery shop with a twist. Instead of focusing on the speed of purchase, they focused on offering a family outing experience centred around education - how to cook vegetables, sustainability, etc.
+
+[Read More on businesstimes.com.sg](https://www.businesstimes.com.sg/sme/vegetable-wholesaler-ccl-group-sets-sights-on-consumer-business?utm_source=testandoptimize.com)
+
+<!--EndFragment-->
 
 With the French wine market in tatters due to the coronavirus and a 25% US tariff, winemakers are turning wine into hand gel. About 5,000 winemakers have signed up for the operation, which is sponsored by the government in a bid to protect the industry. 
 
 [Of Wine, Hand Sanitizer and Heartbreak](https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/27/world/europe/france-alsace-wine-coronavirus.amp.html)
 
 <!--StartFragment-->
-### Google 
+
+### Google
 
 **Free advertising from Google in 3 ways** 
 
@@ -21,15 +30,15 @@ Google stopped charging merchants a fee to list products on its Google Shopping 
 
 If you fulfill with some requirements, the types of listing on surfaces across Google you can try are:
 
-- The Google Shopping Tab
-- Google Search
-- Google Images
+* The Google Shopping Tab
+* Google Search
+* Google Images
 
 <https://support.google.com/merchants/answer/9826670>
 
 <!--EndFragment-->
 
-** New Google My Business Attributes **
+ **New Google My Business Attributes** 
 
 <!--StartFragment-->
 
@@ -45,11 +54,9 @@ Source: https://www.blog.google/outreach-initiatives/small-business/new-tools-he
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
-** Google Optimize **
+ **Google Optimize** 
 
 If you already using Optimize to test winning version of your website elements, you can now use the new feature to add a message on your website to keep customers informed about changes to normal business hours, services offered, shipping policies.
 
