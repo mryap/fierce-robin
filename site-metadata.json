@@ -4,7 +4,7 @@
   "header": {
     "title": "Test & Optimize",
     "logo_img": "",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": [
         {
@@ -15,22 +15,22 @@
     }
   },
   "social_links": [
-{
-"label": "Twitter",
-"url": "https://twitter.com/testandoptimize",
-"new_window": true
-},
-{
-"label": "Instagram",
-"url": "https://www.instagram.com/",
-"new_window": true
-},
-{
-"label": "LinkedIn",
-"url": "https://www.linkedin.com/",
-"new_window": true
-}
-],
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/testandoptimize",
+      "new_window": true
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/",
+      "new_window": true
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "new_window": true
+    }
+  ],
   "footer": {
     "subscribe_title": "Learn More",
     "subscribe_content": "Find out how I achieve 47% website sign­up with A/B test. ",
