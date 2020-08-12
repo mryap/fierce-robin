@@ -7,7 +7,7 @@ menus:
   secondary:
     title: ""
   main:
-    weight: 0
+    weight: ""
 template: post
 ---
 <!--StartFragment-->
