@@ -40,8 +40,12 @@
     "logo_img": "/images/15888516658712018870747.png",
     "has_social": true,
     "content": "&copy; Test & Optimize. All rights reserved.",
-    "links": [],
+    "links": [
+      {
+        "new_window": true
+      }
+    ],
     "nav_title": "Test & Optimize",
-    "has_nav": false
+    "has_nav": true
   }
 }
