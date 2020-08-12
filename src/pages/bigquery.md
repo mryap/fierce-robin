@@ -47,6 +47,6 @@ menus:
     title: Features
     weight: 0
   secondary:
-    weight: -1
+    weight: ""
 template: landing
 ---
