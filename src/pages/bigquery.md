@@ -8,8 +8,7 @@ sections:
       <!--StartFragment-->
 
 
-      Marketing people, to get up to speed with Bigquery, it worth your effort
-      to pick up sql query. Coaching lessons available from me.
+      Marketing people, to get up to speed with Bigquery, it worth your effort to pick up sql query. Coaching lessons available from me.
 
 
       <!--EndFragment-->
@@ -24,15 +23,14 @@ sections:
     featureslist:
       - title: Non Ops
       - title: Learning sql query
-      - title: 'Google IT Infrastuture '
-      - content: >-
-          Marketing people, to get up to speed with Bigquery, it worth your
+      - title: "Google IT Infrastuture "
+      - content: Marketing people, to get up to speed with Bigquery, it worth your
           effort to pick up sql query. Coaching lessons available from me.
-        title: 'WHat it means for marketing? '
+        title: "WHat it means for marketing? "
   - type: section_faq
     bg: gray
     faqitems:
-      - question: 'What is BigQuery? '
+      - question: "What is BigQuery? "
       - question: What do I need to know about BigQuery?
     subtitle: What do I need to know about BigQuery?
   - type: section_cta
@@ -41,12 +39,14 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
-        url: '#'
+        url: "#"
   - type: section_hero
     image: /images/6_thumb.jpg
 menus:
   main:
     title: Features
-    weight: 2
+    weight: 0
+  secondary:
+    weight: -1
 template: landing
 ---
