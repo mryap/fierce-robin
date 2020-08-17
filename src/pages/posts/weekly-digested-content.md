@@ -25,3 +25,15 @@ Marketing is experimenting, and by experimenting you can figure out what works, 
 https://blog.hubspot.com/marketing/call-to-action-ab-testing-ht?utm_source=testandoptimize.com&utm_medium=twitter
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+Customer journey mapping help defines the data you need to track, attribute and sync across all your tools so every tool and team has a shared context on where any person or company is in the customer journey. This informs your tracking plan and attribution modelling — so you can solve the problem of multi-touch attribution. 
+
+https://www.brightvessel.com/ecommerce-customer-journey-map/?ref=quuu
+
+
+
+
+
+<!--EndFragment-->
