@@ -2,6 +2,7 @@
 title: Create gift card store on Shopify
 subtitle: Shopify allows you to start selling gift cards.
 date: 2020-03-25T11:27:39.502Z
+thumb_img_path: /images/screenshot_2020-08-18-pasted-image-0-png-png-image-1391-×-1600-pixels-scaled-45-.png
 template: post
 ---
 Gift cards are now available for free on all Shopify plans. Sign up for a plan to get started setting this up. 
