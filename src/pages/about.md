@@ -11,7 +11,7 @@ template: page
 ---
 <!--StartFragment-->
 
-I am Shiao-Shyan.
+I am Shiao-Shyan. 
 
 I start my career as webmaster and web designer, maintaining website for various sector and industry. At CNET Asia, I deal with email deliverability issues as an online advertising assistant. As a freelance web analyst working with marketing people, I bring the knowledge of SEO, Content, Re-targeting and A/B testing to drive web traffic, increase visibility, reach and conversion.
 
@@ -21,16 +21,25 @@ With my diverse experience as Digital Web Analyst, WordPress Developer, Online M
 
 <!--StartFragment-->
 
-Career highlights
+Career and Skills highlights
+
+### Web Analytics
+At Social Zavvy, assist in creating and implementing digital marketing strategy with
+* Web Analytics Tagging Implementation: Improve clients' Google Analytics setup using GTM to ensure data is fit for purpose and eliminate manual, error-prone process
+* Performance and insights reporting: Using Acquisition, Behaviour and Conversion framework to develop KPI, custom reports, advanced segments to improve clients understanding of the data based on their business models
+* Web Analysis and Optimisations: Monitor, analyse, manage, evaluate digital performances across all channels on behalf of client
 
 ### Conversion Rate Optimization
 
-* Involved an E-commerce rail model toy store (on-going)
+* Optimise and improve product display with A/B testing for an eCommerce store that sells model toy trains. (on-going)
 * Conducted A/B tests, achieved 47% improvement website sign-up for an online tax-return service using Visual Website Optimizer
 
 ### Community
 
 * Volunteer in a committee of 10 people, to bring Measurecamp to Dublin, Ireland
+
+### Data Science
+R and Python for data collection (API, database, JSON), data parsing & cleaning, analysis in RMarkdown/Jupyter Notebooks, Docker and Conda for portability and reproducibility, Terminal/Shell command line for GitHub version control. Knowledge of Machine Learning Algorithms: Decision Trees, Logistic Regression, Multiple Linear Regression, K Means Clustering, Random Forest
 
 ### Email Marketing
 
@@ -55,7 +64,7 @@ Career highlights
 
 ### Website Revamp and Update
 
-* Worked with marketing department successfully revamped university website based on a new visual identity and brand guidelines. Championed and educated the use of Google Analytics throughout school department. Designed web and email newsletter templates for department user based on university branding guidelines using HTML, CSS.
+* Worked with marketing department successfully revamped university website based on a new visual identity and brand guidelines. Championed and educated use of Google Analytics throughout school department. Designed web and email newsletter templates for department user based on university branding guidelines using HTML, CSS.
 * Work with Product Executive at to edit, and maintain internal and external product documentation for worldwide technical audience online
 * In-charged of inputting seller and buyer policies for Hong Kong and Singapore eBay. Create and modify content using eBay's in-house CMS ensuring content and formatting is consistent with the source documents.
 * Revamping Intranet and Internet running on Oracle system, responsible for front-­end design. Liaise with respective departments on web content publication
