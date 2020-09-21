@@ -1,10 +1,23 @@
 ---
 title: "Weekly Digested Content "
-subtitle: "Last Uodated: 17th August 2020"
+subtitle: "Last Uodated: 21st Sept 2020"
 date: 2020-08-17T15:52:57.331Z
 thumb_img_path: /images/screenshot_2020-08-18-wordpress-email-posts-to-subscribers-for-mailchimp-mailerlite-–-newsletter-glue.png
 template: post
 ---
+### The Primacy Effects
+Subject users to primacy effects (users are primed in the old feature, i.e. used to the way it works) commonly fail to even achieve with the old site on key metrics.
+
+Have you consider rolling out new design and a/b test to removes the risk of a redesign slowly introduce the changes to the customers? A common reason not to A/B test the redesign is 'Our customers don't like change, so we introduce it slowly'
+
+https://www.freecodecamp.org/news/why-most-redesigns-fail-6ecaaf1b584e/
+
+### Google Analytics 'App + Web' Channel Groupings
+The new Google Analytics 'App + Web' Channel Groupings has separate paid & organic social channels. This is one of the missing feature in standard Google Analytics (aka Universal Analytics).  https://support.google.com/analytics/answer/9756891 
+Are you going the 'App + Web' route?
+
+![](https://pbs.twimg.com/media/Eh9nuQZWAAAdD1H?format=png&name=small)
+
 <!--StartFragment-->
 
 If you use WordPress and have email subscribers on [Mailchimp](https://twitter.com/Mailchimp) or MailerLite, you should check out [NewsletterGlue](https://wordpress.org/plugins/newsletter-glue/) . It's a free plugin that lets you send posts to subscribers without leaving WordPress.
