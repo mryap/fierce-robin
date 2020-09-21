@@ -5,6 +5,24 @@ date: 2020-08-17T15:52:57.331Z
 thumb_img_path: /images/screenshot_2020-08-18-wordpress-email-posts-to-subscribers-for-mailchimp-mailerlite-–-newsletter-glue.png
 template: post
 ---
+### 
+
+A navigation menu should be available for users all of the time. Many websites, the top navigation menu out of sight when you scroll. A sticky menu stays visible all the time no matter where the user is on a page. 
+
+IF you are using Visual Composer Website Builder for WordPress site, turn the Sticky toggle for header On (for the whole Menu container) and add a margin 50-pixels margin to the Margin top.
+![](https://pbs.twimg.com/media/Efy8RD-XYAIUbpz?format=png&name=small)
+
+### Hotjars
+Hotjar give instant visual feedback when visitors interact with your website or app. Integration with Google Optimize allows you to draw better conclusions when you test to see what works best for them and drives your business goals.
+Hotjar provided additional layer of qualitative data to complement what being gathered from the likes of Google Analytics.
+https://www.hotjar.com/updates/en/hotjar-x-google-optimize-compare-user-behavior-in-your-experiment-variants-
+
+
+
+
+
+
+
 ### The Primacy Effects
 Subject users to primacy effects (users are primed in the old feature, i.e. used to the way it works) commonly fail to even achieve with the old site on key metrics.
 
