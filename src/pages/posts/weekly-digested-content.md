@@ -1,6 +1,6 @@
 ---
 title: "Weekly Digested Content "
-subtitle: "Last Uodated: 21st Sept 2020"
+subtitle: "Last Updated: 21st Sept 2020"
 date: 2020-08-17T15:52:57.331Z
 thumb_img_path: /images/screenshot_2020-08-18-wordpress-email-posts-to-subscribers-for-mailchimp-mailerlite-–-newsletter-glue.png
 template: post
