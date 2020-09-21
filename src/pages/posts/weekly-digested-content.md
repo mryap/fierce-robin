@@ -12,9 +12,10 @@ A navigation menu should be available for users all of the time. Many websites, 
 IF you are using Visual Composer Website Builder for WordPress site, turn the Sticky toggle for header On (for the whole Menu container) and add a margin 50-pixels margin to the Margin top.
 ![](https://pbs.twimg.com/media/Efy8RD-XYAIUbpz?format=png&name=small)
 
-### Hotjars
+### Hotjars and Google Optimize
 Hotjar give instant visual feedback when visitors interact with your website or app. Integration with Google Optimize allows you to draw better conclusions when you test to see what works best for them and drives your business goals.
 Hotjar provided additional layer of qualitative data to complement what being gathered from the likes of Google Analytics.
+Google Optimize is a tool to help online marketers and webmasters increase visitor conversion rates and visitor satisfaction by testing different combinations of website content. 
 https://www.hotjar.com/updates/en/hotjar-x-google-optimize-compare-user-behavior-in-your-experiment-variants-
 
 ### The Primacy Effects
