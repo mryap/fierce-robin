@@ -3,6 +3,8 @@ title: "Weekly Digested Content "
 subtitle: "Last Updated: 21st Sept 2020"
 date: 2020-08-17T15:52:57.331Z
 thumb_img_path: /images/screenshot_2020-08-18-wordpress-email-posts-to-subscribers-for-mailchimp-mailerlite-–-newsletter-glue.png
+excerpt: "Weekly around up on the digital world including latest trends & best
+  practices. "
 template: post
 ---
 ### Sticky Navigation Menu
