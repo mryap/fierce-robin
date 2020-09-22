@@ -3,6 +3,9 @@ title: Understanding User Behavior with Google Analytics
 date: 2020-07-01T13:02:13.015Z
 thumb_img_path: /images/user-traffic-source-engagement-conversion.png
 img_path: ""
+excerpt: Properly set-up Google Analytics enable you to understand where your
+  traffic is coming from, and what your conversion rate for each traffic source
+  is.
 menus:
   secondary:
     weight: 7
