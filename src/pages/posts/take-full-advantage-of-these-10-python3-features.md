@@ -48,4 +48,14 @@ You can use type hints to indicate the type of a value in your code. For example
 
 <!--EndFragment-->
 
+<!--StartFragment-->
+
+5. f-strings - Python 3.6+ 
+
+Instead of having to use the \`.format()\` method to print your strings, you can use f-strings for a much more convenient way to replace values in your strings. f-strings are much more readable, concise, and easier to maintain.
+
+
+
+<!--EndFragment-->
+
 <!--EndFragment-->
