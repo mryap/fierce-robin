@@ -39,17 +39,11 @@ file_to_open = data_folder/"raw_data.txt"
 
 <!--EndFragment-->
 
-![]()
-
 Moreover, you can directly get a content of the file, for example
 
 ```
 print(file_to_open.read_text())
 ```
-
-
-
-![]()
 
 [More info on Pathlib](https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f)
 
