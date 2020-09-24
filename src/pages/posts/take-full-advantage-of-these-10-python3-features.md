@@ -48,14 +48,12 @@ You can use type hints to indicate the type of a value in your code. For example
 
 <!--EndFragment-->
 
-<!--StartFragment-->
-
-5. f-strings - Python 3.6+ 
+5. f-strings 
 
 Instead of having to use the \`.format()\` method to print your strings, you can use f-strings for a much more convenient way to replace values in your strings. f-strings are much more readable, concise, and easier to maintain.
 
+6. Underscores in Numeric Literals  
 
-
-<!--EndFragment-->
+This one is a small, nice addition: you can use underscores in numeric literals for improved readability. This will shave off a few seconds every time you had to count how many digits a number had.
 
 <!--EndFragment-->
