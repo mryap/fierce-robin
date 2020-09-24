@@ -24,19 +24,28 @@ Python 3.4+ Instead of cluttering your code with constants, you can create an en
 
 3. Pathlib
 
-THis is my favourite! The pathlib module provides a way to interact with the file system in a much more convenient way than dealing with os.path or the glob module. The pathlib module makes everything simpler.  
+THis is my favourite! pathlib solves a pet peeve of mine. The pathlib module provides a way to interact with the file system in a much more convenient way than dealing with os.path or the glob module. The pathlib module makes everything simpler.  
 
 You can join paths by '/' operator:
 
 ![](/images/carbon.png)
 
-
-
 Moreover, you can directly get a content of the file, for example,
 
 ![](/images/carbon2.png)
 
+
+
 [More info on Pathlib](https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f)
 
+<!--StartFragment-->
+
+4. Type hints  
+
+You can use type hints to indicate the type of a value in your code. For example, you can use it to annotate the arguments of a function and its return type. These hints make your code more readable, and help tools understand it better.
+
+![](/images/screenshot_2020-09-24-santiago-on-twitter.png)
+
+<!--EndFragment-->
 
 <!--EndFragment-->
