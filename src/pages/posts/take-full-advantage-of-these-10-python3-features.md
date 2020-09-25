@@ -1,9 +1,8 @@
 ---
-title: "Take full advantage of these 10 Python3 features "
+title: "Take full advantage of these Python3 features "
 date: 2020-09-24T17:07:05.192Z
 thumb_img_path: /images/screenshot_2020-09-24-santiago-on-twitter.png
-excerpt: Here are 10 Python 3 features that will change the way you are writing
-  code today.
+excerpt: Python 3 features that will change the way you are writing code today.
 template: post
 ---
 
