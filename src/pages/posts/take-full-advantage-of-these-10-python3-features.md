@@ -12,7 +12,7 @@ template: post
 
 1. Enumerations 
 
-Python 3.4+ Instead of cluttering your code with constants, you can create an enumeration using the Enum class. An enumeration is a set of symbolic names bound to unique, constant values.
+Instead of cluttering your code with constants, you can create an enumeration using the Enum class. An enumeration is a set of symbolic names bound to unique, constant values.
 
 2. Pathlib
 
