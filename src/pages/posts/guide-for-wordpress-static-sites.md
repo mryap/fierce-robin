@@ -36,11 +36,12 @@ Without a round-trip request to the database to served up a webpage when user ac
 
 A workaround via Github. All content is saved and store as markdown file. 
 
-![](https://pbs.twimg.com/media/D5UNWEjWkAUPJXQ?format=jpg&name=900x900)
+![Image of  a GitHub folder where websites files are stored and served. ](/images/screenshot_2020-09-28-d5unwejwkaupjxq-jpeg-image-900-×-473-pixels-.png)
 
 This Github as back-end approach is not for everyone as you need to master [Git command](https://mryap.github.io/github-oneliner/).
 
 ### Made WordPress Load Faster without static site generators
+
 Another approach is to use `WP Super Cache plugin`. The plugin generates static html files from your dynamic WordPress blog. After a html file is generated and available under/cache folder, your Web Server will serve that static file instead of processing the comparatively heavier and more expensive WordPress PHP scripts
 
 ![Speed up WordPress Site by tuning WP Super Cache Settings](/images/wp-super-cache-advanced-tab-settings-crunchify-tips.png)
@@ -60,4 +61,5 @@ There isn't a universal definition of “fast” vs “slow.” Speed, i.e the l
 My assertion: Take action if your site page loading speed > 15 seconds [Time to Interactive (TTI)](https://web.dev/interactive/)!
 
 #### Hire Me
-I migrated an Irish SMB's WordPress site to a new hosting provider without losing any content. On another project, I use WP Fastest Cache, image scaling and WP Smush to improve the WordPress website performance. I can help to improve your WordPress site, add features, improve usability and search rankings. 
+
+I migrated an Irish SMB's WordPress site to a new hosting provider without losing any content. On another project, I use WP Fastest Cache, image scaling and WP Smush to improve the WordPress website performance. I can help to improve your WordPress site, add features, improve usability and search rankings.
