@@ -105,9 +105,9 @@ sections:
       - label: "Let talk. "
         url: /contact
     section_id: call-to-action
-    subtitle: "I will help identify problem areas and opportunities, discuss a
-      strategy & put in place a testing roadmap. "
-    title: "First A/B test is free. You have nothing to lose. "
+    subtitle: "I help identify problem areas and opportunities, discuss a strategy &
+      put in place a testing roadmap. "
+    title: "First A/B test is free. "
     type: section_cta
   - bg: gray
     section_id: recent-posts
