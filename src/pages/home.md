@@ -20,9 +20,7 @@ sections:
     actions: []
   - bg: white
     featureslist:
-      - actions:
-          - url: https://www.testandoptimize.com/posts/challenges-facing-marketer/
-            label: "Challenges facing Marketer "
+      - actions: []
         content: >-
           <!--StartFragment-->
 
@@ -104,12 +102,12 @@ sections:
           Crafting a hypothesis to address an open question or problem on your website enforces a well-rationalized, thoughtful proposal for how to address that problem.
         question: What are Hypotheses?
   - actions:
-      - label: "First A/B test is free. You have nothing to lose. "
+      - label: "Let talk. "
         url: /contact
     section_id: call-to-action
     subtitle: "I will help identify problem areas and opportunities, discuss a
       strategy & put in place a testing roadmap. "
-    title: "Let talk. "
+    title: "First A/B test is free. You have nothing to lose. "
     type: section_cta
   - bg: gray
     section_id: recent-posts
