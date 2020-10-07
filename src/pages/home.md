@@ -2,46 +2,55 @@
 title: Home
 sections:
   - type: section_content
-    bg: white
-    content: |-
+    bg: gray
+    content: >-
       Build online success with Digital Analytics and A/B testing.  
 
+
       * Validate new design or change from existing traffic
+
       * Gain new insights into customer behaviour
+
       * Minimal Support from your IT and Designer
+
+
+      I help organizations determine what causes visitors to leave their site without taking action,identify areas of improvement.
     title: ""
     image: /images/hero.png
-    actions:
-      - label: Read My Blog
-        url: /blog
-      - label: Learn More
-        url: /about
+    actions: []
   - bg: white
     featureslist:
       - actions:
           - url: https://www.testandoptimize.com/posts/challenges-facing-marketer/
             label: "Challenges facing Marketer "
         content: >-
-          I look at your entire marketing funnel – your whole platform, online
-          and off-line – before and after people land on a website.
+          <!--StartFragment-->
 
 
-          They are part of your process, and they all feed into your bottom line.
+          I help you gain insights how customers responses to your online experience whether it apps, landing pages or websites.
 
 
-          When we talk conversion, we are paying attention to your entire business so we don’t miss something important that could lead to huge boosts in income or devastating losses
-        image: /images/es3h7gfxkaatyv7.png
+          <!--EndFragment-->
+        image: /images/screenshot_2020-10-03-vwo-vs-google-optimize-try-vwo-for-free-1-.png
         title: Holistic View
       - actions: []
-        content: It’s important to select the right kind of test, and determine which
-          testing approach is right for your business models.
+        content: >-
+          <!--StartFragment-->
+
+
+          Using digital analytics, user feedback and voice of customers, I identify opportunities to improve the online experience, task completion, and funnel conversion.
+
+
+          My web design and development background means I can roll out A/B tests to be either subtle or distinctive to get results on both mobile and desktop.
+
+
+          <!--EndFragment-->
         image: /images/50652051_10156358372619335_7769332462479474688_n.jpg
-        title: "Select the right test method "
+        title: Holistic approach. See the big pictures
       - actions: []
-        content: With my statistics background, I can say with certainty the outcome of
-          the A/B test is not due to coincidence. I minimize the chance that
-          you’ll come to an unwise conclusion and help make important decisions
-          in a risk-controlled manner.
+        content: With my statistics background,  I minimize the chance that you’ll come
+          to an unwise conclusion and help make important decisions in a
+          risk-controlled manner.
         image: /images/annotation-2020-03-11-232904.png
         title: "Confidence in your tests "
     section_id: features
@@ -95,11 +104,12 @@ sections:
           Crafting a hypothesis to address an open question or problem on your website enforces a well-rationalized, thoughtful proposal for how to address that problem.
         question: What are Hypotheses?
   - actions:
-      - label: Let Get Started
+      - label: "First A/B test is free. You have nothing to lose. "
         url: /contact
     section_id: call-to-action
-    subtitle: Minimal Support require from IT and designer
-    title: Test, Learn & Apply
+    subtitle: "I will help identify problem areas and opportunities, discuss a
+      strategy & put in place a testing roadmap. "
+    title: "Let talk. "
     type: section_cta
   - bg: gray
     section_id: recent-posts
