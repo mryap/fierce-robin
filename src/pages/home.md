@@ -15,7 +15,7 @@ sections:
 
 
       I help organizations determine what causes visitors to leave their site without taking action,identify areas of improvement.
-    title: ""
+    title: Transforming businesses through experimentation
     image: /images/hero.png
     actions: []
   - bg: white
@@ -44,7 +44,7 @@ sections:
 
           <!--EndFragment-->
         image: /images/50652051_10156358372619335_7769332462479474688_n.jpg
-        title: Holistic approach. See the big pictures
+        title: The big pictures
       - actions: []
         content: With my statistics background,  I minimize the chance that you’ll come
           to an unwise conclusion and help make important decisions in a
