@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_content
-    bg: gray
+    bg: null
     content: >-
       * Validate new design or change from existing traffic
 
@@ -12,7 +12,7 @@ sections:
 
 
       I help organizations determine what causes visitors to leave their site without taking action, identify areas of improvement.
-    title: Transforme businesses through Experimentation
+    title: Transform Businesses through Experimentation
     image: /images/hero.png
     actions: []
   - bg: white
