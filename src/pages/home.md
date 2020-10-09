@@ -4,9 +4,6 @@ sections:
   - type: section_content
     bg: gray
     content: >-
-      Build online success with Digital Analytics and A/B testing.  
-
-
       * Validate new design or change from existing traffic
 
       * Gain new insights into customer behaviour
@@ -14,8 +11,8 @@ sections:
       * Minimal Support from your IT and Designer
 
 
-      I help organizations determine what causes visitors to leave their site without taking action,identify areas of improvement.
-    title: Transforming businesses through experimentation
+      I help organizations determine what causes visitors to leave their site without taking action, identify areas of improvement.
+    title: Transforme businesses through Experimentation
     image: /images/hero.png
     actions: []
   - bg: white
@@ -53,7 +50,7 @@ sections:
         title: "Confidence in your tests "
     section_id: features
     subtitle: ""
-    title: Test, Learn, Apply
+    title: Build Online success with Digital Analytics and A/B testing.
     type: section_features
   - bg: white
     reviews:
