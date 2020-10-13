@@ -13,6 +13,15 @@ BigQuery export opens up the availability to export all the raw, unsampled Googl
 
 Previously, this BigQuery Export feature was only available in paid Google Analytics 360 (USD 150,000 per year).
 
+## Data Sampling in Google Analytics
+
+Google Analytics is a must have for every business in the beginning, but as your business grows you need more flexibility and customization, because Google Analytics may give you inaccurate data.
+
+When your data is too large, instead of utilizing all of the data available, Google Analytics uses data sampling and shows you an incomplete traffic data set.
+
+In data analysis, sampling is the practice of analyzing a subset of all data in order to uncover the meaningful information in the larger data set. Data sampling is a method and approach that available to Data analyst in their daily work.
+
+##  Hire with Confidence
 I being up to speed with Google BigQuery since 2019. 
 
 https://www.qwiklabs.com/public_profiles/fdf93c0d-bc8b-4952-b7fe-1dade1d6e917
@@ -23,4 +32,4 @@ https://www.coursera.org/account/accomplishments/specialization/PKU7C2X2QRG8
 
 ## What about Google Analytics?
 
-When I was hired for any project, I will also set up Google Analytics App+Web in tandem with Google Analytics.
+When I was hired for web analytics project, I also set up Google Analytics App+Web in tandem with Google Analytics.
