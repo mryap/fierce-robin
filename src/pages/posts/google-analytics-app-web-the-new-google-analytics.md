@@ -32,4 +32,8 @@ https://www.coursera.org/account/accomplishments/specialization/PKU7C2X2QRG8
 
 ## What about Google Analytics?
 
-When I was hired for web analytics project, I also set up Google Analytics App+Web in tandem with Google Analytics.
+Google official line is
+
+    We recommend continuing to use your existing Analytics properties alongside an App + Web property.
+
+When I was hired for web analytics project, I always set up Google Analytics App+Web in tandem with Google Analytics.
