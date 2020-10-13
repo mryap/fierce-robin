@@ -21,7 +21,8 @@ When your data is too large, instead of utilizing all of the data available, Goo
 
 In data analysis, sampling is the practice of analyzing a subset of all data in order to uncover the meaningful information in the larger data set. Data sampling is a method and approach that available to Data analyst in their daily work.
 
-##  Hire with Confidence
+## Hire with Confidence
+
 I being up to speed with Google BigQuery since 2019. 
 
 https://www.qwiklabs.com/public_profiles/fdf93c0d-bc8b-4952-b7fe-1dade1d6e917
@@ -34,6 +35,6 @@ https://www.coursera.org/account/accomplishments/specialization/PKU7C2X2QRG8
 
 Google official line is
 
-    We recommend continuing to use your existing Analytics properties alongside an App + Web property.
+> We recommend continuing to use your existing Analytics properties alongside an App + Web property.
 
 When I was hired for web analytics project, I always set up Google Analytics App+Web in tandem with Google Analytics.
