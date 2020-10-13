@@ -14,10 +14,13 @@ BigQuery export opens up the availability to export all the raw, unsampled Googl
 Previously, this BigQuery Export feature was only available in paid Google Analytics 360 (USD 150,000 per year).
 
 I being up to speed with Google BigQuery since 2019. 
-https://lnkd.in/ejga3aq 
+
+https://www.qwiklabs.com/public_profiles/fdf93c0d-bc8b-4952-b7fe-1dade1d6e917
+
 https://www.coursera.org/account/accomplishments/specialization/PKU7C2X2QRG8
 
 <!--EndFragment-->
 
 ## What about Google Analytics?
+
 When I was hired for any project, I will also set up Google Analytics App+Web in tandem with Google Analytics.
