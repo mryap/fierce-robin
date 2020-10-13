@@ -20,6 +20,6 @@ sections:
     title: Contact Section
 menus:
   secondary:
-    weight: 1
+    weight: ""
 template: landing
 ---
