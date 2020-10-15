@@ -1,8 +1,15 @@
 ---
 title: Google Analytics App+Web - The new Google Analytics
+subtitle: Updated on 15th Oct 2020 as Google Analytics App+Web are out of beta
 date: 2020-10-13T22:10:23.496Z
 template: post
 ---
+As on 14th Oct 2020, Google Analytics App+Web are out of beta. It known as Google Analytics 4.
+
+Why 4? I think if you exclude Urchin, which was acquired by Google in April 2005, this is the 4th major iterations. 
+
+![](/images/eksrs8fxyaigzwj.png)
+
 Introduce in 2019, Google Analytics App+Web  data collection and analysis is based on this Event-Driven Data Model.  This new model allows you to track *everything* as events, regardless of the platform. Event-Driven Data Model itself is not new. Heap Analytics and Facebook Analytics are already in this Event-Driven Data Model.
 
 ![A screenshots of the new Google Analytics dashboard ](/images/screenshot_2020-10-15-analytics-home.png "No more page view metrics. ")
@@ -23,6 +30,14 @@ When your data is too large, instead of utilizing all of the data available, Goo
 
 In data analysis, sampling is the practice of analyzing a subset of all data in order to uncover the meaningful information in the larger data set. Data sampling is a method and approach that available to Data analyst in their daily work.
 
+## What about Google Analytics?
+
+Google official line is
+
+> We recommend continuing to use your existing Analytics properties alongside an App + Web property.
+
+When I was hired for web analytics project, I always set up Google Analytics App+Web together with Google Analytics.
+
 ## Hire with Confidence
 
 I being up to speed with Google BigQuery since 2019. 
@@ -30,13 +45,3 @@ I being up to speed with Google BigQuery since 2019.
 https://www.qwiklabs.com/public_profiles/fdf93c0d-bc8b-4952-b7fe-1dade1d6e917
 
 https://www.coursera.org/account/accomplishments/specialization/PKU7C2X2QRG8
-
-<!--EndFragment-->
-
-## What about Google Analytics?
-
-Google official line is
-
-> We recommend continuing to use your existing Analytics properties alongside an App + Web property.
-
-When I was hired for web analytics project, I always set up Google Analytics App+Web in tandem with Google Analytics.
