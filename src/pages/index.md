@@ -16,7 +16,7 @@ sections:
 
       I am Yap. Hire me to transform your business with Analytics, A/B Testing and Machine Learning
     title: Turn clicks into profit
-    image: /images/xhero.png
+    image: /images/screenshot_2020-10-15-blogpost-featured-images-800-by-450.png
     actions:
       - label: Read My Blog
         url: /blog
