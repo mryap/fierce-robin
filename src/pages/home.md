@@ -26,7 +26,7 @@ sections:
 
 
           <!--EndFragment-->
-        image: /images/screenshot_2020-10-03-vwo-vs-google-optimize-try-vwo-for-free-1-.png
+        image: /images/screenshot_2020-10-15-blogpost-featured-images-800-by-450.png
         title: Holistic View
       - actions: []
         content: >-
