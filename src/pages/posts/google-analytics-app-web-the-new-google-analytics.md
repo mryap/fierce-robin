@@ -5,6 +5,8 @@ template: post
 ---
 Introduce in 2019, Google Analytics App+Web  data collection and analysis is based on this Event-Driven Data Model.  This new model allows you to track *everything* as events, regardless of the platform. Event-Driven Data Model itself is not new. Heap Analytics and Facebook Analytics are already in this Event-Driven Data Model.
 
+![A screenshots of the new Google Analytics dashboard ](/images/screenshot_2020-10-15-analytics-home.png "No more page view metrics. ")
+
 ## BigQuery Export
 
 A functional feature of Google Analytics App+Web is BigQuery Export. 
