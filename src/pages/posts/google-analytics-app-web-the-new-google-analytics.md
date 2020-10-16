@@ -8,7 +8,7 @@ As on 14th Oct 2020, Google Analytics App+Web are out of beta. It known as Googl
 
 Why 4? I think if you exclude Urchin, which was acquired by Google in April 2005, this is the 4th major iterations. 
 
-![](/images/eksrs8fxyaigzwj.png)
+![](/images/april-2005.png)
 
 Introduce in 2019, Google Analytics App+Web  data collection and analysis is based on this Event-Driven Data Model.  This new model allows you to track *everything* as events, regardless of the platform. Event-Driven Data Model itself is not new. Heap Analytics and Facebook Analytics are already in this Event-Driven Data Model.
 
@@ -29,6 +29,16 @@ Google Analytics is a must have for every business in the beginning, but as your
 When your data is too large, instead of utilizing all of the data available, Google Analytics uses data sampling and shows you an incomplete traffic data set.
 
 In data analysis, sampling is the practice of analyzing a subset of all data in order to uncover the meaningful information in the larger data set. Data sampling is a method and approach that available to Data analyst in their daily work.
+
+## What Others Said
+
+Here what [Search Engine Land](https://searchengineland.com/google-analytics-4-adds-new-integrations-with-ads-ai-powered-insights-and-predictions-342048?utm_source=testandoptimize.com&utm_medium=social&utm_campaign=split-test-2020) said abut the new Google Analytics
+
+* New AI-powered insights and predictions
+* Deeper audiences integration with Google Ads
+* Customer lifecycle-framed reporting (my favourite)
+* Codeless Event tracking
+* More granular user data controls 
 
 ## What about Google Analytics?
 
