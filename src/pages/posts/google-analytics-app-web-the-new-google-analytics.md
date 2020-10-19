@@ -4,11 +4,13 @@ subtitle: Updated on 15th Oct 2020 as Google Analytics App+Web are out of beta
 date: 2020-10-13T22:10:23.496Z
 template: post
 ---
-As on 14th Oct 2020, Google Analytics App+Web are out of beta. It known as Google Analytics 4.
+As on 14th Oct 2020, Google Analytics App + Web are out of beta. It known as Google Analytics 4.
 
 Why 4? I think if you exclude Urchin, which was acquired by Google in April 2005, this is the 4th major iterations. 
 
 ![](/images/april-2005.png)
+
+GA4 is combination of (App + Web and Google Analytics for Firebase)
 
 Introduce in July 2019, Google Analytics App+Web  data collection and analysis is based on the Event-Driven Data Model.  This model allows you to track *everything* as events, regardless of the platform - whether App or Web. Event-Driven Data Model itself is not new. Heap Analytics and Facebook Analytics are already in this Event-Driven Data Model of data collection. 
 
@@ -27,6 +29,7 @@ I read all the blog post out there on Google Analytics 4 (GA4). Here my summary
 - GA 4 comes with automatic event tagging for user scroll tracking, youtube video interactions, clicks to exit the site. (I used to provide value-add srrvices to code for event tagging)
 - You can now use GA4 data with BigQuery without the USD 150,000 GA360. BigQuery, a Google Marketing Data warehouse opens up the availability to export raw, unsampled Google Analytics data. This allows business with advanced web analytics needs to integrating with CRM
 - Google Data Studio has a direct connector into your GA4 property. No need to go through BigQuery to get your unsampled data into your data visualization tool
+- With Google Analytics 4, the old tracking code (analytics.js) is no longer supported, only GA4 and gtag.js are supported going forward.
 
 Here what [Search Engine Land](https://searchengineland.com/google-analytics-4-adds-new-integrations-with-ads-ai-powered-insights-and-predictions-342048?utm_source=testandoptimize.com&utm_medium=social&utm_campaign=split-test-2020) said abut the new Google Analytics
 
