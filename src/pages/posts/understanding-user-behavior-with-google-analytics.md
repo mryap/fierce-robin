@@ -13,13 +13,11 @@ template: post
 ---
 <!--StartFragment-->
 
-As a business, it’s critical to understand how people use your applications, including mobile apps (iOS and Android), web and SaaS applications, and IOT (internet of things) devices. Understanding user behavior helps you improve the user experience, refine features and content, and build a product that is useful to your users. 
+
 
 Google Analytics can help you measure user behavior, find insights about usage, and drive real change that improves the user experience and your business performance. 
 
 The more you know about your users, the better equipped you’ll be to make informed choices.
-
-<!--StartFragment-->
 
 Google Analytics provides many pieces of information to help you understand the behavior of users as they interact with your site or application. Standard metrics include 
 
@@ -27,13 +25,7 @@ Google Analytics provides many pieces of information to help you understand the 
 * the number of sessions those users create, and 
 * the screens or web pages that they visit
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-With additional set-up, you can gain an even richer understanding of how people interact with individual application screens or pages on a website. You can capture more detailed interactions where needed using event tracking for granular interactions like those with video players, downloads, form submission, etc. You can also measure the number of important business actions that users complete (called Goal Conversions), as well as ecommerce transactions and purchases.
-
-<!--EndFragment-->
+With additional set-up, you can gain an even richer understanding of how people interact with individual application screens or pages on a website. You can capture more detailed interactions where needed using event tracking for granular interactions like those with video players, downloads, form submission, etc. You can also measure the number of important business actions that users complete (called Goal Conversions), as well as eCommerce transactions and purchases.
 
 <!--StartFragment-->
 
@@ -184,5 +176,7 @@ Google official line is
 ### Conclusion
 
 Google Analytics is a amazing free tool, but to get the most from it you need to invest some time and effort to set it up and configure it so that it measures what you need it to track.   A properly set-up Google Analytics enable you to understand where your traffic is coming from, and what your conversion rate for each traffic source is.
+
+As a business, it’s critical to understand how people use your applications, including mobile apps (iOS and Android), web and SaaS applications, and IOT (internet of things) devices. Understanding user behavior helps you improve the user experience, refine features and content, and build a product that is useful to your users. 
 
 <!--EndFragment-->
