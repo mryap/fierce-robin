@@ -2,6 +2,7 @@
 title: Google Analytics App+Web - The new Google Analytics
 subtitle: Updated on 15th Oct 2020 as Google Analytics App+Web are out of beta
 date: 2020-10-13T22:10:23.496Z
+thumb_img_path: /images/screenshot_2020-10-21-analytics-1-.png
 template: post
 ---
 As on 14th Oct 2020, Google Analytics App + Web are out of beta. It known as Google Analytics 4.
