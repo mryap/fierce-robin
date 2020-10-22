@@ -5,7 +5,7 @@ description: In the context of Paid Acquisition, remarketing means being able to
   interact with those who have already experienced your site.
 subtitle: "Updated: 11th May 2020"
 thumb_img_path: /images/untitled-design.png
-img_path: /images/untitled-design.png
+img_path: /images/750-by-500.png
 template: post
 ---
 People don’t commit when they first click on a PPC Ads. According to [a study on ecommerce sites](https://moz.com/blog/ecommerce-benchmark-kpi-study-2017), the conversion rate is just 1.6 percent. To keep your value proposition continuously at the front and center in the minds of your customers, re-marketing is essential. 
