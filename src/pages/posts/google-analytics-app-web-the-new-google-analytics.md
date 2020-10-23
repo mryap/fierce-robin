@@ -40,9 +40,13 @@ Google official line is
 
 When I was hired for web analytics project, I always set up Google Analytics App+Web together with Google Analytics.
 
-## Hire with Confidence
+## Force multiplication
 
-You can access and manipulate the data stored in Google BigQuery using Python and R. These 2 languages make it easier to build a statistical model which can be used for various purposes – understanding customers’ in-app behavior, predicting the churn rate, etc. I being up to speed with Google BigQuery since 2019. 
+A feature of GA4 I am excited about is BigQuery Export.  BigQuery export opens up the availability to export all the raw, un-sampled Google Analytics data. This allows business with advanced analytics requirements like integrating with other datasets such as CRM, external third-party data access to a datawarehouse without dedicated IT department. 
+
+With data stored in the cloud, you can access and manipulate data in Google BigQuery with Python and R. These 2 languages make it easier to build a statistical model which can be used for various purposes – understanding customers’ in-app behavior, predicting the churn rate, etc. 
+
+I being up to speed with Google BigQuery since 2019. Hire me with confidence. 
 
 https://www.qwiklabs.com/public_profiles/fdf93c0d-bc8b-4952-b7fe-1dade1d6e917
 
