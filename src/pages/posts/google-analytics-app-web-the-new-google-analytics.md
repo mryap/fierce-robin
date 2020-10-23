@@ -32,30 +32,6 @@ I read all the blog post out there on Google Analytics 4 (GA4). Here my summary
 * Google Data Studio has a direct connector into your GA4 property. No need to go through [BigQuery ](https://www.testandoptimize.com/posts/2019-03-18-things-to-know-about-bigquery/)to get your unsampled data into your data visualization tool
 * With Google Analytics 4, the old tracking code (analytics.js) is no longer supported, only GA4 and gtag.js are supported going forward.
 
-Here what [Search Engine Land](https://searchengineland.com/google-analytics-4-adds-new-integrations-with-ads-ai-powered-insights-and-predictions-342048?utm_source=testandoptimize.com&utm_medium=social&utm_campaign=split-test-2020) said abut the new Google Analytics
-
-* New AI-powered insights and predictions
-* Deeper audiences integration with Google Ads
-* Customer lifecycle-framed reporting (my favourite)
-* Codeless Event tracking
-* More granular user data controls 
-
-## BigQuery Export
-
-A functional feature of Google Analytics App+Web is BigQuery Export. 
-
-BigQuery export opens up the availability to export all the raw, unsampled Google Analytics data. This allows SME business deal with advanced Google Analytics needs like getting unsampled reports, connecting with reporting/visualization platforms or integrating with other datasets like your CRM
-
-Previously, this BigQuery Export feature was only available in paid Google Analytics 360 (USD 150,000 per year).
-
-## Data Sampling in Google Analytics
-
-Google Analytics is a must have for every business in the beginning, but as your business grows you need more flexibility and customization, because Google Analytics may give you inaccurate data.
-
-When your data is too large, instead of utilizing all of the data available, Google Analytics uses data sampling and shows you an incomplete traffic data set.
-
-In data analysis, sampling is the practice of analyzing a subset of all data in order to uncover the meaningful information in the larger data set. Data sampling is a method and approach that available to Data analyst in their daily work.
-
 ## What about Google Analytics?
 
 Google official line is
