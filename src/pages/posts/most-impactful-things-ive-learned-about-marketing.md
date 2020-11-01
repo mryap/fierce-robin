@@ -3,14 +3,14 @@ title: Most impactful things I've learned about Marketing
 subtitle: "Positioning: it’s what a well defined set of buyers care about."
 date: 2020-11-01T14:05:55.787Z
 thumb_img_path: /images/61ncg5hby6l.jpg
-img_path: /images/61ncg5hby6l.jpg
+img_path: ""
 template: post
 ---
-
-
 <!--StartFragment-->
 
 Positioning is about context setting. April Dunford, the author of the book 'Obviously Awesome' has fixed the positioning importance in marketing.
+
+![](/images/61ncg5hby6l.jpg)
 
 <!--EndFragment-->
 
