@@ -1,12 +1,19 @@
 ---
 title: Most impactful things I've learned about Marketing
+subtitle: "Positioning: it’s what a well defined set of buyers care about."
 date: 2020-11-01T14:05:55.787Z
 thumb_img_path: /images/61ncg5hby6l.jpg
 template: post
 ---
-Positioning: it’s what a well defined set of buyers care about.
 
- **Control your own positioning and narrative and not leave it up to customers to do for you.** Specific words, names, and category you use to define your products will trigger assumptions in the mind of your prospects.  Those assumptions are either going to make it really easy or really hard to close deals. So chose them purposefully, and don't mess them up!
+
+<!--StartFragment-->
+
+Positioning is about context setting. April Dunford, the author of the book 'Obviously Awesome' has fixed the positioning importance in marketing.
+
+<!--EndFragment-->
+
+**Control your own positioning and narrative and not leave it up to customers to do for you.** Specific words, names, and category you use to define your products will trigger assumptions in the mind of your prospects.  Those assumptions are either going to make it really easy or really hard to close deals. So chose them purposefully, and don't mess them up!
 
 What’s “obviously” awesome is not so obvious unless you know what to look for. And how to look for it. You need to be in customer context. Let’s say Salesforce launched a CRM in 2000.
 
@@ -36,4 +43,4 @@ Her practical ideas on how to test positioning in B2B.
 
 <!--EndFragment-->
 
-Positioning is about context setting. April, the author has fixed the positioning importance in marketing
+Positioning is about context setting. Positioning: it’s what a well defined set of buyers care about. April has fixed the positioning importance in marketing.
