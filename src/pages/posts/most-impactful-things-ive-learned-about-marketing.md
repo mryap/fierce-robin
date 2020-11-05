@@ -26,7 +26,7 @@ No matter what, you can and should always find a way to position yourself as the
 
 <!--StartFragment-->
 
-Competitors and competitive alternatives are not the same thing. Need to consider the full spectrum of what your audience would do if you didn’t exist. Not just who you think you most directly compete with in your space.
+Competitors and competitive alternatives are not the same thing. Need to consider the full spectrum of what your audience would do if you didn’t exist. Not just who you think you most directly compete with in your space. Great positioning gives customers a way to think about the entire market (not just you).
 
 There are "consideration" and "retention" attributes and you should concentrate on the former.
 
