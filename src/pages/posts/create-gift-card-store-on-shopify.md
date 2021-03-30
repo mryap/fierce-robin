@@ -14,7 +14,7 @@ How a gift card store can help?
 3. You will maintain a list of gift cards to be redeemed at a later date
 4. You can choose later how the gift cards will be redeemed
 
-Gift cards only works if you being trading for quite sometime. Your customers being buying from you before the crisis. There is credability and good  being generated. If not, I think it will be a hard sell to roll out a giftcard for your fledgling business. 
+Gift cards only works if you being trading for quite sometime. Your customers being buying from you before the crisis. There is credibility and good will  being generated. If not,  it will be a hard sell to roll out a giftcard for your fledgling business. 
 
 Click on “Select a Plan”.
 
