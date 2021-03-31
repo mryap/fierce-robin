@@ -16,6 +16,8 @@ How a gift card store can help?
 
 Gift cards only works if you being trading for quite sometime. Your customers being buying from you before the crisis. There is credibility and good will  being generated. If not,  it will be a hard sell to roll out a giftcard for your fledgling business. 
 
+Creating gift card store on shopify does not inolve customizing the eCommerce platform back-end using Liquid (Shopify's coding language) and you can do it without developer help. 
+
 Click on “Select a Plan”.
 
 <!--StartFragment-->
