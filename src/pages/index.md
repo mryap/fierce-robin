@@ -36,7 +36,7 @@ sections:
 
 
           When we talk conversion, we are paying attention to your entire business so we don’t miss something important that could lead to huge boosts in income or devastating losses
-        image: /images/es3h7gfxkaatyv7.png
+        image: /images/es3h7gfxkaatyv7-1_e8297efae18d8c629a4bdc448f1d28ad.png
         title: Holistic View
       - actions: []
         content: It’s important to select the right kind of test, and determine which
@@ -48,7 +48,7 @@ sections:
           the A/B test is not due to coincidence. I minimize the chance that
           you’ll come to an unwise conclusion and help make important decisions
           in a risk-controlled manner.
-        image: /images/annotation-2020-03-11-232904.png
+        image: /images/annotation-2020-03-11-232904_9bb8debe1fb94a6b48e340bcf91f1923-1.png
         title: "Confidence in your tests "
     section_id: features
     subtitle: ""
