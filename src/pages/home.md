@@ -3,17 +3,9 @@ title: Home
 sections:
   - type: section_content
     bg: null
-    content: >-
-      * Validate new design or change from existing traffic
-
-      * Gain new insights into customer behaviour
-
-      * Minimal Support from your IT and Designer
-
-
-      I help organizations determine what causes visitors to leave their site without taking action, identify areas of improvement.
-    title: Transform Businesses through Experimentation
-    image: /images/hero.png
+    content: "## without more advertising"
+    title: Increase sales, AOV, sign up
+    image: ""
     actions: []
   - bg: white
     featureslist:
