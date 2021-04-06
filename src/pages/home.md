@@ -5,7 +5,7 @@ sections:
     bg: null
     content: "## without more advertising"
     title: Increase sales, AOV, sign up
-    image: ""
+    image: https://ucarecdn.com/322c20ef-b515-460f-90f7-36ce324f5f3c/austindistel744oGeqpxPQunsplash.jpg
     actions: []
   - bg: white
     featureslist:
