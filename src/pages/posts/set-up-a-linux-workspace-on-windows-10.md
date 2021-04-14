@@ -43,8 +43,20 @@ explorer.exe .
 
 ![](/images/screenshot-2021-04-14-132452.png "In the familiar Window Explorer, you should see those highlighted files and folders. ")
 
-In the familiar Window Explorer, you should see those highlighted files and folders.  THis means that Ubuntu environment  running on top of the Windows Subsystem for Linux.  <!--StartFragment-->
+In the familiar Window Explorer, you should see those highlighted files and folders.  This means that Ubuntu environment  running on top of the Windows Subsystem for Linux.  <!--StartFragment-->
 
-You can now move files from Windows folders into this new networked folder. We’ll be able to access it from our WSL and interact with it as if it were still in the same Windows files. The way to create new folder in this Linxu environment, type 
+You can now move files from Windows folders into this new networked folder. We’ll be able to access it from our WSL and interact with it as if it were still in the same Windows files. 
+
+The way to create new folder in this Linxu environment, type (instead of point and click) 
+
+```
+mkdir helloWorld && cd helloWorld
+echo 'print("hello from python on ubuntu on windows!")' >> hello.py
+python3 hello.py 
+```
+
+
+
+
 
 <!--EndFragment-->
