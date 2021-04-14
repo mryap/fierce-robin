@@ -2,9 +2,9 @@
 title: Pricing
 sections:
   - type: section_pricing
-    section_id: pricing
+    section_id: ""
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: ""
     bg: gray
     pricingplans:
       - title: First Test
