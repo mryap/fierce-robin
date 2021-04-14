@@ -3,6 +3,7 @@ title: Set-up Linux workspace on Windows 10
 subtitle: How I do it
 date: 2021-04-14T11:57:28.607Z
 thumb_img_path: /images/screenshot-2021-04-14-125854.png
+excerpt: No bloated virtual machines or dual-booting require
 template: post
 ---
 <!--StartFragment-->
