@@ -91,7 +91,7 @@ sections:
           <!--EndFragment-->
 menus:
   main:
-    title: Pricing
+    title: ""
     weight: ""
 template: landing
 ---
