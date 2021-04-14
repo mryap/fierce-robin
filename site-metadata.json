@@ -1,10 +1,10 @@
 {
   "title": "Test & Optimize",
-  "palette": "green",
+  "palette": null,
   "header": {
     "title": "Test & Optimize",
     "logo_img": "",
-    "has_nav": true,
+    "has_nav": false,
     "menu": {
       "actions": [
         {
