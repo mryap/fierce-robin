@@ -65,8 +65,8 @@ In a remote Linux environment (this WSL Ubuntu is technically another machine wi
 
 <!--EndFragment-->
 
-\### What Next? 
+What Next? 
 
-Network Isn’t [localhost](http://localhost) yet.  If you are building an application (NodeJS or SQL server) , normally you would be able to check on your application right in your favourite browser using  `localhost` (<http://localhost:8000/>).
+Network Isn’t [localhost](http://localhost) yet.  If you are building an application (NodeJS or SQL server) , normally you would be able to check on your application right in your favourite browser using  `localhost` (<http://localhost:8000/>). In order for that to happen, check out [MS Accessing network applications](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#accessing-network-applications) or install [Docker for Desktop](https://andrewlock.net/installing-docker-desktop-for-windows/#installing-docker-desktop-for-windows)
 
 <!--EndFragment-->
