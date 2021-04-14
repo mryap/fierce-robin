@@ -9,7 +9,7 @@ template: post
 
 The [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about) is a way to run a full Linux environment on Windows PC, without having to install a virtual machine, such as Virtual Box, VM Ware, or Hyper-V.
 
-I learn that enabling 'Turn Windows features on and off' and tick the box next to Windows Subsystem for Linux is the first step. It will not gives you the WSL 2.  I need to download [the WSL2 Linux kernel update package for x64 machines](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi) and install it. 
+I learn that enabling 'Turn Windows features on and off' and tick the box next to Windows Subsystem for Linux is the first step. It will not gives you the WSL 2.  I need to download [the WSL2 Linux kernel update package ](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi) and install it. 
 
 ![](/images/windows-features.png)
 
@@ -67,6 +67,6 @@ In a remote Linux environment (this WSL Ubuntu is technically another machine wi
 
 What Next? 
 
-Network Isn’t [localhost](http://localhost) yet.  If you are building an application (NodeJS or SQL server) , normally you would be able to check on your application right in your favourite browser using  `localhost` (<http://localhost:8000/>). In order for that to happen, check out [MS Accessing network applications](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#accessing-network-applications) or install [Docker for Desktop](https://andrewlock.net/installing-docker-desktop-for-windows/#installing-docker-desktop-for-windows)
+Network Isn’t [localhost](http://localhost) yet.  If you are building an application (NodeJS or SQL server), normally you would be able to check on your application right in your favourite browser using  `localhost` (<http://localhost:8000/>). In order for that to happen, check out [MS Accessing network applications](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#accessing-network-applications) or install [Docker for Desktop](https://andrewlock.net/installing-docker-desktop-for-windows/#installing-docker-desktop-for-windows)
 
 <!--EndFragment-->
