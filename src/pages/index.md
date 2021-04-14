@@ -3,20 +3,14 @@ title: Home
 sections:
   - type: section_content
     bg: gray
-    content: >-
-      Build online success with Digital Analytics and a/B testing.  
-
+    content: |-
+      without spending more on advertising
 
       * Validate new design or change from existing traffic
-
       * Gain new insights into customer behaviour
-
       * Minimal Support from IT and Designer
-
-
-      I am Yap. Hire me to transform your business with Analytics, A/B Testing and Machine Learning
-    title: Turn clicks into profit
-    image: /images/screenshot_2020-10-15-blogpost-featured-images-800-by-450.png
+    title: "Increase Sales, AOV, Sign up "
+    image: https://res.cloudinary.com/mryap/image/upload/v1617710793/austin-distel-744oGeqpxPQ-unsplash.jpg
     actions:
       - label: Read My Blog
         url: /blog
