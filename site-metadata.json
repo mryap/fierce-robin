@@ -4,7 +4,7 @@
   "header": {
     "title": "Test & Optimize",
     "logo_img": "",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": [
         {
