@@ -28,3 +28,19 @@ python3 --version
 ```
 
 <!--EndFragment-->
+
+You can see that the set-up will occupy a place in your PC hard-drive as folder. This is to be expected. Fresh from the set-up in Ubuntu, type
+
+```
+# find the home folder
+
+cd ~
+
+# open up windows explorer for this folder
+
+explorer.exe .
+```
+
+
+
+![](/images/screenshot-2021-04-14-132452.png "In the familiar Window Explorer, you should see those highlighted files and folders. ")
