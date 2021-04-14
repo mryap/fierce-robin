@@ -104,7 +104,7 @@ sections:
     type: section_posts
 menus:
   main:
-    title: Home
+    title: ""
     weight: ""
 template: landing
 ---
