@@ -39,19 +39,7 @@ cd ~
 explorer.exe .
 ```
 
-![](/images/screenshot-2021-04-14-132452.png "In the familiar Window Explorer, you should see those highlighted files and folders. ")
 
-
-
-```
-
-```
-
-
-
-```
-
-```
 
 ![](/images/screenshot-2021-04-14-132452.png "In the familiar Window Explorer, you should see those highlighted files and folders. ")
 
