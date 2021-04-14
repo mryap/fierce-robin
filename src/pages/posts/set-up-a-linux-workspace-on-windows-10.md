@@ -69,4 +69,6 @@ What Next?
 
 Network Isn’t [localhost](http://localhost) yet.  If you are building an application (NodeJS or SQL server), normally you would be able to check on your application right in your favourite browser using  `localhost` (<http://localhost:8000/>). In order for that to happen, check out [MS Accessing network applications](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#accessing-network-applications) or install [Docker for Desktop](https://andrewlock.net/installing-docker-desktop-for-windows/#installing-docker-desktop-for-windows)
 
+Alternatively, you can also set-up a [Linux Desktop environment ](https://www.testandoptimize.com/posts/set-up-and-launch-linux-gui-on-windows-10/)
+
 <!--EndFragment-->
