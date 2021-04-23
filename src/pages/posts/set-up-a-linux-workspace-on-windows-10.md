@@ -42,8 +42,6 @@ cd ~
 explorer.exe .
 ```
 
-
-
 ![](/images/screenshot-2021-04-14-132452.png "In the familiar Window Explorer, you should see those highlighted files and folders. ")
 
 In the familiar Window Explorer, you should see those highlighted files and folders.   <!--StartFragment-->
@@ -73,3 +71,7 @@ Network Isn’t [localhost](http://localhost) yet.  If you are building an appli
 Alternatively, you can also set-up a [Linux Desktop environment ](https://www.testandoptimize.com/posts/set-up-and-launch-linux-gui-on-windows-10/)
 
 <!--EndFragment-->
+
+Conclusion
+
+WSL lets you run a Linux environment -- including command-line tools and applications -- directly on Windows, without the overhead of a traditional virtual machine or dualboot setup.  WSL helps web developers and those working with Bash and Linux-first tools (i.e. Ruby, Python) to use their toolchain on Windows and ensure consistency between development and production environments.  When you install a version of Linux on Windows, you’re getting a full Linux environment. It's isolated from Windows- the UI is the terminal, and you can install tools, languages, and compilers into the Linux environment without modifying or disrupting your Windows installation.
