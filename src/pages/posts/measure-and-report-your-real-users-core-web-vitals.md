@@ -1,5 +1,7 @@
 ---
 title: "Measure and report your real-users Core Web Vitals "
+subtitle: Google has announced that Core Web Vitals will become a ranking factor
+  as of mid-June 2021.
 date: 2021-04-23T07:27:14.486Z
 template: post
 ---
@@ -11,7 +13,9 @@ It serve as a proxies to measure the quality of a site’s user experience. They
 
 ![](https://13abu1tovy91hmtpm1t25cse-wpengine.netdna-ssl.com/wp-content/uploads/core-web-vitals.jpg "Image from the Google Search Central blog")
 
-Google has announced that Core Web Vitals will become a ranking factor as of mid-June 2021.  
+You can access these metrics within Google Search Console at https://search.google.com/search-console/core-web-vitals/
+
+![](/images/screenshot_2021-04-28-core-web-vitals.png)
 
 <!--EndFragment-->
 
