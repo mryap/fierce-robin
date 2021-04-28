@@ -7,9 +7,7 @@ template: post
 ---
 Website site owners can measure the quality of their site’s user experience with a set of metrics called *Core Web Vitals.*
 
-It serve as a proxies to measure the quality of a site’s user experience. They are Largest ContentFul Paint (loading), First Input Delay (interactivity) and Cumulative Layout Shift (visual stability). Here the thresholds websites need to meet.
-
-
+It serve as a proxies to measure the quality of a site’s user experience. They are Largest ContentFul Paint (loading), First Input Delay (interactivity) and Cumulative Layout Shift (visual stability). 
 
 ![](https://13abu1tovy91hmtpm1t25cse-wpengine.netdna-ssl.com/wp-content/uploads/core-web-vitals.jpg "Image from the Google Search Central blog")
 
@@ -61,3 +59,7 @@ getLCP(sendToGoogleAnalytics);
 \- you should be able to view the web page's Core Web Vitals in the Top Events report in Analytics as you see in this screenshot:
 
 ![Web page's Core Web Vitals in the Top Events report in Analytics](/images/screenshot_2021-04-23-measure-and-report-core-web-vitals-with-the-web-vitals-library.png)
+
+Here the thresholds websites need to meet. 
+
+![](/images/e0ekjttxoaimzin.png)
