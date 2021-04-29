@@ -73,3 +73,7 @@ getLCP(sendToGoogleAnalytics);
 Here the thresholds websites need to meet. 
 
 ![](/images/e0ekjttxoaimzin.png)
+
+Inf you want to send the Core Web Vitals metircs to Google Analytics using Google Tag Manager, please [contact me](https://www.testandoptimize.com/contact)
+
+<!--EndFragment-->
