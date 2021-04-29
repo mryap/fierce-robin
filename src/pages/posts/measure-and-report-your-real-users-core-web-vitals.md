@@ -3,6 +3,7 @@ title: "Measure and report your real-users Core Web Vitals "
 subtitle: Google has announced that Core Web Vitals will become a ranking factor
   as of mid-June 2021.
 date: 2021-04-23T07:27:14.486Z
+img_path: /images/e0ekjttxoaimzin.png
 template: post
 ---
 Website site owners can measure the quality of their site’s user experience with a set of metrics called *Core Web Vitals.*
