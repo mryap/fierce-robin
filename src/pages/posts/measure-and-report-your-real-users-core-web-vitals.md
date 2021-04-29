@@ -17,6 +17,16 @@ You can access these metrics within Google Search Console at https://search.goog
 
 <!--EndFragment-->
 
+**Incorporate core web vitals into Google Analytics.**
+
+<!--StartFragment-->
+
+Google has begun to incorporate these metrics into a variety of different tools such as [Page Insights](https://developers.google.com/speed/pagespeed/insights/) and Search Console.  The [Page Insights](https://developers.google.com/speed/pagespeed/insights/) tool provides results  based on software checks. Collecting vitals from real users provides data “in the field” which can be more relevant
+
+Sending these metrics to Google Analytics using the [web-vitals JavaScript library](https://github.com/GoogleChrome/web-vitals/) is straight forward. Note that capturing web vitals will only work on Chromium-based browsers (for the most part) as described [here](https://github.com/GoogleChrome/web-vitals/#browser-support).
+
+<!--EndFragment-->
+
 \- Add the web-vitals library to a web page
 
 ```
@@ -56,7 +66,7 @@ getFID(sendToGoogleAnalytics);
 getLCP(sendToGoogleAnalytics);
 ```
 
-\- you should be able to view the web page's Core Web Vitals in the Top Events report in Analytics as you see in this screenshot:
+\- You should be able to view the web page's Core Web Vitals in the Top Events report in Analytics as you see in this screenshot:
 
 ![Web page's Core Web Vitals in the Top Events report in Analytics](/images/screenshot_2021-04-23-measure-and-report-core-web-vitals-with-the-web-vitals-library.png)
 
