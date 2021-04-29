@@ -3,7 +3,8 @@ title: "Measure and report your real-users Core Web Vitals "
 subtitle: Google has announced that Core Web Vitals will become a ranking factor
   as of mid-June 2021.
 date: 2021-04-23T07:27:14.486Z
-img_path: /images/e0ekjttxoaimzin.png
+thumb_img_path: /images/e0ekjttxoaimzin.png
+img_path: ""
 template: post
 ---
 Website site owners can measure the quality of their site’s user experience with a set of metrics called *Core Web Vitals.*
@@ -75,6 +76,6 @@ Here the thresholds websites need to meet.
 
 ![](/images/e0ekjttxoaimzin.png)
 
-Inf you want to send the Core Web Vitals metircs to Google Analytics using Google Tag Manager, please [contact me](https://www.testandoptimize.com/contact)
+If you want to send the Core Web Vitals metrics to Google Analytics using Google Tag Manager, please [contact me](https://www.testandoptimize.com/contact)
 
 <!--EndFragment-->
