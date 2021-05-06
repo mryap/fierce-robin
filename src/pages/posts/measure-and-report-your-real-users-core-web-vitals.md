@@ -6,7 +6,7 @@ date: 2021-04-23T07:27:14.486Z
 thumb_img_path: /images/e0ekjttxoaimzin.png
 img_path: ""
 excerpt: Traditional site speed metrics alone don’t always tell the whole story
-  of page load.  Core Web Vitals offers a more nuanced metrics that can help to
+  of page load. Core Web Vitals offers a more nuanced metrics that can help to
   tell how users actually perceive the loading of a page.
 template: post
 ---
@@ -81,7 +81,7 @@ Here the thresholds websites need to meet.
 
 Mobile and desktop scores may differ significantly. It being recommend to run separate audits for desktop and mobile.
 
-
+According to research by Akamai, users expect websites to load in 3 seconds or less. It helps to keep an eye on these 3 core web metrics vitals. Now you can incorporate these new more nuanced metrics in Google Analytics that can help to tell how users actually perceive the loading of a page.
 
 If you want to send the Core Web Vitals metrics to Google Analytics using Google Tag Manager, please [contact me](https://www.testandoptimize.com/contact)
 
