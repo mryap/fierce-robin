@@ -5,6 +5,9 @@ subtitle: Google has announced that Core Web Vitals will become a ranking factor
 date: 2021-04-23T07:27:14.486Z
 thumb_img_path: /images/e0ekjttxoaimzin.png
 img_path: ""
+excerpt: Traditional site speed metrics alone don’t always tell the whole story
+  of page load.  Core Web Vitals offers a more nuanced metrics that can help to
+  tell how users actually perceive the loading of a page.
 template: post
 ---
 Website site owners can measure the quality of their site’s user experience with a set of metrics called *Core Web Vitals.*
