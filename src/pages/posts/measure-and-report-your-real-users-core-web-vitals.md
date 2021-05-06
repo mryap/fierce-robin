@@ -79,6 +79,10 @@ Here the thresholds websites need to meet.
 
 ![](/images/e0ekjttxoaimzin.png)
 
+Mobile and desktop scores may differ significantly. It being recommend to run separate audits for desktop and mobile.
+
+
+
 If you want to send the Core Web Vitals metrics to Google Analytics using Google Tag Manager, please [contact me](https://www.testandoptimize.com/contact)
 
 <!--EndFragment-->
