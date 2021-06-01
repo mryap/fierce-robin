@@ -3,7 +3,7 @@ title: Mindful of Your Parameter URLs
 date: 2021-06-01T10:26:33.109Z
 template: post
 ---
-The most common use cases for parameters are:
+The most common types of URL parameters are:
 
 * **Tracking** –  ?utm_medium=social, ?sessionid=123 or ?affiliateid=abc
 * **Reordering** –  ?sort=lowest-price, ?order=highest-rated or ?so=newest
