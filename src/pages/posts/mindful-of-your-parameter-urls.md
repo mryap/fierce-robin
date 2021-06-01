@@ -1,11 +1,17 @@
 ---
 title: Mindful of Your Parameter URLs
+subtitle: URL Parameters are also known as a Query String or URL Variable. A URL
+  Parameter is a set of values appended to a URL preceded with a question mark.
 date: 2021-06-01T10:26:33.109Z
+excerpt: URL Parameters are also known as a Query String or URL Variable. A URL
+  Parameter is a set of values appended to a URL preceded with a question mark.
 template: post
 ---
+URL Parameters are also known as a Query String or URL Variable. A URL Parameter is a set of values appended to a URL preceded with a question mark.
+
 The most common types of URL parameters are:
 
-* **Tracking** –  ?utm_medium=social, ?sessionid=123 or ?affiliateid=abc
+* **Tracking** (UTM are common parameters for marketing campaigns) –  ?utm_medium=social, ?sessionid=123 or ?affiliateid=abc
 * **Reordering** –  ?sort=lowest-price, ?order=highest-rated or ?so=newest
 * **Filtering** –  ?type=widget, colour=blue or ?price-range=20-50
 * **Identifying** – ?product=small-blue-widget, categoryid=124 or itemid=24AU
