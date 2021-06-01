@@ -7,8 +7,6 @@ excerpt: URL Parameters are also known as a Query String or URL Variable. A URL
   Parameter is a set of values appended to a URL preceded with a question mark.
 template: post
 ---
-URL Parameters are also known as a Query String or URL Variable. A URL Parameter is a set of values appended to a URL preceded with a question mark.
-
 The most common types of URL parameters are:
 
 * **Tracking** (UTM are common parameters for marketing campaigns) –  ?utm_medium=social, ?sessionid=123 or ?affiliateid=abc
@@ -20,15 +18,12 @@ The most common types of URL parameters are:
 * **Translating** – ?lang=fr, ?language=de or
 
 ### Problem with URL Parameters
+
 Parameter URLs are all well and good until they’re hit by a ton of traffic and become a nuisance. This inundation of traffic can result in reports hundreds of pages long.  
 
-If you know that certain parameter URLs should not be tracked, filter them out of your Google Analytics reports.  
+If you know that certain parameter URLs should not be tracked,[ filter them out of your Google Analytics reports](https://www.searchdiscovery.com/blog/url-query-parameters-in-ga/).  
 
 By filtering out parameter URLs where they make sense, you improve the accuracy of your tracking and create better attribution models for your search traffic.
-
-[How To Exclude URL Query Parameters in Google Analytics](https://www.bounteous.com/insights/2020/05/15/excluding-url-query-parameters-google-analytics/)
-
-
 
 <!--StartFragment-->
 
@@ -51,6 +46,7 @@ learn how to configure URL parameters in Google Search Console, rather than lett
 use server-side URL rewrites to convert parameters into subfolder URLs.
 
 <!--EndFragment-->
+
 ### Plan of for SEO-friendly parameter handling
 
 Jes Scholz, Group CMO at Ringier suggest the following approach:
