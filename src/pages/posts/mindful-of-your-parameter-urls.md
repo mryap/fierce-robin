@@ -13,11 +13,16 @@ The most common use cases for parameters are:
 * **Searching** –  ?query=users-query, ?q=users-query or ?search=drop-down-option
 * **Translating** – ?lang=fr, ?language=de or
 
+### Problem with URL Parameters
 Parameter URLs are all well and good until they’re hit by a ton of traffic and become a nuisance. This inundation of traffic can result in reports hundreds of pages long.  
 
 If you know that certain parameter URLs should not be tracked, filter them out of your Google Analytics reports.  
 
 By filtering out parameter URLs where they make sense, you improve the accuracy of your tracking and create better attribution models for your search traffic.
+
+[How To Exclude URL Query Parameters in Google Analytics](https://www.bounteous.com/insights/2020/05/15/excluding-url-query-parameters-google-analytics/)
+
+
 
 <!--StartFragment-->
 
@@ -38,7 +43,5 @@ learn how to configure URL parameters in Google Search Console, rather than lett
 <!--StartFragment-->
 
 use server-side URL rewrites to convert parameters into subfolder URLs.
-
-
 
 <!--EndFragment-->
