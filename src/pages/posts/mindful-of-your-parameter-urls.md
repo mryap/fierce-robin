@@ -45,3 +45,13 @@ learn how to configure URL parameters in Google Search Console, rather than lett
 use server-side URL rewrites to convert parameters into subfolder URLs.
 
 <!--EndFragment-->
+### Plan of for SEO-friendly parameter handling
+
+Jes Scholz, Group CMO at Ringier suggest the following approach:
+
+* Do keyword research to understand what parameters should be search engine friendly, static URLs.
+* Implement correct pagination handling with rel=”next & rel=”prev”.
+* For all remaining parameter-based URLs, implement consistent ordering rules, which use keys only once and prevent empty values to limit the number of URLs.
+* Add a rel=canonical link attribute to suitable parameter pages to combine ranking ability.
+* Configure URL parameter handling in both Google and Bing as a failsafe to help search engines understand each parameter’s function.
+* Double check that no parameter-based URLs are being submitted in the XML sitemap.
