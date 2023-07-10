@@ -1,0 +1,47 @@
+{
+  "title": "Test & Optimize",
+  "palette": "green",
+  "header": {
+    "title": "Test & Optimize",
+    "logo_img": "",
+    "has_nav": true,
+    "menu": {
+      "actions": [
+        {
+          "label": "Contact",
+          "url": "/contact"
+        }
+      ]
+    }
+  },
+  "social_links": [
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/testandoptimize",
+      "new_window": true
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/",
+      "new_window": true
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "new_window": true
+    }
+  ],
+  "footer": {
+    "subscribe_title": "Learn More",
+    "subscribe_content": "Find out how I achieve 47% website sign­up with A/B test. ",
+    "has_subscribe": true,
+    "social_title": "Let Connect",
+    "tagline": "Digital Analyst helping organizations adapt, survive, and grow online with Analytics, Insight, and A/B Testing.",
+    "logo_img": "/images/qfdudw6_dp6dvmnlqvby1ooeo-2dqkpqh1byudcemii-.jpg",
+    "has_social": true,
+    "content": "&copy; Test & Optimize. All rights reserved.",
+    "links": [],
+    "nav_title": "Test & Optimize",
+    "has_nav": false
+  }
+}

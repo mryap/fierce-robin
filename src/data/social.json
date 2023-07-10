@@ -1,0 +1,18 @@
+{
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "url": "https://twitter.com/testandoptimize"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ssyap/"
+    },
+    {
+      "url": "/contact",
+      "title": "Hear from You"
+    }
+  ]
+}
