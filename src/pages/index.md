@@ -10,7 +10,7 @@ sections:
       * Gain new insights into customer behaviour
       * Minimal Support from IT and Designer
     title: "Increase Sales, AOV, Sign up "
-    image: https://res.cloudinary.com/mryap/image/upload/v1617710793/austin-distel-744oGeqpxPQ-unsplash.jpg
+    image: ""
     actions:
       - label: Read My Blog
         url: /blog
